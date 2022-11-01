@@ -47,9 +47,20 @@
 </div>
 </td><td valign="top" width="100%">
 
-## My Github Repositories
+<!-- align="center">Projects that I Love</div> -->
+<!-- make title "Projects I Love" and center it -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&show_owner=true)](
+
+<!-- how do I center the readme cards? -->
+<div align="center">
+<h1> Projects that I Love </h1>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&show_owner=true)](https://github.com/grahamwaters/lorebook_generator)
+
+<!-- add pybuoy repo to the right of the card above -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=pybuoy&show_owner=true)](https://github.com/grahamwaters/PyBuoy)
+<div>
+
 <!-- set the font size for the table -->
 <!-- ## Table of Contents -->
 <!-- * [About the Project](#about-the-project) -->
