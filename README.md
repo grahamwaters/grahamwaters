@@ -7,7 +7,7 @@ Machine Learning Researcher and Data Scientist
 
 *   🌍  I'm based in Austin, Texas
 
-- 🔭 I’m currently working on [NovelAI - Lorebook Generation] for authors that are jumpstarting their productivity with machine learning.(https://github.com/grahamwaters/lorebook_generator_for_novelai.git)
+- 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
 
 
 - 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn.
