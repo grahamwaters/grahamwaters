@@ -6,7 +6,7 @@
 
 
 
-### <div align="center">I'm Graham, a full-time, data science and ML freelance developer 👨‍💻 working remotely since 2021 🚀</div>
+### <div align="center">I'm Graham, a full-time, data scientist and ML freelance developer 👨‍💻 working remotely since 2021 🚀</div>
 
 
 - 🔭 I’m currently working on [NovelAI - Lorebook Generation] for authors that are jumpstarting their productivity with machine learning.(https://github.com/grahamwaters/lorebook_generator_for_novelai.git)
