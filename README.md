@@ -37,6 +37,7 @@ href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herok
 
 <img src="https://raw.githubusercontent.com/gist/deepakbhamla/acd63578b13556b01c3fa9a663e643f5/raw/7fdb456c84df6d70294e673ecbde0420a5c366f8/hello.gif" align="center" style="width: 100%" /> -->
 </div>
+
 ## My Skill Set
 
 ### Languages and Frameworks
