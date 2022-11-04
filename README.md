@@ -27,7 +27,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=
 href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herokuapp.com/graph?username=grahamwaters&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/grahamwaters" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grahamwaters&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
-## <b>Top Repositories</b>
+## <b>Recent Work</b>
 <div width="100%" align="center"><a href="https://github.com/grahamwaters/lorebook_generator_for_novelai" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 <a href="https://github.com/grahamwaters/pybuoy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=pybuoy&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -37,13 +37,6 @@ href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herok
 
 <img src="https://raw.githubusercontent.com/gist/deepakbhamla/acd63578b13556b01c3fa9a663e643f5/raw/7fdb456c84df6d70294e673ecbde0420a5c366f8/hello.gif" align="center" style="width: 100%" /> -->
 </div>
-
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br/>
-
-
 ## My Skill Set
 
 ### Languages and Frameworks
@@ -66,17 +59,6 @@ href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herok
 
 <!-- align="center">Projects that I Love</div> -->
 <!-- make title "Projects I Love" and center it -->
-
-
-<!-- how do I center the readme cards? -->
-<div align="center">
-<h1> Projects that I Love </h1>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&show_owner=true)](https://github.com/grahamwaters/lorebook_generator)
-
-<!-- add pybuoy repo to the right of the card above -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=pybuoy&show_owner=true)](https://github.com/grahamwaters/PyBuoy)
-<div>
 
 
 
