@@ -12,9 +12,49 @@ I am a Machine Learning Researcher and Data Scientist
 - 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn.
 
 
-- ❓ Ask me about anything related to Python and related technologies, I'd love to chat.
+- ❓ Ask me about anything you'd like to know about Python or its related technologies, I'd love to chat.
 
 
+## Connect with me
+<div align="center">
+<a href="https://github.com/grahamwaters" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/grahamwatersdatascientist" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100060284643335" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/grahamwaters" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@grahamwaters" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/graham-waters" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/UC27RfPcNKJ3Jyaycg_4QhLQ" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://twitter.com/DataIsBusiness" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+</div>
+
+
+<!-- <br/>
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
+
+<br/> -->
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=grahamwaters&&style=flat-square" align="center" />
+
+
+</div>
 <br/>
 
 <a href="https://www.github.com/grahamwaters" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/grahamwaters?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
@@ -124,57 +164,6 @@ Many of these projects are still in a state of development. Please excuse our du
 <br/>
 
 
-## Connect with me
-<div align="center">
-<a href="https://github.com/grahamwaters" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/grahamwatersdatascientist" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100060284643335" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/grahamwaters" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@grahamwaters" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/graham-waters" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/UC27RfPcNKJ3Jyaycg_4QhLQ" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/https://twitter.com/DataIsBusiness" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div>
-
-
-<br/>
-
-
-## Recent Blog Posts
-
-
-### My Medium Contributions
-<!-- BLOG-POST-LIST:START -->
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
-<!-- BLOG-POST-LIST:END -->
-
-<!-- <br/>
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
-
-<br/> -->
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=grahamwaters&&style=flat-square" align="center" />
-
-
-</div>
 
 
 <br/>
