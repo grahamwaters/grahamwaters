@@ -1,8 +1,7 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Graham Waters
-=====================================================================================================================================
-
-Machine Learning Researcher and Data Scientist
+# Hello World!
+## My name is Graham Waters
+I am a Machine Learning Researcher and Data Scientist
 ----------------------------------------------
 
 *   🌍  I'm based in Austin, Texas
