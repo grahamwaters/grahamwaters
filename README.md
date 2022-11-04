@@ -66,7 +66,6 @@ href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herok
 # Data Analytics Projects
 | **Project Name** | **Topic** | **Focus** | **Destination Notebook** | **GitHub Link** |
 |---|---|---|---|---|
-
 | Medium Titles Analysis | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/medium_titles_analysis) |
 
 # Machine Learning Projects
