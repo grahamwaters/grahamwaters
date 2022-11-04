@@ -32,7 +32,7 @@ I am a Machine Learning Researcher and Data Scientist
 <a href="https://medium.com/@grahamwaters" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/graham-waters" target="_blank">
+<a href="https://stackoverflow.com/users/12801757/graham-waters)" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/UC27RfPcNKJ3Jyaycg_4QhLQ" target="_blank">
