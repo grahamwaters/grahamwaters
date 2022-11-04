@@ -66,18 +66,19 @@ href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herok
 # Data Analytics Projects
 | **Project Name** | **Topic** | **Focus** | **Destination Notebook** | **GitHub Link** |
 |---|---|---|---|---|
-| [**Medium Titles Analysis**](repo_summaries/medium_titles_analysis_master_page.ipynb) | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/medium_titles_analysis) |
+
+| Medium Titles Analysis | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/medium_titles_analysis) |
 
 # Machine Learning Projects
 
 
 | **Project Name** | **Topic** | **Focus** | **Destination Notebook** | **GitHub Link** |
 |---|---|---|---|---|
-| [**How Time Flies (VQGAN and CLIP)**](repo_summaries/howtimeflies_master_page.ipynb) | ML | Computer Vision | ML_ComputerVision_projects.ipynb | [link](https://github.com/grahamwaters/HowTimeFlies) |
+| How Time Flies (VQGAN and CLIP) | ML | Computer Vision | ML_ComputerVision_projects.ipynb | [link](https://github.com/grahamwaters/HowTimeFlies) |
 | **Shoot the Moon** | ML | Computer Vision | ML_ComputerVision_projects.ipynb | [link](https://github.com/grahamwaters/ShootTheMoon) |
-| [**Recursive ESRGAN**](repo_summaries/familyphotoresurrection_master_page.ipynb) | ML | Computer Vision | ML_ComputerVision_projects.ipynb | [link](https://github.com/grahamwaters/Recursive_ERSGAN_Enhancer) |
-| [**Lightning Prediction by Keyframe Analysis**](repo_summaries/lightning_prediction_master_page.ipynb) | ML | Classification | ML_ClassificationModeling.ipynb | [link](https://github.com/grahamwaters/lightning_prediction_byclassification) |
-| [**MediPy**](repo_summaries/medipy_master_page.ipynb) | ML | Classification | ML_ClassificationModeling.ipynb | [link](https://github.com/grahamwaters/MediPy) |
+| Recursive ESRGAN | ML | Computer Vision | ML_ComputerVision_projects.ipynb | [link](https://github.com/grahamwaters/Recursive_ERSGAN_Enhancer) |
+| Lightning Prediction by Keyframe Analysis | ML | Classification | ML_ClassificationModeling.ipynb | [link](https://github.com/grahamwaters/lightning_prediction_byclassification) |
+| MediPy | ML | Classification | ML_ClassificationModeling.ipynb | [link](https://github.com/grahamwaters/MediPy) |
 | **Autism versus OCD on Reddit** | ML | Classification | ML_ClassificationModeling.ipynb | None |
 
 # General Python Projects
@@ -85,17 +86,17 @@ href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herok
 
 | **Project Name** | **Topic** | **Focus** | **Destination Notebook** | **GitHub Link** |
 |---|---|---|---|---|
-| [**My Butler Jeeves**](repo_summaries/my_butler_jeeves_master_page.ipynb) | Python Gen. | Natural Language Processing | text_nlp_projects.ipynb | [link](https://github.com/grahamwaters/my_butler_jeeves) |
-| [**Disasters**](repo_summaries/disasters_master_page.ipynb) | Python Gen. | Natural Language Processing | text_nlp_projects.ipynb | [link](https://github.com/grahamwaters/DISASTERS) |
+| My Butler Jeeves | Python Gen. | Natural Language Processing | text_nlp_projects.ipynb | [link](https://github.com/grahamwaters/my_butler_jeeves) |
+| Disasters | Python Gen. | Natural Language Processing | text_nlp_projects.ipynb | [link](https://github.com/grahamwaters/DISASTERS) |
 | **Text Tester** | Python Gen. | Natural Language Processing | text_nlp_projects.ipynb | [link](https://github.com/grahamwaters/TextTester) |
-| [**WritersReach**](repo_summaries/writersreach_master_page.ipynb) | Python Gen. | Natural Language Processing | text_nlp_projects.ipynb | [link](https://github.com/grahamwaters/WritersReach) |
-| [**medium_extraction**](repo_summaries/medium_extraction_master_page.ipynb) | Python Gen. | Web Scraping | webscraping_projects.ipynb | [link](https://github.com/grahamwaters/medium_extraction) |
-| [**wikidrugs_adapted**](repo_summaries/wikidrugs_adapted_master_page.ipynb) | Python Gen. | Web Scraping | webscraping_projects.ipynb | [link](https://github.com/grahamwaters/wikidrugs_adapted) |
-| [**Coeus**](repo_summaries/coeus_master_page.ipynb) | Python Gen. | Web Scraping | webscraping_projects.ipynb | [link](https://github.com/grahamwaters/Coeus) |
-| [**EarToGround_Trading**](repo_summaries/eartoground_trading_master_page.ipynb) | Python Gen. | Web Scraping | webscraping_projects.ipynb | [link](https://github.com/grahamwaters/EarToGround_Trading) |
-| [**mappymatch**](repo_summaries/mappymatch_master_page.ipynb) | Python Gen. | Open Source Contributions | opensource_contributions.ipynb | [link](https://github.com/grahamwaters/mappymatch) |
-| [**lorebook_generator**](repo_summaries/lorebook_generator_for_novelai_master_page.ipynb) | Python Gen. | Open Source Contributions | opensource_contributions.ipynb | [link](https://github.com/grahamwaters/lorebook_generator) |
-| [**PyBuoy**](repo_summaries/pybuoy_master_page.ipynb) | Python Gen. | Open Source Contributions | opensource_contributions.ipynb | [link](https://github.com/grahamwaters/PyBuoy) |
+| WritersReach | Python Gen. | Natural Language Processing | text_nlp_projects.ipynb | [link](https://github.com/grahamwaters/WritersReach) |
+| medium_extraction | Python Gen. | Web Scraping | webscraping_projects.ipynb | [link](https://github.com/grahamwaters/medium_extraction) |
+| wikidrugs_adapted | Python Gen. | Web Scraping | webscraping_projects.ipynb | [link](https://github.com/grahamwaters/wikidrugs_adapted) |
+| Coeus | Python Gen. | Web Scraping | webscraping_projects.ipynb | [link](https://github.com/grahamwaters/Coeus) |
+| EarToGround_Trading | Python Gen. | Web Scraping | webscraping_projects.ipynb | [link](https://github.com/grahamwaters/EarToGround_Trading) |
+| mappymatch | Python Gen. | Open Source Contributions | opensource_contributions.ipynb | [link](https://github.com/grahamwaters/mappymatch) |
+| lorebook_generator | Python Gen. | Open Source Contributions | opensource_contributions.ipynb | [link](https://github.com/grahamwaters/lorebook_generator) |
+| PyBuoy | Python Gen. | Open Source Contributions | opensource_contributions.ipynb | [link](https://github.com/grahamwaters/PyBuoy) |
 | **pd-python-training (Flatiron School)** | Python Gen. | Open Source Contributions | opensource_contributions.ipynb | [link](https://github.com/grahamwaters/pd-python-training) |
 
 
@@ -103,16 +104,16 @@ href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herok
 
 | **Project Name** | **Topic** | **Focus** | **Destination Notebook** | **GitHub Link** |
 |---|---|---|---|---|
-| [**DisariumPy**](repo_summaries/disariumpy_master_page.ipynb) | Python Gen. | My Tools | my_tools.ipynb | [link](https://github.com/grahamwaters/DisariumPy) |
-| [**druginfoscraper**](repo_summaries/druginfo_scraper_master_page.ipynb) | Python Gen. | My Tools | my_tools.ipynb | [link](https://github.com/grahamwaters/druginfoscraper) |
-| [**filewizard**](repo_summaries/filewizard_master_page.ipynb) | Python Gen. | My Tools | my_tools.ipynb | [link](https://github.com/grahamwaters/filewizard) |
+| DisariumPy | Python Gen. | My Tools | my_tools.ipynb | [link](https://github.com/grahamwaters/DisariumPy) |
+| druginfoscraper | Python Gen. | My Tools | my_tools.ipynb | [link](https://github.com/grahamwaters/druginfoscraper) |
+| filewizard | Python Gen. | My Tools | my_tools.ipynb | [link](https://github.com/grahamwaters/filewizard) |
 | **SATvACT.ipynb** | ML | Regression Modeling | ML_regression_projects.ipynb | None |
 | **TakingAimes.ipynb** | ML | Regression Modeling | ML_regression_projects.ipynb | None |
 <!-- end of table -->
 
 <!-- Projects that may be fleshed out later on but are in their infancy as of this portfolio. -->
-<!-- | [**War of the Words**] | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/warofthewords) | -->
-<!-- | [**A Butler for Authors**] | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/a_butler_for_authors) | -->
+<!-- | War of the Words | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/warofthewords) | -->
+<!-- | A Butler for Authors | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/a_butler_for_authors) | -->
 
 * * *
 
