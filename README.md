@@ -57,7 +57,7 @@ Machine Learning Researcher & Data Scientist
 </div>
 <br/>
 
-<a href="https://www.github.com/grahamwaters" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/grahamwaters?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+<!-- <a href="https://www.github.com/grahamwaters" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/grahamwaters?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a> -->
 
 ## <b>My GitHub Stats</b>
 <div align="center">
