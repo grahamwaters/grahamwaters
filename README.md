@@ -13,6 +13,9 @@ Graham Waters
 <!-- copy the structure of the block above with the public repositories for user grahamwaters on GitHub -->
 <!-- make h3 headers centered  -->
 <div align="center">
+<a href="https://stackoverflow.com/users/12801757/graham-waters)" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
 
 <a href="https://linkedin.com/in/grahamwatersdatascientist" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -26,12 +29,13 @@ Graham Waters
 <a href="https://medium.com/@grahamwaters" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/12801757/graham-waters)" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.youtube.com/user/UC27RfPcNKJ3Jyaycg_4QhLQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
+<a href = "https://www.buymeacoffee.com/grahamwaters"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-%23FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" style="margin-bottom: 5px;"/></a>
+
+
 </div>
 
 
@@ -66,6 +70,7 @@ Graham Waters
 - [Projects that are Under Construction](#projects-that-are-under-construction)
 - [Tools and Simple Projects](#tools-and-simple-projects)
 - [My Backburner Projects](#my-backburner-projects)
+    - [Blatant Self-Promotion](#blatant-self-promotion)
 
 
 
@@ -90,17 +95,14 @@ Graham Waters
 
 
 <div align='center'>
-  <h1>Primary Public Repositories</h1>
+  <h1>My Top Open Source Projects</h1>
 
 </div>
 
-<!-- # Primary Public Repositories -->
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ls+-alh)](https://git.io/typing-svg)
-
-
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=ls+-alh&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
+</p>
 
 <div>
 <p align="center">
@@ -120,7 +122,7 @@ Graham Waters
 </div>
 
 <!-- profile views count -->
-<div align='left'>
+<div align='center'>
     <a href="https://github.com/grahamwaters?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </div>
 
@@ -129,7 +131,7 @@ Graham Waters
 <!-- <a href="https://www.github.com/grahamwaters" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/grahamwaters?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
  -->
 
-
+If you are interested in what I have been working on lately then check out my latest projects (shown below). I include a short description of each project and a link to the repository. If you have any questions or comments, please feel free to reach out to me on [Twitter](https://twitter.com/GrahamWaters1) or [LinkedIn](https://www.linkedin.com/in/grahamwaters/).
 
 
 
@@ -201,23 +203,29 @@ Graham Waters
 </div>
 
 # My Backburner Projects
+<div align='center'>
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DISASTERS&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DISASTERS"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
+</div>
 
-<div align="center">
-            <a href="https://paypal.me/paypal.me/gwaterstx" target="_blank" style="display: inline-block;">
+
+
+### Blatant Self-Promotion
+
+If you'd like to contribute to the hours that I spend staring at my screen in deep concentration I welcome any and all caffeine donations. ☕ Also, if you'd like to sponsor a project that you see on my page please reach out and let me know where I should focus my attention. Open Source is a big brave new world. Cheers!
+
+<div align='Center'>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/grahamwaters)
+
+<a href="https://paypal.me/paypal.me/gwaterstx" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"
                     align="center"
                 />
-            </a></div>
-<br />
+            </a>
 
-
-<div align="center">
-
-<p align="center">
-
-<h1> Find me on Discord</h1>
+<h3> You can also find me on Discord by clicking below.</h3>
 
 <a href="https://discord.com/users/its_graham#7425" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
