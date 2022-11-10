@@ -1,9 +1,9 @@
 <div align="center">
 <h1>
-===== Graham Waters =====
+Graham Waters
 </h1>
 <h2>
-Machine Learning Researcher & Data Scientist
+Data Scientist, Aspiring ML Engineer, and NLP Enthusiast
 </h2>
 
 </div>
@@ -11,9 +11,6 @@ Machine Learning Researcher & Data Scientist
 <!-- copy the structure of the block above with the public repositories for user grahamwaters on GitHub -->
 <!-- make h3 headers centered  -->
 <div align="center">
-<a href="https://github.com/grahamwaters" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/grahamwatersdatascientist" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -34,12 +31,40 @@ Machine Learning Researcher & Data Scientist
 </a>
 </div>
 
+
+<div align='left'>
+<h1> ~$ whoami</h1>
+<h4> Some things I do: </h4>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Text+Classification;Natural+Language+Processing+(NLP);Supervised+Learning;Logistic+Regression;Linear+Regression;Logistic+Regression;Classification;Readability+Counts;Matplotlib;Seaborn;Excel+as+a+last+resort;OSX+>+Loading;Data+Analysis;Performing+EDA;Data+Cleaning;More+Data+Cleaning;...more+data+cleaning;automating+data+cleaning;finding+joy!;Outlier+Detection;Feature+Engineering;Feature+Selection;Modeling;Model+Evaluation;Boosting+with+AdaBoost;Watching+for+UAEs;Analyzing+Gutenberg;Writing+Historical+Fiction;Creating+Art+with+GPT-3;Looking+for+ways+to+apply+ML;to+everything...;)](https://git.io/typing-svg)
+
+</div>
+
+<div align="left" >
+<h4>
+
+*   🌍  I'm based in Austin, Texas
+
+- 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
+
+- 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn. I'd like to get into NLP and GPT-3 with OpenAI as well.
+
+- ❓ Ask me about anything you'd like to know about Python or its related technologies, I'd love to chat.
+</h4>
+
+
+
+
+
 <div align='center'>
   <h1>Primary Public Repositories</h3>
 
 </div>
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ls+-alh)](https://git.io/typing-svg)
+
+
 
 <div>
 <p align="center">
@@ -59,50 +84,25 @@ Machine Learning Researcher & Data Scientist
 </p>
 </div>
 
-
+<!-- profile views count -->
 <div align='center'>
-<a href="https://github.com/grahamwaters?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://github.com/grahamwaters?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </div>
 
-
-<div align='center'>
-<h1> About Me</h1>
-<h4> Some things I do: </h4>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Text+Classification;Natural+Language+Processing+(NLP);Supervised+Learning;Logistic+Regression;Linear+Regression;Logistic+Regression;Classification;Readability+Counts;Matplotlib;Seaborn;Excel+as+a+last+resort;OSX+>+Loading;Data+Analysis;Performing+EDA;Data+Cleaning;More+Data+Cleaning;...more+data+cleaning;automating+data+cleaning;finding+joy!;Outlier+Detection;Feature+Engineering;Feature+Selection;Modeling;Model+Evaluation;Boosting+with+AdaBoost;Watching+for+UAEs;Analyzing+Gutenberg;Writing+Historical+Fiction;Creating+Art+with+GPT-3;Looking+for+ways+to+apply+ML;to+everything...;)](https://git.io/typing-svg)
-
-</div>
-
-<div align="left" >
-<h3>
-
-*   🌍  I'm based in Austin, Texas
-
-- 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
-
-- 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn. I'd like to get into NLP and GPT-3 with OpenAI as well.
-
-- ❓ Ask me about anything you'd like to know about Python or its related technologies, I'd love to chat.
-</h3>
-
-<!-- <br/>
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
-
-<br/> -->
-
+<!-- profile views count -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=grahamwaters&&style=flat-square" align="center" />
-
-
+    <img src="https://komarev.com/ghpvc/?username=grahamwaters&&style=flat-square" align="center" />
 </div>
+<!-- the block above -->
 <br/>
 
 <!-- <a href="https://www.github.com/grahamwaters" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/grahamwaters?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
  -->
 
-<div align="center">
-<a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" /></a><a
+<div style="display:flex;">
+    <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" />
+    </a>
+    <a
 href="http://www.github.com/grahamwaters"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
 
