@@ -1,21 +1,13 @@
+<div align="center">
+Graham Waters
 
-# Hello World!
-## My name is Graham Waters
 Machine Learning Researcher & Data Scientist
-----------------------------------------------
-
-*   🌍  I'm based in Austin, Texas
-
-- 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
 
 
-- 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn.
+</div>
 
-
-- ❓ Ask me about anything you'd like to know about Python or its related technologies, I'd love to chat.
-
-
-## Connect with me
+<!-- copy the structure of the block above with the public repositories for user grahamwaters on GitHub -->
+<!-- make h3 headers centered  -->
 <div align="center">
 <a href="https://github.com/grahamwaters" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -37,12 +29,59 @@ Machine Learning Researcher & Data Scientist
 </a>
 <a href="https://www.youtube.com/user/UC27RfPcNKJ3Jyaycg_4QhLQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-<!-- </a>
-<a href="https://twitter.com/https://twitter.com/DataIsBusiness" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a> -->
+</a>
 </div>
 
+<div align='center'>
+  <h1>Primary Public Repositories</h3>
+
+</div>
+
+---
+
+<div>
+<p align="center">
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=github_privatizer&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="github_privatizer"></a>
+  <!-- <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=data-science-project-template&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="data-science-project-template"></a> -->
+  <!-- <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=grahamwaters&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="grahamwaters"></a> -->
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="lorebook_generator_for_novelai"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=druginfo_scraper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="druginfo_scraper"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
+  <!-- <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=a_butler_for_authors&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="a_butler_for_authors"></a> -->
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=FamilyPhotoResurrection&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="FamilyPhotoResurrection"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=HowTimeFlies&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="HowTimeFlies"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DisariumPy&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DisariumPy"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DISASTERS&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DISASTERS"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=medium_titles_analysis&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="medium_titles_analysis"></a>
+  <!-- <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GeoPlottingCartography&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GeoPlottingCartography"></a> -->
+</p>
+</div>
+
+
+<div align='center'>
+<a href="https://github.com/grahamwaters?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</div>
+
+
+<div align='center'>
+<h1> About Me</h1>
+<h4> Some things I do: </h4>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Text+Classification;Natural+Language+Processing+(NLP);Supervised+Learning;Logistic+Regression;Linear+Regression;Logistic+Regression;Classification;Readability+Counts;Matplotlib;Seaborn;Excel+as+a+last+resort;OSX+>+Loading;Data+Analysis;Performing+EDA;Data+Cleaning;More+Data+Cleaning;...more+data+cleaning;automating+data+cleaning;finding+joy!;Outlier+Detection;Feature+Engineering;Feature+Selection;Modeling;Model+Evaluation;Boosting+with+AdaBoost;Watching+for+UAEs;Analyzing+Gutenberg;Writing+Historical+Fiction;Creating+Art+with+GPT-3;Looking+for+ways+to+apply+ML;to+everything...;)](https://git.io/typing-svg)
+
+</div>
+
+<div align="left" >
+<h3>
+
+*   🌍  I'm based in Austin, Texas
+
+- 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
+
+- 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn. I'd like to get into NLP and GPT-3 with OpenAI as well.
+
+- ❓ Ask me about anything you'd like to know about Python or its related technologies, I'd love to chat.
+</h3>
 
 <!-- <br/>
 
@@ -64,30 +103,30 @@ Machine Learning Researcher & Data Scientist
 <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" /></a><a
 href="http://www.github.com/grahamwaters"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herokuapp.com/graph?username=grahamwaters&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a
 
-## <b>Recent Work</b>
-<div width="100%" align="center"><a href="https://github.com/grahamwaters/lorebook_generator_for_novelai" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a>
-
-<a href="https://github.com/grahamwaters/pybuoy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=pybuoy&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-<!-- <div width="100%" align="center"><a href="https://github.com/grahamwaters/wikidrugs_adapted" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=wikidrugs_adapted&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gist/deepakbhamla/acd63578b13556b01c3fa9a663e643f5/raw/7fdb456c84df6d70294e673ecbde0420a5c366f8/hello.gif" align="center" style="width: 100%" /> -->
 </div>
+
+<br/>
+
+<!-- create a new div with commits graph -->
+
+<div align="center">
+<a href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herokuapp.com/graph?username=grahamwaters&theme=react-dark&hide_border=true&area=true" /></a>
+</div>
+<br/>
 
 ### Languages and Frameworks
 <div align="center">
-
-    Languages I Use All the Time
+<h1> My Primary Stack</h1>
 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>
 
-    Languages I have used in the Past
+<h1> Languages I have used in the Past </h1>
+
+
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>
@@ -124,72 +163,40 @@ href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herok
 |---|---|---|
 | [Drug Information Scraper](https://github.com/grahamwaters/druginfo_scraper) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/druginfo_scraper) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/druginfo_scraper) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/druginfo_scraper) | A Python script that scrapes drug information from the FDA website. |
 
-<h2 align="center"></h2>
+<a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=CheatSheets_For_Programmers&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="CheatSheets_For_Programmers"></a>
 
-# Data Analytics Projects
-| **Project Name** | **Topic** | **Focus** | **Destination Notebook** | **GitHub Link** |
-|---|---|---|---|---|
-| Medium Titles Analysis | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/medium_titles_analysis) |
-
-# Machine Learning Projects
-
-
-| **Project Name** | **Topic** | **Focus** | **Destination Notebook** | **GitHub Link** |
-|---|---|---|---|---|
-| How Time Flies (VQGAN and CLIP) | ML | Computer Vision | ML_ComputerVision_projects.ipynb | [link](https://github.com/grahamwaters/HowTimeFlies) |
-| **Shoot the Moon** | ML | Computer Vision | ML_ComputerVision_projects.ipynb | [link](https://github.com/grahamwaters/ShootTheMoon) |
-| Recursive ESRGAN | ML | Computer Vision | ML_ComputerVision_projects.ipynb | [link](https://github.com/grahamwaters/Recursive_ERSGAN_Enhancer) |
-| Lightning Prediction by Keyframe Analysis | ML | Classification | ML_ClassificationModeling.ipynb | [link](https://github.com/grahamwaters/lightning_prediction_byclassification) |
-| MediPy | ML | Classification | ML_ClassificationModeling.ipynb | [link](https://github.com/grahamwaters/MediPy) |
-| **Autism versus OCD on Reddit** | ML | Classification | ML_ClassificationModeling.ipynb | None |
-
-# General Python Projects
-
-
-| **Project Name** | **Topic** | **Focus** | **Badges** | **GitHub Link** |
-|---|---|---|---|---|
-| My Butler Jeeves | Python Gen. | Natural Language Processing | [![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://github.com/grahamwaters/my_butler_jeeves/-/commits) | [link](https://github.com/grahamwaters/my_butler_jeeves) |
-| Disasters | Python Gen. | Natural Language Processing | text_nlp_projects.ipynb | [link](https://github.com/grahamwaters/DISASTERS) |
-| **Text Tester** | Python Gen. | Natural Language Processing | text_nlp_projects.ipynb | [link](https://github.com/grahamwaters/TextTester) |
-| WritersReach | Python Gen. | Natural Language Processing | text_nlp_projects.ipynb | [link](https://github.com/grahamwaters/WritersReach) |
-| medium_extraction | Python Gen. | Web Scraping | webscraping_projects.ipynb | [link](https://github.com/grahamwaters/medium_extraction) |
-| wikidrugs_adapted | Python Gen. | Web Scraping | webscraping_projects.ipynb | [link](https://github.com/grahamwaters/wikidrugs_adapted) |
-| Coeus | Python Gen. | Web Scraping | webscraping_projects.ipynb | [link](https://github.com/grahamwaters/Coeus) |
-| EarToGround_Trading | Python Gen. | Web Scraping | webscraping_projects.ipynb | [link](https://github.com/grahamwaters/EarToGround_Trading) |
-| mappymatch | Python Gen. | Open Source Contributions | opensource_contributions.ipynb | [link](https://github.com/grahamwaters/mappymatch) |
-| lorebook_generator | Python Gen. | Open Source Contributions | opensource_contributions.ipynb | [link](https://github.com/grahamwaters/lorebook_generator) |
-| PyBuoy | Python Gen. | Open Source Contributions | opensource_contributions.ipynb | [link](https://github.com/grahamwaters/PyBuoy) |
-| **pd-python-training (Flatiron School)** | Python Gen. | Open Source Contributions | opensource_contributions.ipynb | [link](https://github.com/grahamwaters/pd-python-training) |
-
-
-# Python Tools I am Developing
-
-| **Project Name** | **Topic** | **Focus** | **Destination Notebook** | **GitHub Link** |
-|---|---|---|---|---|
-| DisariumPy | Python Gen. | My Tools | my_tools.ipynb | [link](https://github.com/grahamwaters/DisariumPy) |
-| druginfoscraper | Python Gen. | My Tools | my_tools.ipynb | [link](https://github.com/grahamwaters/druginfoscraper) |
-| filewizard | Python Gen. | My Tools | my_tools.ipynb | [link](https://github.com/grahamwaters/filewizard) |
-| **SATvACT.ipynb** | ML | Regression Modeling | ML_regression_projects.ipynb | None |
-| **TakingAimes.ipynb** | ML | Regression Modeling | ML_regression_projects.ipynb | None |
 <!-- end of table -->
 
 <!-- Projects that may be fleshed out later on but are in their infancy as of this portfolio. -->
 <!-- | War of the Words | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/warofthewords) | -->
 <!-- | A Butler for Authors | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/a_butler_for_authors) | -->
 
-* * *
-
-Many of these projects are still in a state of development. Please excuse our dust. If you have any questions or comments, please feel free to reach out to me on LinkedIn or Discord.
 
 
 </td></tr></table>
-
+<br/>
 <br/>
 
-
-
-
-<br/>
+----
+<div>
+<h1 align="center">Projects I have in dev (forks)</h2>
+<p align="center">
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="haystack"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=developerFolio&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="developerFolio"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=gutenbergpy&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="gutenbergpy"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=bluebert&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="bluebert"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=MarkdownCheatsheet&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="MarkdownCheatsheet"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=alive-progress&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="alive-progress"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=gutenberg&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="gutenberg"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=CubeTrack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="CubeTrack"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=isometric&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="isometric"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=features-tune-progress_reporter.py-is-messy-and-should-be-cleaned-up-24604-&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="features-tune-progress_reporter.py-is-messy-and-should-be-cleaned-up-24604-"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=mappymatch&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="mappymatch"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=jekyll-patreon&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="jekyll-patreon"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=gym&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="gym"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Map-Tiler&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Map-Tiler"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Kryptos&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Kryptos"></a>
+</div>
 
 <div align="center">
             <a href="https://paypal.me/paypal.me/gwaterstx" target="_blank" style="display: inline-block;">
@@ -200,11 +207,18 @@ Many of these projects are still in a state of development. Please excuse our du
             </a></div>
 <br />
 
-----
-### Find me on Discord!
+
+<div align="center">
+
 <p align="center">
+
+<h1> Find me on Discord</h1>
+
 <a href="https://discord.com/users/its_graham#7425" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
+</p>
 
-Thanks to https://profilinator.rishav.dev/ for the template
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
+
+<!-- Thanks to https://profilinator.rishav.dev/ for the template -->
+<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
