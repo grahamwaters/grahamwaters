@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-Graham Waters
+===== Graham Waters =====
 </h1>
 <h2>
 Machine Learning Researcher & Data Scientist
