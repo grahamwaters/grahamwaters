@@ -16,7 +16,6 @@ Graham Waters
 <a href="https://stackoverflow.com/users/12801757/graham-waters)" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://linkedin.com/in/grahamwatersdatascientist" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -110,7 +109,7 @@ Graham Waters
   <!-- <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=data-science-project-template&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="data-science-project-template"></a> -->
   <!-- <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=grahamwaters&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="grahamwaters"></a> -->
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="lorebook_generator_for_novelai"></a>
-  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=druginfo_scraper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="druginfo_scraper"></a>
+  <a href="https://github.com/grahamwaters/druginfo_scraper"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=druginfo_scraper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="druginfo_scraper"></a>
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
   <!-- <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=a_butler_for_authors&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="a_butler_for_authors"></a> -->
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=FamilyPhotoResurrection&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="FamilyPhotoResurrection"></a>
