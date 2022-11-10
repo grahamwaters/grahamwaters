@@ -1,16 +1,19 @@
 <div align="center">
 <h1>
 Graham Waters
-</h1>
-<h2>
-Data Scientist, Aspiring ML Engineer, and NLP Enthusiast
-</h2>
+
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Researcher;Technical+Journalist;Data+Analyst;A.I.+Enthusiast;Always%20learning%20new%20things&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
+</p>
+
 
 </div>
-
 <!-- copy the structure of the block above with the public repositories for user grahamwaters on GitHub -->
 <!-- make h3 headers centered  -->
 <div align="center">
+
 <a href="https://linkedin.com/in/grahamwatersdatascientist" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -33,14 +36,16 @@ Data Scientist, Aspiring ML Engineer, and NLP Enthusiast
 
 
 <div align='left'>
-<h1> ~$ whoami</h1>
+<!-- <h1>~$ Who Am I?</h1> -->
 
-
+<p align="left">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=~$whoami;About+Me;Introduction&font=menlo%20Code&center=false&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=8000" /></a>
+</p>
 </div>
 
 <div align="left" >
 <h4>
-
 *   🌍  I'm based in Pflugerville, Texas
 
 - 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
@@ -73,11 +78,9 @@ Data Scientist, Aspiring ML Engineer, and NLP Enthusiast
 <!-- create a new div with commits graph -->
 
 <div align="center">
-<a href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herokuapp.com/graph?username=grahamwaters&theme=react-dark&hide_border=true&area=true" /></a>
+<a href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herokuapp.com/graph?username=grahamwaters&theme=react-dark&hide_border=false&area=true&color=FFD43B" /></a>
 </div>
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Text+Classification;Natural+Language+Processing+(NLP);Supervised+Learning;Logistic+Regression;Linear+Regression;Logistic+Regression;Classification;Readability+Counts;Matplotlib;Seaborn;Excel+as+a+last+resort;OSX+>+Loading;Data+Analysis;Performing+EDA;Data+Cleaning;More+Data+Cleaning;...more+data+cleaning;automating+data+cleaning;finding+joy!;Outlier+Detection;Feature+Engineering;Feature+Selection;Modeling;Model+Evaluation;Boosting+with+AdaBoost;Watching+for+UAEs;Analyzing+Gutenberg;Writing+Historical+Fiction;Creating+Art+with+GPT-3;Looking+for+ways+to+apply+ML;to+everything...;)](https://git.io/typing-svg)
 
 
 <div align='center'>
@@ -91,7 +94,7 @@ Data Scientist, Aspiring ML Engineer, and NLP Enthusiast
 
 
 <div>
-<p align="center">
+<p align="left">
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=github_privatizer&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="github_privatizer"></a>
   <!-- <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=data-science-project-template&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="data-science-project-template"></a> -->
   <!-- <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=grahamwaters&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="grahamwaters"></a> -->
@@ -109,16 +112,11 @@ Data Scientist, Aspiring ML Engineer, and NLP Enthusiast
 </div>
 
 <!-- profile views count -->
-<div align='center'>
+<div align='left'>
     <a href="https://github.com/grahamwaters?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </div>
 
-<!-- profile views count -->
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=grahamwaters&&style=flat-square" align="center" />
-</div>
-<!-- the block above -->
-<br/>
+
 
 <!-- <a href="https://www.github.com/grahamwaters" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/grahamwaters?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
  -->
@@ -194,14 +192,7 @@ Data Scientist, Aspiring ML Engineer, and NLP Enthusiast
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Kryptos&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Kryptos"></a>
 </div>
 
-<p align='center'>
-    <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" />
-    </a>
-    <a
-href="http://www.github.com/grahamwaters"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-</p>
 
 <div align="center">
             <a href="https://paypal.me/paypal.me/gwaterstx" target="_blank" style="display: inline-block;">
@@ -227,3 +218,21 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=
 
 <!-- Thanks to https://profilinator.rishav.dev/ for the template -->
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
+<div align='center'>
+
+<!-- # the color for yellow (python yellow) is #FFD43B -->
+<!-- The color for python blue is #3776AB -->
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Text+Classification;Natural+Language+Processing+(NLP);Supervised+Learning;Logistic+Regression;Linear+Regression;Logistic+Regression;Classification;Readability+Counts;Matplotlib;Seaborn;Excel+as+a+last+resort;OSX+>+Loading;Data+Analysis;Performing+EDA;Data+Cleaning;More+Data+Cleaning;...more+data+cleaning;automating+data+cleaning;finding+joy!;Outlier+Detection;Feature+Engineering;Feature+Selection;Modeling;Model+Evaluation;Boosting+with+AdaBoost;Watching+for+UAEs;Analyzing+Gutenberg;Writing+Historical+Fiction;Creating+Art+with+GPT-3;Looking+for+ways+to+apply+ML;to+everything...;&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=500" /></a>
+</p>
+<!-- create one more of these with 3776AB  -->
+<p align='center'>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Text+Classification;Natural+Language+Processing+(NLP);Supervised+Learning;Logistic+Regression;Linear+Regression;Logistic+Regression;Classification;Readability+Counts;Matplotlib;Seaborn;Excel+as+a+last+resort;OSX+>+Loading;Data+Analysis;Performing+EDA;Data+Cleaning;More+Data+Cleaning;...more+data+cleaning;automating+data+cleaning;finding+joy!;Outlier+Detection;Feature+Engineering;Feature+Selection;Modeling;Model+Evaluation;Boosting+with+AdaBoost;Watching+for+UAEs;Analyzing+Gutenberg;Writing+Historical+Fiction;Creating+Art+with+GPT-3;Looking+for+ways+to+apply+ML;to+everything...;&font=menlo%20Code&center=true&width=440&height=45&color=3776AB&vCenter=true&size=22&pause=800" /></a>
+</p>
+<!-- profile views count -->
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=grahamwaters&&style=flat-square" align="center" />
+</div>
+<!-- the block above -->
+<br/>
