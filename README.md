@@ -51,6 +51,10 @@ Graham Waters
 
 *   🌍  I'm based in Austin, Texas
 
+* I am a Texas Tech (Undergrad) Alumni, and a Brandeis University (Graduate) Alumni.
+
+*  🎓  My Master's is in Strategic Analytics.
+
 - 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
 
 - 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn. I'd like to get into NLP and GPT-3 with OpenAI as well.
