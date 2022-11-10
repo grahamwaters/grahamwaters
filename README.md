@@ -1,8 +1,10 @@
 <div align="center">
+<h1>
 Graham Waters
-
+</h1>
+<h2>
 Machine Learning Researcher & Data Scientist
-
+</h2>
 
 </div>
 
@@ -96,8 +98,8 @@ Machine Learning Researcher & Data Scientist
 </div>
 <br/>
 
-<!-- <a href="https://www.github.com/grahamwaters" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/grahamwaters?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a> -->
-
+<!-- <a href="https://www.github.com/grahamwaters" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/grahamwaters?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+ -->
 
 <div align="center">
 <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" /></a><a
