@@ -43,7 +43,7 @@ Data Scientist, Aspiring ML Engineer, and NLP Enthusiast
 <div align="left" >
 <h4>
 
-*   🌍  I'm based in Austin, Texas
+*   🌍  I'm based in Pflugerville, Texas
 
 - 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
 
