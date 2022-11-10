@@ -45,7 +45,7 @@ Graham Waters
 </div>
 
 <div align="left" >
-<h4>
+
 *   🌍  I'm based in Pflugerville, Texas
 
 - 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
@@ -53,21 +53,26 @@ Graham Waters
 - 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn. I'd like to get into NLP and GPT-3 with OpenAI as well.
 
 - ❓ Ask me about anything you'd like to know about Python or its related technologies, I'd love to chat.
-</h4>
+
+- 📫 How to reach me: LinkedIn, Discord, or Email.
+
+- ⚡ Fun fact: I am a huge fan of SETI, and am fascinated by the Hum and everything about the James Webb Space Telescope.
 
 
-<!-- <h1>Languages and Frameworks</h1>
-<div align="left">
-<h3>My Stack</h3>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>
-<h3> Past Stack</h3>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>
-</div>
-</td><td valign="top" width="100%">
-</h1> -->
+<h1 align='Center'> Table of Contents </h1>
+
+- [Stack and Stats](#stack-and-stats)
+- [Most Recent Projects](#most-recent-projects)
+- [Projects that are Under Construction](#projects-that-are-under-construction)
+- [Tools and Simple Projects](#tools-and-simple-projects)
+
+
+
+
+
+
+# Stack and Stats
+
 
 | CURRENT STACK | PAST STACK |
 | --- | --- |
@@ -84,11 +89,14 @@ Graham Waters
 
 
 <div align='center'>
-  <h1>Primary Public Repositories</h3>
+  <h1>Primary Public Repositories</h1>
 
 </div>
 
+<!-- # Primary Public Repositories -->
+
 ---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ls+-alh)](https://git.io/typing-svg)
 
 
@@ -123,9 +131,10 @@ Graham Waters
 
 
 
-<br/>
 
 
+
+# Most Recent Projects
 
 <!-- align="center">Projects that I Love</div> -->
 <!-- make title "Projects I Love" and center it -->
