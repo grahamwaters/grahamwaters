@@ -84,11 +84,13 @@ ___
 <h1 align='Center' style= "color: #FFD43B">
 </h1>
 
+<div align = "center">
 
-| Currently Learning |
-| --- |
-| <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="60"/> </a><a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="" height="60" /> </a>|
+| Currently Learning | General Topics |
+| --- | --- |
+| <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="60"/> </a><a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="" height="60" /> </a>| Deep learning and Neural Networks.|
 
+</div>
 
 | My Favorite Tools| Tools I've Used |
 | --- | --- |
