@@ -72,7 +72,6 @@ Graham Waters
 <h1 align='Center' style= "color: #FFD43B"
 > Table of Contents </h1>
 
-- [Stack and Stats](#stack-and-stats)
 - [Most Recent Projects](#most-recent-projects)
 - [Projects that are Under Construction](#projects-that-are-under-construction)
 - [Tools and Simple Projects](#tools-and-simple-projects)
@@ -84,13 +83,16 @@ Graham Waters
 
 
 
-# Stack and Stats
+___
+
 <h1 align='Center' style= "color: #FFD43B">
+
 
 | CURRENT STACK | PAST STACK |
 | --- | --- |
 |<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a><a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a> |<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a><a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a> |
 | <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" /></a> | <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
+
 </h1>
 
 <!-- create a new div with commits graph -->
@@ -101,11 +103,8 @@ Graham Waters
 <br/>
 
 
-
 <div align='center'>
-  <h1 align='Center' style= "color: #FFD43B">
-  My Top Open Source Projects
-  </h1>
+  <h1>My Top Open Source Projects</h1>
 
 </div>
 
@@ -191,8 +190,7 @@ If you are interested in what I have been working on lately then check out my la
 
 ----
 <div>
-<!-- 9ACD32 for header color -->
-<h1 align="center" style="color: #FFD43B">Projects I have in dev (forks)</h2>
+<h1 align="center">Projects I have in dev (forks)</h2>
 <p align="center">
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="haystack"></a>
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=developerFolio&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="developerFolio"></a>
