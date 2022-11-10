@@ -34,7 +34,6 @@ Data Scientist, Aspiring ML Engineer, and NLP Enthusiast
 
 <div align='left'>
 <h1> ~$ whoami</h1>
-<h4> Some things I do: </h4>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Text+Classification;Natural+Language+Processing+(NLP);Supervised+Learning;Logistic+Regression;Linear+Regression;Logistic+Regression;Classification;Readability+Counts;Matplotlib;Seaborn;Excel+as+a+last+resort;OSX+>+Loading;Data+Analysis;Performing+EDA;Data+Cleaning;More+Data+Cleaning;...more+data+cleaning;automating+data+cleaning;finding+joy!;Outlier+Detection;Feature+Engineering;Feature+Selection;Modeling;Model+Evaluation;Boosting+with+AdaBoost;Watching+for+UAEs;Analyzing+Gutenberg;Writing+Historical+Fiction;Creating+Art+with+GPT-3;Looking+for+ways+to+apply+ML;to+everything...;)](https://git.io/typing-svg)
 
@@ -52,7 +51,12 @@ Data Scientist, Aspiring ML Engineer, and NLP Enthusiast
 - ❓ Ask me about anything you'd like to know about Python or its related technologies, I'd love to chat.
 </h4>
 
+<!-- create a new div with commits graph -->
 
+<div align="center">
+<a href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herokuapp.com/graph?username=grahamwaters&theme=react-dark&hide_border=true&area=true" /></a>
+</div>
+<br/>
 
 
 
@@ -99,23 +103,11 @@ Data Scientist, Aspiring ML Engineer, and NLP Enthusiast
 <!-- <a href="https://www.github.com/grahamwaters" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/grahamwaters?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
  -->
 
-<p style="display:flex;">
-    <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" />
-    </a>
-    <a
-href="http://www.github.com/grahamwaters"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-</p>
 
 <br/>
 
-<!-- create a new div with commits graph -->
 
-<div align="center">
-<a href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herokuapp.com/graph?username=grahamwaters&theme=react-dark&hide_border=true&area=true" /></a>
-</div>
-<br/>
 
 ### Languages and Frameworks
 <div align="center">
@@ -199,6 +191,15 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Map-Tiler&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Map-Tiler"></a>
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Kryptos&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Kryptos"></a>
 </div>
+
+<p align='center'>
+    <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" />
+    </a>
+    <a
+href="http://www.github.com/grahamwaters"><img
+src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+</p>
 
 <div align="center">
             <a href="https://paypal.me/paypal.me/gwaterstx" target="_blank" style="display: inline-block;">
