@@ -28,10 +28,6 @@ Professional Portfolio
 <a href="https://medium.com/@grahamwaters" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.youtube.com/user/UC27RfPcNKJ3Jyaycg_4QhLQ" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
 <a href = "https://www.buymeacoffee.com/grahamwaters"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-%23FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" style="margin-bottom: 5px;"/></a>
 
 
@@ -113,6 +109,7 @@ ___
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=ls+-alh&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
 </p>
 
+
 <div>
 <p align="center">
   <a href="https://github.com/grahamwaters/github_privatizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=github_privatizer&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="github_privatizer"></a>
@@ -163,16 +160,20 @@ If you are interested in what I have been working on lately then check out my la
 
 
 # Projects that are Under Construction
-| **Project Name** | **Topic** | **Focus** | **Badges** |
+
+Explanation of badges:
+
+
+| **Project Name** | **Status Metrics** | **Focus** | **Estimated Completion Date** |
 |---|---|---|---|
-| [What would Doyle do?](https://github.com/grahamwaters/what_would_doyle_do) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/what_would_doyle_do) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/what_would_doyle_do) | |
-[Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Reddit-NLP-Analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Reddit-NLP-Analysis) | A Python script that uses the Push Shift API to scrape Reddit comments and perform NLP analysis on them. |
-[Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. |
+| [What would Doyle do?](https://github.com/grahamwaters/what_would_doyle_do) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/what_would_doyle_do) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/what_would_doyle_do) | Can machine learning be applied to existing text data that an author writes or about a person that can help historical fiction authors write more accurately about their subject? | Dec. 2022 |
+[Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Reddit-NLP-Analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Reddit-NLP-Analysis) | A Python script that uses the Push Shift API to scrape Reddit comments and perform NLP analysis on them. | Nov. 2022 |
+[Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. | Nov. 2022 |
 
 # Tools and Simple Projects
 | **Project Name** | **Badges** | **Description** |
 |---|---|---|
-| [Drug Information Scraper](https://github.com/grahamwaters/druginfo_scraper) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/druginfo_scraper) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/druginfo_scraper) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/druginfo_scraper) | A Python script that scrapes drug information from the FDA website. |
+| [Drug Information Scraper](https://github.com/grahamwaters/druginfo_scraper) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/druginfo_scraper) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/druginfo_scraper) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/druginfo_scraper) ![stars](https://img.shields.io/github/stars/grahamwaters/druginfo_scraper?color=purple) | A Python script that scrapes drug information from the FDA website. |
 
 <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=CheatSheets_For_Programmers&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="CheatSheets_For_Programmers"></a>
 
