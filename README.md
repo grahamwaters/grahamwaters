@@ -150,8 +150,6 @@ Graham Waters
 |---|---|---|
 [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom json lorebook (based on pulls from wikipedia artiles) for the website NovelAI. |
 [PySeas](https://github.com/grahamwaters/PySeas) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/PySeas) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/PySeas) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/PySeas) | A Python package that provides a simple interface to the NOAA CO-OPS API. |
-[Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Reddit-NLP-Analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Reddit-NLP-Analysis) | A Python script that uses the Push Shift API to scrape Reddit comments and perform NLP analysis on them. |
-[Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. |
 [How Time Flies](https://github.com/grahamwaters/HowTimeFlies) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/HowTimeFlies) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/HowTimeFlies) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/HowTimeFlies) | A research experiment using `requests` and google images to illustrate how a seearch query visually changes when supplied with a year. |
 
 
@@ -159,7 +157,8 @@ Graham Waters
 | **Project Name** | **Topic** | **Focus** | **Badges** |
 |---|---|---|---|
 | [What would Doyle do?](https://github.com/grahamwaters/what_would_doyle_do) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/what_would_doyle_do) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/what_would_doyle_do) | |
-
+[Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Reddit-NLP-Analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Reddit-NLP-Analysis) | A Python script that uses the Push Shift API to scrape Reddit comments and perform NLP analysis on them. |
+[Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. |
 
 # Tools and Simple Projects
 | **Project Name** | **Badges** | **Description** |
