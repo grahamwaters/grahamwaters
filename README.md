@@ -100,12 +100,14 @@ Data Scientist, Aspiring ML Engineer, and NLP Enthusiast
  -->
 
 <div style="display:flex;">
+<div>
     <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" />
     </a>
     <a
 href="http://www.github.com/grahamwaters"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+</div>
 </div>
 
 <br/>
