@@ -1,12 +1,26 @@
 <div align="center">
 <h1>
+
+Graham Waters
+
 Professional Portfolio
+
+<!-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unit9.com%2Fproject%2Ffalling-water-center-dream-research%2F&psig=AOvVaw1io37EI0DpNTFb44f1nimy&ust=1668212139465000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIj5qtLspPsCFQAAAAAdAAAAABAH -->
+
+
 
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Researcher;Technical+Journalist;Data+Analyst;A.I.+Enthusiast;Always%20learning%20new%20things&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
 </p>
+
+
+
+
+
+
+
 
 
 </div>
@@ -63,6 +77,11 @@ Professional Portfolio
 - Finally, If I had to be a movie genre, I'd be SciPy.
 
 
+<div align = "center">
+
+![main](images/02_gif.gif)
+
+</div>
 
 
 <h1 align='Center' style= "color: #FFD43B"
@@ -195,7 +214,9 @@ If you are interested in what I have been working on lately then check out my la
 
 # Projects that are Under Construction
 
-Explanation of badges:
+
+
+
 
 
 | **Project Name** | **Status Metrics** | **Focus** | **Estimated Completion Date** |
@@ -295,3 +316,7 @@ If you'd like to contribute to the hours that I spend staring at my screen in de
 </div>
 <!-- the block above -->
 <br/>
+
+
+
+![end](images/9116.gif)
