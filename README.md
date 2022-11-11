@@ -60,9 +60,18 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Researcher;Technical+Journalist;Data+Analyst;A.I.+Enthusiast;Always%20learning%20new%20things&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
 </p>
 
+<p align="center">
+
 ![main](images/banner4.gif)
+
+</p>
+
+---
+
 <h1 align='Center'
 > Table of Contents </h1>
+
+---
 
 - [Progress Report](#progress-report)
   - [PySeas](#pyseas)
@@ -75,7 +84,7 @@
     - [Blatant Self-Promotion](#blatant-self-promotion)
 
 
-
+---
 
 # Progress Report
 **11/10/2022**
@@ -100,6 +109,9 @@ There are promising results in the images that the PySeas project has produced. 
 Using CV2 to stitch these images together and optimizing the algorithm to retrieve the images at the most optimal time of day is the next step. I'm also looking into using any open source equivilant of [Google Cloud Vision API](https://cloud.google.com/vision) to detect the horizon line and crop the images accordingly. CV2 may be able to do this, but at scale it may not be the most efficient.
 
 ## [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai)
+
+![lorebookbanner](images/lorebookbanner.png)
+
 
 <!-- add badges -->
 ![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
