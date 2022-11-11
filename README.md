@@ -230,6 +230,8 @@ If you are interested in what I have been working on lately then check out my la
 
 # Most Recent Projects
 
+![myprojects](images/projects.gif)
+
 <!-- align="center">Projects that I Love</div> -->
 <!-- make title "Projects I Love" and center it -->
 
