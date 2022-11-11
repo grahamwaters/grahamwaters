@@ -83,10 +83,13 @@
 
 
 
-
 <h1 align='Center' style= "color: #FFD43B"
 > Table of Contents </h1>
 
+- [Report for the Week](#report-for-the-week)
+  - [PySeas](#pyseas)
+  - [Lorebook Generator for NovelAI](#lorebook-generator-for-novelai)
+- [What is in my Tool Box?](#what-is-in-my-tool-box)
 - [Most Recent Projects](#most-recent-projects)
 - [Projects that are Under Construction 🏗️](#projects-that-are-under-construction-️)
 - [Tools and Simple Projects](#tools-and-simple-projects)
@@ -96,8 +99,42 @@
 
 
 
+# Report for the Week
+**11/10/2022**
+
+## [PySeas](https://github.com/grahamwaters/PySeas)
 
 
+![issues](https://img.shields.io/github/issues/grahamwaters/pyseas?style=for-the-badge)
+![forks](https://img.shields.io/github/forks/grahamwaters/pyseas?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/grahamwaters/pyseas?style=for-the-badge)
+![license](https://img.shields.io/github/license/grahamwaters/pyseas?style=for-the-badge)
+![last commit](https://img.shields.io/github/last-commit/grahamwaters/pyseas?style=for-the-badge)
+
+![main](images/6.png)
+
+Successfully Logged Six Days of Data from the NOAA API
+There are promising results in the images that the PySeas project has produced. It seems highly likely that finding the perfect sunset is just over the horizon!
+
+![sunset1](images/sunset2.jpg)
+![sunset2](images/sunset3.jpg)
+
+Using CV2 to stitch these images together and optimizing the algorithm to retrieve the images at the most optimal time of day is the next step. I'm also looking into using any open source equivilant of [Google Cloud Vision API](https://cloud.google.com/vision) to detect the horizon line and crop the images accordingly. CV2 may be able to do this, but at scale it may not be the most efficient.
+
+## [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai)
+
+<!-- add badges -->
+![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+![forks](https://img.shields.io/github/forks/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+![license](https://img.shields.io/github/license/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+
+IBM has made strides towards collating wikipedia knowledge and creating a knowledge graph. This is a great step towards the creation of a lorebook generator for authors. I've been working on a project that will allow authors to use the NovelAI API to generate a lorebook for their world. This will allow authors to jumpstart their productivity with machine learning. I've been working on this project for a few weeks now, and I'm excited to see the results. I'm hoping to have a working prototype by the end of the month.
+
+---
+
+# What is in my Tool Box?
 
 <h1 align='Center' style= "color: #FFD43B">
 </h1>
