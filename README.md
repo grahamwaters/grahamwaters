@@ -23,7 +23,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Researcher;Technical+Journalist;Data+Analyst;A.I.+Enthusiast;Always%20learning%20new%20things&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
 </p>
 
----
+![second](images/ai_banner.gif)
 
 <div align='left'>
 <!-- <h1>~$ Who Am I?</h1> -->
