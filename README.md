@@ -18,12 +18,7 @@
 ![main](images/mainbanner.gif)
 
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Researcher;Technical+Journalist;Data+Analyst;A.I.+Enthusiast;Always%20learning%20new%20things&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
-</p>
 
-![second](images/banner4.gif)
 
 <div align='left'>
 <!-- <h1>~$ Who Am I?</h1> -->
@@ -33,6 +28,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=~$whoami;About+Me;Introduction&font=menlo%20Code&center=false&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=8000" /></a>
 </p>
 </div>
+
+
+
+
+
 
 <div align="left" >
 
@@ -54,34 +54,13 @@
 - Finally, If I had to be a movie genre, I'd be SciPy.
 
 
-<div align = "center">
 
-<!-- ![main](images/02_gif.gif) -->
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Researcher;Technical+Journalist;Data+Analyst;A.I.+Enthusiast;Always%20learning%20new%20things&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
+</p>
 
-</div>
-
-</div>
-<!-- copy the structure of the block above with the public repositories for user grahamwaters on GitHub -->
-<!-- make h3 headers centered  -->
-<div align="center">
-<a href="https://stackoverflow.com/users/12801757/graham-waters)" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/grahamwatersdatascientist" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/grahamwaters" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@grahamwaters" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href = "https://www.buymeacoffee.com/grahamwaters"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-%23FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" style="margin-bottom: 5px;"/></a>
-
-
-</div>
-
-
+![main](images/banner4.gif)
 <h1 align='Center'
 > Table of Contents </h1>
 
