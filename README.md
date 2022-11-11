@@ -295,12 +295,3 @@ If you'd like to contribute to the hours that I spend staring at my screen in de
 </div>
 <!-- the block above -->
 <br/>
-
-
-
-
-<!--
-
-![black](https://black.readthedocs.io/en/stable/_static/logo2-readme.png)
-<!-- make the logo smaller -->
-<img src="https://black.readthedocs.io/en/stable/_static/logo2-readme.png" width="100" height="60" /> -->
