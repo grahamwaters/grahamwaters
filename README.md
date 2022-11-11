@@ -88,7 +88,7 @@
 > Table of Contents </h1>
 
 - [Most Recent Projects](#most-recent-projects)
-- [Projects that are Under Construction](#projects-that-are-under-construction)
+- [Projects that are Under Construction 🏗️](#projects-that-are-under-construction-️)
 - [Tools and Simple Projects](#tools-and-simple-projects)
 - [My Backburner Projects](#my-backburner-projects)
     - [Blatant Self-Promotion](#blatant-self-promotion)
@@ -214,7 +214,7 @@ If you are interested in what I have been working on lately then check out my la
 [How Time Flies](https://github.com/grahamwaters/HowTimeFlies) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/HowTimeFlies) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/HowTimeFlies) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/HowTimeFlies) | A research experiment using `requests` and google images to illustrate how a seearch query visually changes when supplied with a year. |
 
 
-# Projects that are Under Construction
+# Projects that are Under Construction 🏗️
 
 
 
