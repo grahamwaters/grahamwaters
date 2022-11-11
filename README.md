@@ -81,7 +81,7 @@
 - [Projects Currently Under Construction 🏗️](#projects-currently-under-construction-️)
 - [Tools and Simple Projects](#tools-and-simple-projects)
 - [My Backburner Projects](#my-backburner-projects)
-    - [Blatant Self-Promotion](#blatant-self-promotion)
+- [How to Support My Work](#how-to-support-my-work)
 
 
 ---
@@ -309,7 +309,8 @@ If you are interested in what I have been working on lately then check out my la
 
 
 
-### Blatant Self-Promotion
+
+# How to Support My Work
 
 If you'd like to contribute to the hours that I spend staring at my screen in deep concentration I welcome any and all caffeine donations. ☕ Also, if you'd like to sponsor a project that you see on my page please reach out and let me know where I should focus my attention. Open Source is a big brave new world. Cheers!
 
@@ -354,6 +355,4 @@ If you'd like to contribute to the hours that I spend staring at my screen in de
 <!-- the block above -->
 <br/>
 
-
-
-![end](images/9116.gif)
+![ai](images/ai_banner.gif)
