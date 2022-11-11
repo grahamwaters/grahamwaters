@@ -188,6 +188,10 @@ IBM has made strides towards collating wikipedia knowledge and creating a knowle
 
 </div>
 
+![divider](images/opensource_still.png)
+
+
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=ls+-alh&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
