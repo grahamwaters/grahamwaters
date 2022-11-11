@@ -1,11 +1,13 @@
+
+
 <div align="center">
-<h1>
+<!-- <h1>
 
 
 <h1 style= "color:yellow; font-size: 50px; text-align: center;">
 ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴘᴏʀᴛꜰᴏʟɪᴏ
 
-</h1>
+</h1> -->
 
 
 
@@ -13,7 +15,7 @@
 
 <!-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unit9.com%2Fproject%2Ffalling-water-center-dream-research%2F&psig=AOvVaw1io37EI0DpNTFb44f1nimy&ust=1668212139465000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIj5qtLspPsCFQAAAAAdAAAAABAH -->
 
-
+![main](images/mainbanner.gif)
 
 
 <p align="center">
@@ -21,33 +23,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Researcher;Technical+Journalist;Data+Analyst;A.I.+Enthusiast;Always%20learning%20new%20things&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
 </p>
 
-<div align = "center">
-
-![main](images/02_gif.gif)
-
-</div>
-
-</div>
-<!-- copy the structure of the block above with the public repositories for user grahamwaters on GitHub -->
-<!-- make h3 headers centered  -->
-<div align="center">
-<a href="https://stackoverflow.com/users/12801757/graham-waters)" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/grahamwatersdatascientist" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/grahamwaters" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@grahamwaters" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href = "https://www.buymeacoffee.com/grahamwaters"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-%23FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" style="margin-bottom: 5px;"/></a>
-
-
-</div>
-
+---
 
 <div align='left'>
 <!-- <h1>~$ Who Am I?</h1> -->
@@ -78,6 +54,32 @@
 - Finally, If I had to be a movie genre, I'd be SciPy.
 
 
+<div align = "center">
+
+<!-- ![main](images/02_gif.gif) -->
+
+</div>
+
+</div>
+<!-- copy the structure of the block above with the public repositories for user grahamwaters on GitHub -->
+<!-- make h3 headers centered  -->
+<div align="center">
+<a href="https://stackoverflow.com/users/12801757/graham-waters)" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/grahamwatersdatascientist" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/grahamwaters" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@grahamwaters" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href = "https://www.buymeacoffee.com/grahamwaters"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-%23FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" style="margin-bottom: 5px;"/></a>
+
+
+</div>
 
 
 <h1 align='Center'
@@ -126,6 +128,8 @@ Using CV2 to stitch these images together and optimizing the algorithm to retrie
 ![stars](https://img.shields.io/github/stars/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
 ![license](https://img.shields.io/github/license/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
 ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+
+
 
 IBM has made strides towards collating wikipedia knowledge and creating a knowledge graph. This is a great step towards the creation of a lorebook generator for authors. I've been working on a project that will allow authors to use the NovelAI API to generate a lorebook for their world. This will allow authors to jumpstart their productivity with machine learning. I've been working on this project for a few weeks now, and I'm excited to see the results. I'm hoping to have a working prototype by the end of the month.
 
