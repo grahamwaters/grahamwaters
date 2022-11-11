@@ -86,7 +86,7 @@
 <h1 align='Center' style= "color: #FFD43B"
 > Table of Contents </h1>
 
-- [Report for the Week](#report-for-the-week)
+- [Progress Report](#progress-report)
   - [PySeas](#pyseas)
   - [Lorebook Generator for NovelAI](#lorebook-generator-for-novelai)
 - [What is in my Tool Box?](#what-is-in-my-tool-box)
@@ -99,7 +99,7 @@
 
 
 
-# Report for the Week
+# Progress Report
 **11/10/2022**
 
 ## [PySeas](https://github.com/grahamwaters/PySeas)
