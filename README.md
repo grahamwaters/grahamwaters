@@ -2,8 +2,7 @@
 <h1>
 
 
-<h1 style= "font-size: 6em; color: #FFD43B; font-weight: 600; font-family: 'Open Sans', sans-serif; text-align: center; margin: 0; padding: 0; line-height: 1.2em; letter-spacing: -1px;">
-
+<h1 style= "color:yellow; font-size: 50px; text-align: center;">
 ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴘᴏʀᴛꜰᴏʟɪᴏ
 
 </h1>
