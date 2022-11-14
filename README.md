@@ -204,7 +204,7 @@ IBM has made strides towards collating wikipedia knowledge and creating a knowle
   <a href="https://github.com/grahamwaters/lorebook_generator_for_novelai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="lorebook_generator_for_novelai"></a>
   <a href="https://github.com/grahamwaters/druginfo_scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=druginfo_scraper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="druginfo_scraper"></a>
   <a href="https://github.com/grahamwaters/GnomansLand"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
-  <a href="https://github.com/grahamwaters/FamilyPhotoResurrection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=FamilyPhotoResurrection&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="FamilyPhotoResurrection"></a>
+  <a href="https://github.com/grahamwaters/Clark-Kent-Reporter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Clark-Kent-Reporter&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Clark-Kent-Reporter"></a>
   <a href="https://github.com/grahamwaters/HowTimeFlies"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=HowTimeFlies&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="HowTimeFlies"></a>
   <a href="https://github.com/grahamwaters/DisariumPy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DisariumPy&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DisariumPy"></a>
   <a href="https://github.com/grahamwaters/DISASTERS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DISASTERS&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DISASTERS"></a>
@@ -212,6 +212,10 @@ IBM has made strides towards collating wikipedia knowledge and creating a knowle
 
 </p>
 </div>
+
+
+
+<!--    -->
 
 <!-- profile views count -->
 <div align='center'>
@@ -266,8 +270,8 @@ If you are interested in what I have been working on lately then check out my la
 |---|---|---|
 | [Drug Information Scraper](https://github.com/grahamwaters/druginfo_scraper) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/druginfo_scraper) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/druginfo_scraper) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/druginfo_scraper) ![stars](https://img.shields.io/github/stars/grahamwaters/druginfo_scraper?color=purple) | A Python script that scrapes drug information from the FDA website. |
 
-<a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=CheatSheets_For_Programmers&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="CheatSheets_For_Programmers"></a>
-
+<a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=CheatSheets_For_Programmers&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="CheatSheets_For_Programmers"></a>
+<a href="https://github.com/grahamwaters/FamilyPhotoResurrection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=FamilyPhotoResurrection&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="FamilyPhotoResurrection"></a>
 <!-- end of table -->
 
 <!-- Projects that may be fleshed out later on but are in their infancy as of this portfolio. -->
