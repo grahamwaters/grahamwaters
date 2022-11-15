@@ -24,10 +24,43 @@
 
 </p>
 
+
+
+
+<div align='left'>
+
+---
+
+## Hi There! 👋 welcome to my GitHub!
+
+**Some Quick Facts About Me:**
+* 🌍  I'm based in Austin, Texas.
+
+texas tech
+this is the hand like a gun emoji
+
+* Texas Tech (Undergrad) Alumni, and a Brandeis University (Graduate) Alumni.
+
+*  🎓  My Master's is in Strategic Analytics.
+
+- 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
+
+- 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn. I'd like to get into NLP and GPT-3 with OpenAI as well.
+
+- ❓ Ask me about anything you'd like to know about Python or its related technologies, I'd love to chat.
+
+- 📫 How to reach me: LinkedIn, Discord, or Email.
+
+- ⚡ Fun fact: I am a huge fan of SETI, and am fascinated by the Hum and everything about the James Webb Space Telescope.
+- Finally, If I had to be a movie genre, I'd be SciPy.
+
+---
+
+
 ---
 
 <h1 align='Center'
-> Table of Contents </h1>
+> What's Here </h1>
 
 ---
 
@@ -47,32 +80,6 @@
 - [How to Support My Work](#how-to-support-my-work)
 
 </div>
-
-
-<div align='left'>
-
----
-
-# About Me
-
-*   🌍  I'm based in Austin, Texas
-
-* I am a Texas Tech (Undergrad) Alumni, and a Brandeis University (Graduate) Alumni.
-
-*  🎓  My Master's is in Strategic Analytics.
-
-- 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
-
-- 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn. I'd like to get into NLP and GPT-3 with OpenAI as well.
-
-- ❓ Ask me about anything you'd like to know about Python or its related technologies, I'd love to chat.
-
-- 📫 How to reach me: LinkedIn, Discord, or Email.
-
-- ⚡ Fun fact: I am a huge fan of SETI, and am fascinated by the Hum and everything about the James Webb Space Telescope.
-- Finally, If I had to be a movie genre, I'd be SciPy.
-
----
 # Progress Report
 **11/10/2022**
 
@@ -250,11 +257,13 @@ If you are interested in what I have been working on lately then check out my la
 | [What would Doyle do?](https://github.com/grahamwaters/what_would_doyle_do) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/what_would_doyle_do) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/what_would_doyle_do) | Can machine learning be applied to existing text data that an author writes or about a person that can help historical fiction authors write more accurately about their subject? | Dec. 2022 |
 [Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Reddit-NLP-Analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Reddit-NLP-Analysis) | A Python script that uses the Push Shift API to scrape Reddit comments and perform NLP analysis on them. | Nov. 2022 |
 [Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. | Nov. 2022 |
+| [Genre Identity](https://github.com/grahamwaters/GenreIdentity) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/GenreIdentity) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/GenreIdentity) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/GenreIdentity) | Why should music be confined to the genres that society imposes on it? This project seeks to truly understand the inner workings of what makes a musical genre using Spotify's python API.| Nov. 2022|
 
 # Tools and Simple Projects
 | **Project Name** | **Badges** | **Description** |
 |---|---|---|
 | [Drug Information Scraper](https://github.com/grahamwaters/druginfo_scraper) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/druginfo_scraper) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/druginfo_scraper) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/druginfo_scraper) ![stars](https://img.shields.io/github/stars/grahamwaters/druginfo_scraper?color=purple) | A Python script that scrapes drug information from the FDA website. |
+| [Clark Kent Reporter](https://github.com/grahamwaters/Clark-Kent-Reporter) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Clark-Kent-Reporter) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Clark-Kent-Reporter) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Clark-Kent-Reporter) ![stars](https://img.shields.io/github/stars/grahamwaters/Clark-Kent-Reporter?color=purple) |This tool converts a traditionally formatted overview (in a readme file) into a populated Jupyter Notebook for data science presentations or findings presentations. |
 
 <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=CheatSheets_For_Programmers&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="CheatSheets_For_Programmers"></a>
 <a href="https://github.com/grahamwaters/FamilyPhotoResurrection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=FamilyPhotoResurrection&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="FamilyPhotoResurrection"></a>
@@ -353,5 +362,3 @@ If you'd like to contribute to the hours that I spend staring at my screen in de
 </p>
 
 <p align="center">
-
-M
