@@ -33,7 +33,7 @@
 
 <div align = 'left'>
 
-- [More Details About Me](#more-details-about-me)
+- [About Me](#about-me)
 - [Progress Report](#progress-report)
   - [PySeas](#pyseas)
   - [Lorebook Generator for NovelAI](#lorebook-generator-for-novelai)
@@ -53,7 +53,7 @@
 
 ---
 
-# More Details About Me
+# About Me
 
 *   🌍  I'm based in Austin, Texas
 
