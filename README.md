@@ -13,6 +13,7 @@
 
 
 
+
 <!-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unit9.com%2Fproject%2Ffalling-water-center-dream-research%2F&psig=AOvVaw1io37EI0DpNTFb44f1nimy&ust=1668212139465000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIj5qtLspPsCFQAAAAAdAAAAABAH -->
 
 ![main](images/hq_intro_banner.gif)
@@ -77,6 +78,8 @@
   - [PySeas](#pyseas)
   - [Lorebook Generator for NovelAI](#lorebook-generator-for-novelai)
 - [What is in my Tool Box?](#what-is-in-my-tool-box)
+- [Research Projects](#research-projects)
+- [Tools I Am Developing](#tools-i-am-developing)
 - [Most Recent Projects](#most-recent-projects)
 - [Projects Currently Under Construction 🏗️](#projects-currently-under-construction-️)
 - [Tools and Simple Projects](#tools-and-simple-projects)
@@ -200,22 +203,21 @@ IBM has made strides towards collating wikipedia knowledge and creating a knowle
 
 <div>
 <p align="center">
-  <a href="https://github.com/grahamwaters/github_privatizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=github_privatizer&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="github_privatizer"></a>
   <a href="https://github.com/grahamwaters/lorebook_generator_for_novelai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="lorebook_generator_for_novelai"></a>
-  <a href="https://github.com/grahamwaters/druginfo_scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=druginfo_scraper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="druginfo_scraper"></a>
   <a href="https://github.com/grahamwaters/GnomansLand"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
-  <a href="https://github.com/grahamwaters/Clark-Kent-Reporter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Clark-Kent-Reporter&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Clark-Kent-Reporter"></a>
-  <a href="https://github.com/grahamwaters/HowTimeFlies"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=HowTimeFlies&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="HowTimeFlies"></a>
-  <a href="https://github.com/grahamwaters/DisariumPy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DisariumPy&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DisariumPy"></a>
-  <a href="https://github.com/grahamwaters/DISASTERS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DISASTERS&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DISASTERS"></a>
-  <a href="https://github.com/grahamwaters/medium_titles_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=medium_titles_analysis&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="medium_titles_analysis"></a>
 
 </p>
 </div>
 
-
-
-<!--    -->
+# Research Projects
+<a href="https://github.com/grahamwaters/DISASTERS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DISASTERS&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DISASTERS"></a>
+  <a href="https://github.com/grahamwaters/HowTimeFlies"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=HowTimeFlies&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="HowTimeFlies"></a>
+  <a href="https://github.com/grahamwaters/DisariumPy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DisariumPy&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DisariumPy"></a>
+# Tools I Am Developing
+<a href="https://github.com/grahamwaters/Clark-Kent-Reporter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Clark-Kent-Reporter&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Clark-Kent-Reporter"></a>
+<a href="https://github.com/grahamwaters/github_privatizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=github_privatizer&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="github_privatizer"></a>
+<a href="https://github.com/grahamwaters/medium_titles_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=medium_titles_analysis&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="medium_titles_analysis"></a>
+<a href="https://github.com/grahamwaters/druginfo_scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=druginfo_scraper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="druginfo_scraper"></a>
 
 <!-- profile views count -->
 <div align='center'>
@@ -311,8 +313,11 @@ If you are interested in what I have been working on lately then check out my la
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
 </div>
 
+<div align = "center">
 
+![Metrics](https://metrics.lecoq.io/grahamwaters?template=classic&isocalendar=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=true&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=America%2FChicago)
 
+</div>
 
 # How to Support My Work
 
