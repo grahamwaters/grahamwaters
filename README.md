@@ -18,15 +18,9 @@
 <!-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unit9.com%2Fproject%2Ffalling-water-center-dream-research%2F&psig=AOvVaw1io37EI0DpNTFb44f1nimy&ust=1668212139465000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIj5qtLspPsCFQAAAAAdAAAAABAH -->
 
 
-<div align="left" >
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Researcher;Technical+Journalist;Data+Analyst;A.I.+Enthusiast;Always%20learning%20new%20things&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
-</p>
 
-<p align="center">
 
-![main](images/banner4.gif)
+<!-- ![main](images/banner4.gif) -->
 
 </p>
 
@@ -348,3 +342,14 @@ If you'd like to contribute to the hours that I spend staring at my screen in de
 <br/>
 
 ![ai](images/ai_banner.gif)
+
+
+<div align="left" >
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Researcher;Technical+Journalist;Data+Analyst;A.I.+Enthusiast;Always%20learning%20new%20things&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
+</p>
+
+<p align="center">
+
+M
