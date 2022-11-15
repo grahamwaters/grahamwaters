@@ -9,53 +9,16 @@
 
 </h1> -->
 
+![main](images/hq_intro_banner.gif)
 
 
-
+![Metrics](https://metrics.lecoq.io/grahamwaters?template=classic&base.hireable=true&habits=1&achievements=1&languages=1&isocalendar=1&lines=1&stars=1&introduction=1&code=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.aliases=python%3Apython3&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=6&habits=false&habits.from=1000&habits.days=90&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=true&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=false&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&code.languages=python&config.timezone=America%2FChicago&config.display=large)
 
 
 <!-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unit9.com%2Fproject%2Ffalling-water-center-dream-research%2F&psig=AOvVaw1io37EI0DpNTFb44f1nimy&ust=1668212139465000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIj5qtLspPsCFQAAAAAdAAAAABAH -->
 
-![main](images/hq_intro_banner.gif)
-
-
-
-
-<div align='left'>
-<!-- <h1>~$ Who Am I?</h1> -->
-
-<p align="left">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=~$whoami;About+Me;Introduction&font=menlo%20Code&center=false&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=8000" /></a>
-</p>
-</div>
-
-
-
-
-
 
 <div align="left" >
-
-*   🌍  I'm based in Austin, Texas
-
-* I am a Texas Tech (Undergrad) Alumni, and a Brandeis University (Graduate) Alumni.
-
-*  🎓  My Master's is in Strategic Analytics.
-
-- 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
-
-- 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn. I'd like to get into NLP and GPT-3 with OpenAI as well.
-
-- ❓ Ask me about anything you'd like to know about Python or its related technologies, I'd love to chat.
-
-- 📫 How to reach me: LinkedIn, Discord, or Email.
-
-- ⚡ Fun fact: I am a huge fan of SETI, and am fascinated by the Hum and everything about the James Webb Space Telescope.
-- Finally, If I had to be a movie genre, I'd be SciPy.
-
-
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Researcher;Technical+Journalist;Data+Analyst;A.I.+Enthusiast;Always%20learning%20new%20things&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
@@ -74,6 +37,7 @@
 
 ---
 
+- [More Details About Me](#more-details-about-me)
 - [Progress Report](#progress-report)
   - [PySeas](#pyseas)
   - [Lorebook Generator for NovelAI](#lorebook-generator-for-novelai)
@@ -86,9 +50,33 @@
 - [My Backburner Projects](#my-backburner-projects)
 - [How to Support My Work](#how-to-support-my-work)
 
+</div>
+
+
+<div align='left'>
 
 ---
 
+# More Details About Me
+
+*   🌍  I'm based in Austin, Texas
+
+* I am a Texas Tech (Undergrad) Alumni, and a Brandeis University (Graduate) Alumni.
+
+*  🎓  My Master's is in Strategic Analytics.
+
+- 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
+
+- 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn. I'd like to get into NLP and GPT-3 with OpenAI as well.
+
+- ❓ Ask me about anything you'd like to know about Python or its related technologies, I'd love to chat.
+
+- 📫 How to reach me: LinkedIn, Discord, or Email.
+
+- ⚡ Fun fact: I am a huge fan of SETI, and am fascinated by the Hum and everything about the James Webb Space Telescope.
+- Finally, If I had to be a movie genre, I'd be SciPy.
+
+---
 # Progress Report
 **11/10/2022**
 
@@ -313,11 +301,6 @@ If you are interested in what I have been working on lately then check out my la
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
 </div>
 
-<div align = "center">
-
-![Metrics](https://metrics.lecoq.io/grahamwaters?template=classic&isocalendar=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=true&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=America%2FChicago)
-
-</div>
 
 # How to Support My Work
 
