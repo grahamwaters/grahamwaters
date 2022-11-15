@@ -24,12 +24,12 @@
 
 </p>
 
----
-
 <h1 align='Center'
 > Table of Contents </h1>
 
 ---
+
+<div align = 'left'>
 
 - [More Details About Me](#more-details-about-me)
 - [Progress Report](#progress-report)
