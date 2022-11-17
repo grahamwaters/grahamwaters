@@ -260,7 +260,7 @@ If you are interested in what I have been working on lately then check out my la
 
 # Upcoming Presentations 📢
 
-| **Presentation Name** | **Status Metrics** | **Focus** | **Date Estimated** | **Location** |
+| **Presentation Name** | **Topics** | **Focus** | **Date Estimated** | **Location** |
 |---|---|---|---|---|
 | How we can use AI Assistants without surrendering our autonomy in the age of AI-enhanced programming and authorship. | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![copilot](https://img.shields.io/badge/Copilot-enabled-brightgreen) ![novelai](https://img.shields.io/badge/NovelAI-Snek-blue) | GitHub Copilot, NovelAI's Snek and responsible usage of AI. | Feb/March 2023 | Austin Python Meetup (Virtual) |
 
