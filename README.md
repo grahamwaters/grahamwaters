@@ -54,8 +54,6 @@ this is the hand like a gun emoji
 - ⚡ Fun fact: I am a huge fan of SETI, and am fascinated by the Hum and everything about the James Webb Space Telescope.
 - Finally, If I had to be a movie genre, I'd be SciPy.
 
----
-
 
 ---
 
@@ -66,7 +64,6 @@ this is the hand like a gun emoji
 
 <div align = 'left'>
 
-- [About Me](#about-me)
 - [Progress Report](#progress-report)
   - [PySeas](#pyseas)
   - [Lorebook Generator for NovelAI](#lorebook-generator-for-novelai)
@@ -75,6 +72,7 @@ this is the hand like a gun emoji
 - [Tools I Am Developing](#tools-i-am-developing)
 - [Most Recent Projects](#most-recent-projects)
 - [Projects Currently Under Construction 🏗️](#projects-currently-under-construction-️)
+- [Upcoming Presentations 📢](#upcoming-presentations-)
 - [Tools and Simple Projects](#tools-and-simple-projects)
 - [My Backburner Projects](#my-backburner-projects)
 - [How to Support My Work](#how-to-support-my-work)
@@ -201,7 +199,6 @@ IBM has made strides towards collating wikipedia knowledge and creating a knowle
 </div>
 
 # Research Projects
-<a href="https://github.com/grahamwaters/DISASTERS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DISASTERS&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DISASTERS"></a>
   <a href="https://github.com/grahamwaters/HowTimeFlies"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=HowTimeFlies&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="HowTimeFlies"></a>
   <a href="https://github.com/grahamwaters/DisariumPy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DisariumPy&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DisariumPy"></a>
 # Tools I Am Developing
@@ -258,6 +255,15 @@ If you are interested in what I have been working on lately then check out my la
 [Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Reddit-NLP-Analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Reddit-NLP-Analysis) | A Python script that uses the Push Shift API to scrape Reddit comments and perform NLP analysis on them. | Nov. 2022 |
 [Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. | Nov. 2022 |
 | [Genre Identity](https://github.com/grahamwaters/GenreIdentity) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/GenreIdentity) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/GenreIdentity) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/GenreIdentity) | Why should music be confined to the genres that society imposes on it? This project seeks to truly understand the inner workings of what makes a musical genre using Spotify's python API.| Nov. 2022|
+| [Quantifying Disasters via NLP](https://github.com/grahamwaters/Quantifying_Disasters_via_NLP) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Quantifying_Disasters_via_NLP) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Quantifying_Disasters_via_NLP) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Quantifying_Disasters_via_NLP) | Can NLP be used to quantify the impact of a disaster? | Jan. 2023 |
+
+# Upcoming Presentations 📢
+
+| **Presentation Name** | **Status Metrics** | **Focus** | **Date Estimated** | **Location** |
+|---|---|---|---|---|
+| How we can use AI Assistants without surrendering our autonomy in the age of AI-enhanced programming and authorship. | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![copilot](https://img.shields.io/badge/Copilot-enabled-brightgreen) ![novelai](https://img.shields.io/badge/NovelAI-Snek-blue) | GitHub Copilot, NovelAI's Snek and responsible usage of AI. | Feb/March 2023 | Austin Python Meetup (Virtual) |
+
+
 
 # Tools and Simple Projects
 | **Project Name** | **Badges** | **Description** |
