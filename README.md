@@ -78,6 +78,7 @@ this is the hand like a gun emoji
 - [How to Support My Work](#how-to-support-my-work)
 
 </div>
+
 # Progress Report
 **11/10/2022**
 
