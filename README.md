@@ -33,11 +33,13 @@
 
 ## Hi There! 👋 welcome to my GitHub!
 
+<div align="center">
+<a href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herokuapp.com/graph?username=grahamwaters&theme=react-dark&hide_border=false&area=true&color=FFD43B" /></a>
+</div>
+
+
 **Some Quick Facts About Me:**
 * 🌍  I'm based in Austin, Texas.
-
-texas tech
-this is the hand like a gun emoji
 
 * Texas Tech (Undergrad) Alumni, and a Brandeis University (Graduate) Alumni.
 
@@ -169,9 +171,7 @@ IBM has made strides towards collating wikipedia knowledge and creating a knowle
 
 <!-- create a new div with commits graph -->
 
-<div align="center">
-<a href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herokuapp.com/graph?username=grahamwaters&theme=react-dark&hide_border=false&area=true&color=FFD43B" /></a>
-</div>
+
 <br/>
 
 
