@@ -94,6 +94,7 @@
 
 <div align = 'left'>
 
+- [Latest Blog Posts](#latest-blog-posts)
 - [Progress Report](#progress-report)
   - [PySeas](#pyseas)
   - [Lorebook Generator for NovelAI](#lorebook-generator-for-novelai)
@@ -108,6 +109,13 @@
 - [How to Support My Work](#how-to-support-my-work)
 
 </div>
+
+# Latest Blog Posts
+
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 # Progress Report
 **11/10/2022**
