@@ -94,10 +94,6 @@
 
 <div align = 'left'>
 
-- [Latest Blog Posts](#latest-blog-posts)
-- [Progress Report](#progress-report)
-  - [PySeas](#pyseas)
-  - [Lorebook Generator for NovelAI](#lorebook-generator-for-novelai)
 - [What is in my Tool Box?](#what-is-in-my-tool-box)
 - [Research Projects](#research-projects)
 - [Tools I Am Developing](#tools-i-am-developing)
@@ -106,56 +102,12 @@
 - [Upcoming Presentations 📢](#upcoming-presentations-)
 - [Tools and Simple Projects](#tools-and-simple-projects)
 - [My Backburner Projects](#my-backburner-projects)
+- [Progress Report](#progress-report)
+  - [PySeas](#pyseas)
+  - [Lorebook Generator for NovelAI](#lorebook-generator-for-novelai)
 - [How to Support My Work](#how-to-support-my-work)
 
 </div>
-
-# Latest Blog Posts
-
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-# Progress Report
-**11/10/2022**
-
-## [PySeas](https://github.com/grahamwaters/PySeas)
-
-
-![issues](https://img.shields.io/github/issues/grahamwaters/pyseas?style=for-the-badge)
-![forks](https://img.shields.io/github/forks/grahamwaters/pyseas?style=for-the-badge)
-![stars](https://img.shields.io/github/stars/grahamwaters/pyseas?style=for-the-badge)
-![license](https://img.shields.io/github/license/grahamwaters/pyseas?style=for-the-badge)
-![last commit](https://img.shields.io/github/last-commit/grahamwaters/pyseas?style=for-the-badge)
-
-![main](images/6.png)
-
-Successfully Logged Six Days of Data from the NOAA API
-There are promising results in the images that the PySeas project has produced. It seems highly likely that finding the perfect sunset is just over the horizon!
-
-![sunset1](images/sunset2.jpg)
-![sunset2](images/sunset3.jpg)
-
-Using CV2 to stitch these images together and optimizing the algorithm to retrieve the images at the most optimal time of day is the next step. I'm also looking into using any open source equivilant of [Google Cloud Vision API](https://cloud.google.com/vision) to detect the horizon line and crop the images accordingly. CV2 may be able to do this, but at scale it may not be the most efficient.
-
-## [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai)
-
-![lorebookbanner](images/lorebookbanner.png)
-
-
-<!-- add badges -->
-![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
-![forks](https://img.shields.io/github/forks/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
-![stars](https://img.shields.io/github/stars/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
-![license](https://img.shields.io/github/license/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
-![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
-
-
-
-IBM has made strides towards collating wikipedia knowledge and creating a knowledge graph. This is a great step towards the creation of a lorebook generator for authors. I've been working on a project that will allow authors to use the NovelAI API to generate a lorebook for their world. This will allow authors to jumpstart their productivity with machine learning. I've been working on this project for a few weeks now, and I'm excited to see the results. I'm hoping to have a working prototype by the end of the month.
-
----
 
 # What is in my Tool Box?
 
@@ -325,6 +277,45 @@ If you are interested in what I have been working on lately then check out my la
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
 </div>
 
+# Progress Report
+**11/10/2022**
+
+## [PySeas](https://github.com/grahamwaters/PySeas)
+
+
+![issues](https://img.shields.io/github/issues/grahamwaters/pyseas?style=for-the-badge)
+![forks](https://img.shields.io/github/forks/grahamwaters/pyseas?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/grahamwaters/pyseas?style=for-the-badge)
+![license](https://img.shields.io/github/license/grahamwaters/pyseas?style=for-the-badge)
+![last commit](https://img.shields.io/github/last-commit/grahamwaters/pyseas?style=for-the-badge)
+
+![main](images/6.png)
+
+Successfully Logged Six Days of Data from the NOAA API
+There are promising results in the images that the PySeas project has produced. It seems highly likely that finding the perfect sunset is just over the horizon!
+
+![sunset1](images/sunset2.jpg)
+![sunset2](images/sunset3.jpg)
+
+Using CV2 to stitch these images together and optimizing the algorithm to retrieve the images at the most optimal time of day is the next step. I'm also looking into using any open source equivilant of [Google Cloud Vision API](https://cloud.google.com/vision) to detect the horizon line and crop the images accordingly. CV2 may be able to do this, but at scale it may not be the most efficient.
+
+## [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai)
+
+![lorebookbanner](images/lorebookbanner.png)
+
+
+<!-- add badges -->
+![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+![forks](https://img.shields.io/github/forks/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+![license](https://img.shields.io/github/license/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+
+
+
+IBM has made strides towards collating wikipedia knowledge and creating a knowledge graph. This is a great step towards the creation of a lorebook generator for authors. I've been working on a project that will allow authors to use the NovelAI API to generate a lorebook for their world. This will allow authors to jumpstart their productivity with machine learning. I've been working on this project for a few weeks now, and I'm excited to see the results. I'm hoping to have a working prototype by the end of the month.
+
+---
 
 # How to Support My Work
 
