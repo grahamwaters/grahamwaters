@@ -38,6 +38,9 @@
 </div>
 
 
+
+    
+    
 **Some Quick Facts About Me:**
 * 🌍  I'm based in Austin, Texas.
 
