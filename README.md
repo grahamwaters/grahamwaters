@@ -39,8 +39,8 @@
 
 
 
-    
-    
+
+
 **Some Quick Facts About Me:**
 * 🌍  I'm based in Austin, Texas.
 
@@ -114,16 +114,7 @@
 
 # What is in my Tool Box?
 
-<h1 align='Center' style= "color: #FFD43B">
-</h1>
-
-<div align = "center">
-
-| Currently Learning | General Topics |
-| --- | --- |
-| <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="60"/> </a><a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="" height="60" /> </a>| Deep learning and Neural Networks.|
-
-</div>
+<h3 align='Center' style= "color: #FFD43B">
 
 | My Favorite Tools| Tools I've Used |
 | --- | --- |
@@ -133,14 +124,16 @@
 | --- | --- |
 | <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" /></a> | <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
 
-<h1>
-</h1>
 
 <!-- create a new div with commits graph -->
+<div align = "center">
 
+| Currently Learning | General Topics |
+| --- | --- |
+| <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="60"/> </a><a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="" height="60" /> </a>| Deep learning and Neural Networks.|
 
-<br/>
-
+</h3>
+</div>
 
 </p>
 <div align='center'>
