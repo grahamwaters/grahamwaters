@@ -198,10 +198,6 @@ If you are interested in what I have been working on lately, check out my latest
 |---|---|---|
 [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
 [PySeas](https://github.com/grahamwaters/PySeas) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/PySeas) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/PySeas) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/PySeas) | Utilizing NOAA buoy camera catches to track the sunset across the vast surface of the earth's oceans. |
-
-
-
-|
 [How Time Flies](https://github.com/grahamwaters/HowTimeFlies) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/HowTimeFlies) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/HowTimeFlies) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/HowTimeFlies) | A research experiment using `requests` and google images to illustrate how a search query visually changes when supplied with a year. |
 
 
