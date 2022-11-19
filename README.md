@@ -44,19 +44,19 @@
 **Some Quick Facts About Me:**
 * 🌍  I'm based in Austin, Texas.
 
-* Texas Tech (Undergrad) Alumni, and a Brandeis University (Graduate) Alumni.
+* Texas Tech (Undergrad) Alumni and Brandeis University (Graduate) Alumni.
 
 *  🎓  My Master's is in Strategic Analytics.
 
 - 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
 
-- 🌱 I’m currently learning Neural Networks and Text Summation in Sklearn. I'd like to get into NLP and GPT-3 with OpenAI as well.
+- 🌱 I'm currently learning Neural Networks and Text Summation in Sklearn. I'd also like to get into NLP and GPT-3 with OpenAI.
 
-- ❓ Ask me about anything you'd like to know about Python or its related technologies, I'd love to chat.
+- ❓ Ask me anything you'd like to know about Python or its related technologies; I'd love to chat.
 
 - 📫 How to reach me: LinkedIn, Discord, or Email.
 
-- ⚡ Fun fact: I am a huge fan of SETI, and am fascinated by the Hum and everything about the James Webb Space Telescope.
+- ⚡ Fun fact: I am a massive fan of SETI and am fascinated by the Hum and everything about the James Webb Space Telescope.
 - Finally, If I had to be a movie genre, I'd be SciPy.
 
 
@@ -99,11 +99,11 @@
 
 - [What is in my Tool Box?](#what-is-in-my-tool-box)
 - [Research Projects](#research-projects)
-- [Tools I Am Developing](#tools-i-am-developing)
+- [Tools in Development](#tools-in-development)
 - [Most Recent Projects](#most-recent-projects)
 - [Projects Currently Under Construction 🏗️](#projects-currently-under-construction-️)
 - [Upcoming Presentations 📢](#upcoming-presentations-)
-- [Tools and Simple Projects](#tools-and-simple-projects)
+- [Open-Sourced Tool Repositories](#open-sourced-tool-repositories)
 - [My Backburner Projects](#my-backburner-projects)
 - [Progress Report](#progress-report)
   - [PySeas](#pyseas)
@@ -114,26 +114,26 @@
 
 # What is in my Tool Box?
 
-<h3 align='Center' style= "color: #FFD43B">
+<div align = 'center'>
 
-| My Favorite Tools| Tools I've Used |
-| --- | --- |
-|<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a> <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a><a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a> <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" width="" height="60"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/numpy/numpy/2ad596fc8d015dd3f5ee30bedf068c2c3daf60d2/branding/logo/primary/numpylogo.svg" alt="numpy" width="" height="60"/> </a><a href='matplotlib.org' target="_blank"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="" height="60"/> </a><a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="seaborn" width="" height="60"/> </a><img src="https://black.readthedocs.io/en/stable/_static/logo2-readme.png" width="" height="60" /><a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="" height="60"/> | <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a><a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  |
+  | My Favorite Tools| Tools I've Used |
+  | --- | --- |
+  |<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a> <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a><a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a> <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" width="" height="60"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/numpy/numpy/2ad596fc8d015dd3f5ee30bedf068c2c3daf60d2/branding/logo/primary/numpylogo.svg" alt="numpy" width="" height="60"/> </a><a href='matplotlib.org' target="_blank"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="" height="60"/> </a><a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="seaborn" width="" height="60"/> </a><img src="https://black.readthedocs.io/en/stable/_static/logo2-readme.png" width="" height="60" /><a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="" height="60"/> | <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a><a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  |
 
-| |  |
-| --- | --- |
-| <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" /></a> | <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
+  | |  |
+  | --- | --- |
+  | <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" /></a> | <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
+
+</div>
 
 
-<!-- create a new div with commits graph -->
-<div align = "center">
+<h2 align = 'center'>
 
 | Currently Learning | General Topics |
 | --- | --- |
 | <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="60"/> </a><a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="" height="60" /> </a>| Deep learning and Neural Networks.|
 
-</h3>
-</div>
+</h2>
 
 </p>
 
@@ -155,7 +155,8 @@
 # Research Projects
   <a href="https://github.com/grahamwaters/HowTimeFlies"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=HowTimeFlies&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="HowTimeFlies"></a>
   <a href="https://github.com/grahamwaters/DisariumPy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DisariumPy&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DisariumPy"></a>
-# Tools I Am Developing
+
+# Tools in Development
 <a href="https://github.com/grahamwaters/Clark-Kent-Reporter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Clark-Kent-Reporter&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Clark-Kent-Reporter"></a>
 <a href="https://github.com/grahamwaters/medium_titles_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=medium_titles_analysis&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="medium_titles_analysis"></a>
 <a href="https://github.com/grahamwaters/druginfo_scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=druginfo_scraper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="druginfo_scraper"></a>
@@ -175,7 +176,7 @@
 <!-- <a href="https://www.github.com/grahamwaters" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/grahamwaters?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
  -->
 
-If you are interested in what I have been working on lately then check out my latest projects (shown below). I include a short description of each project and a link to the repository. If you have any questions or comments, please feel free to reach out to me on [Twitter](https://twitter.com/GrahamWaters1) or [LinkedIn](https://www.linkedin.com/in/grahamwaters/).
+If you are interested in what I have been working on lately, check out my latest projects (shown below). I include a short description of each project and a link to the repository. If you have any questions or comments, please feel free to reach out to me on [Twitter](https://twitter.com/GrahamWaters1) or [LinkedIn](https://www.linkedin.com/in/grahamwaters/).
 
 
 
@@ -184,7 +185,7 @@ If you are interested in what I have been working on lately then check out my la
 
 
 <!-- align="center">Projects that I Love</div> -->
-<!-- make title "Projects I Love" and center it -->
+<!-- make the title "Projects I Love" and center it -->
 
 <!-- Projects to include in the table below:
 1. Lorebook generator
@@ -195,9 +196,9 @@ If you are interested in what I have been working on lately then check out my la
  -->
 | **Project Name** | **Badges** | **Description** |
 |---|---|---|
-[Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom json lorebook (based on pulls from wikipedia artiles) for the website NovelAI. |
+[Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
 [PySeas](https://github.com/grahamwaters/PySeas) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/PySeas) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/PySeas) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/PySeas) | A Python package that provides a simple interface to the NOAA CO-OPS API. |
-[How Time Flies](https://github.com/grahamwaters/HowTimeFlies) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/HowTimeFlies) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/HowTimeFlies) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/HowTimeFlies) | A research experiment using `requests` and google images to illustrate how a seearch query visually changes when supplied with a year. |
+[How Time Flies](https://github.com/grahamwaters/HowTimeFlies) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/HowTimeFlies) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/HowTimeFlies) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/HowTimeFlies) | A research experiment using `requests` and google images to illustrate how a search query visually changes when supplied with a year. |
 
 
 # Projects Currently Under Construction 🏗️
@@ -212,7 +213,7 @@ If you are interested in what I have been working on lately then check out my la
 | [What would Doyle do?](https://github.com/grahamwaters/what_would_doyle_do) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/what_would_doyle_do) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/what_would_doyle_do) | Can machine learning be applied to existing text data that an author writes or about a person that can help historical fiction authors write more accurately about their subject? | Dec. 2022 |
 [Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Reddit-NLP-Analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Reddit-NLP-Analysis) | A Python script that uses the Push Shift API to scrape Reddit comments and perform NLP analysis on them. | Nov. 2022 |
 [Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. | Nov. 2022 |
-| [Genre Identity](https://github.com/grahamwaters/GenreIdentity) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/GenreIdentity) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/GenreIdentity) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/GenreIdentity) | Why should music be confined to the genres that society imposes on it? This project seeks to truly understand the inner workings of what makes a musical genre using Spotify's python API.| Nov. 2022|
+| [Genre Identity](https://github.com/grahamwaters/GenreIdentity) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/GenreIdentity) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/GenreIdentity) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/GenreIdentity) | Why should music be confined to the genres that society imposes on it? This project seeks to truly understand the inner workings of what makes a musical genre using Spotify's Python API.| Nov. 2022|
 | [Quantifying Disasters via NLP](https://github.com/grahamwaters/Quantifying_Disasters_via_NLP) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Quantifying_Disasters_via_NLP) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Quantifying_Disasters_via_NLP) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Quantifying_Disasters_via_NLP) | Can NLP be used to quantify the impact of a disaster? | Jan. 2023 |
 
 # Upcoming Presentations 📢
@@ -223,7 +224,7 @@ If you are interested in what I have been working on lately then check out my la
 
 
 
-# Tools and Simple Projects
+# Open-Sourced Tool Repositories
 | **Project Name** | **Badges** | **Description** |
 |---|---|---|
 | [Drug Information Scraper](https://github.com/grahamwaters/druginfo_scraper) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/druginfo_scraper) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/druginfo_scraper) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/druginfo_scraper) ![stars](https://img.shields.io/github/stars/grahamwaters/druginfo_scraper?color=purple) | A Python script that scrapes drug information from the FDA website. |
@@ -289,12 +290,12 @@ If you are interested in what I have been working on lately then check out my la
 ![main](images/6.png)
 
 Successfully Logged Six Days of Data from the NOAA API
-There are promising results in the images that the PySeas project has produced. It seems highly likely that finding the perfect sunset is just over the horizon!
+There are promising results in the images that the PySeas project has produced. Finally, finding the perfect sunset is likely over the horizon!
 
 ![sunset1](images/sunset2.jpg)
 ![sunset2](images/sunset3.jpg)
 
-Using CV2 to stitch these images together and optimizing the algorithm to retrieve the images at the most optimal time of day is the next step. I'm also looking into using any open source equivilant of [Google Cloud Vision API](https://cloud.google.com/vision) to detect the horizon line and crop the images accordingly. CV2 may be able to do this, but at scale it may not be the most efficient.
+The next step is to use CV2 to stitch these images together and optimize the algorithm to retrieve the photos at the most optimal time of day. I'm also looking into using any open-source equivalent of [Google Cloud Vision API](https://cloud.google.com/vision) to detect the horizon line and crop the images accordingly. Again, CV2 may be able to do this, but at scale, it may not be the most efficient.
 
 ## [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai)
 
@@ -310,13 +311,13 @@ Using CV2 to stitch these images together and optimizing the algorithm to retrie
 
 
 
-IBM has made strides towards collating wikipedia knowledge and creating a knowledge graph. This is a great step towards the creation of a lorebook generator for authors. I've been working on a project that will allow authors to use the NovelAI API to generate a lorebook for their world. This will allow authors to jumpstart their productivity with machine learning. I've been working on this project for a few weeks now, and I'm excited to see the results. I'm hoping to have a working prototype by the end of the month.
+IBM has made strides toward collating Wikipedia knowledge and creating a knowledge graph. This is an excellent step towards creating a lorebook generator for authors. In addition, I've been working on a project allowing authors to use the NovelAI API to generate a lorebook for their world. This will enable authors to jumpstart their productivity with machine learning. I've been working on this project for a few weeks now, and I'm excited to see the results. I hope to have a working prototype by the end of the month.
 
 ---
 
 # How to Support My Work
 
-If you'd like to contribute to the hours that I spend staring at my screen in deep concentration I welcome any and all caffeine donations. ☕ Also, if you'd like to sponsor a project that you see on my page please reach out and let me know where I should focus my attention. Open Source is a big brave new world. Cheers!
+If you'd like to contribute to the hours, I spend staring at my screen in deep concentration, I welcome any caffeine donations. ☕ Also, if you'd like to sponsor a project you see on my page, please let me know where I should focus my attention. Open Source is a big brave new world. Cheers!
 
 <div align='Center'>
 
