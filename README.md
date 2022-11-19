@@ -272,8 +272,12 @@ If you are interested in what I have been working on lately then check out my la
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
 </div>
 
+<div align='left'>
+
 # Progress Report
 **11/10/2022**
+
+</div>
 
 ## [PySeas](https://github.com/grahamwaters/PySeas)
 
