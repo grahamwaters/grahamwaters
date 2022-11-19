@@ -38,7 +38,7 @@
 </div>
 
 
-** <--- Hit follow! **
+
     
     
 **Some Quick Facts About Me:**
