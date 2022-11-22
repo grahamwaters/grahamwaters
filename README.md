@@ -62,7 +62,9 @@
 
 ---
 
-<h1 align='center'>Languages and Frameworks</h4>
+<h1 align='center'>Languages and Frameworks
+</h1>
+
 <p align="center">
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
@@ -97,7 +99,6 @@
 
 <div align = 'left'>
 
-- [What is in my Tool Box?](#what-is-in-my-tool-box)
 - [Research Projects](#research-projects)
 - [Tools in Development](#tools-in-development)
 - [Most Recent Projects](#most-recent-projects)
@@ -112,7 +113,7 @@
 
 </div>
 
-# What is in my Tool Box?
+<!-- # What is in my Tool Box?
 
 <div align = 'center'>
 
@@ -124,18 +125,24 @@
   | --- | --- |
   | <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" /></a> | <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
 
+</div> -->
+
+---
+
+<div align = 'center'>
+<h1> My Favorite Tools </h1>
+ <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a> <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a><a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a> <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" width="" height="60"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/numpy/numpy/2ad596fc8d015dd3f5ee30bedf068c2c3daf60d2/branding/logo/primary/numpylogo.svg" alt="numpy" width="" height="60"/> </a><a href='matplotlib.org' target="_blank"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="" height="60"/> </a><a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="seaborn" width="" height="60"/> </a><img src="https://black.readthedocs.io/en/stable/_static/logo2-readme.png" width="" height="60" /><a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="" height="60"/>
+
+
+
+ <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" /></a>
+  <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 </div>
 
 
-<h2 align = 'center'>
 
-| Currently Learning | General Topics |
-| --- | --- |
-| <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="60"/> </a><a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="" height="60" /> </a>| Deep learning and Neural Networks.|
-
-</h2>
-
-</p>
+---
 
 <div align='center'>
 
