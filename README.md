@@ -62,7 +62,9 @@
 
 ---
 
-<h1 align='center'>Languages and Frameworks</h4>
+<h1 align='center'>Languages and Frameworks
+</h1>
+
 <p align="center">
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
@@ -97,7 +99,6 @@
 
 <div align = 'left'>
 
-- [What is in my Tool Box?](#what-is-in-my-tool-box)
 - [Research Projects](#research-projects)
 - [Tools in Development](#tools-in-development)
 - [Most Recent Projects](#most-recent-projects)
@@ -108,11 +109,13 @@
 - [Progress Report](#progress-report)
   - [PySeas](#pyseas)
   - [Lorebook Generator for NovelAI](#lorebook-generator-for-novelai)
+  - [What Would Doyle Do?](#what-would-doyle-do)
+  - [November 21, 2022](#november-21-2022)
 - [How to Support My Work](#how-to-support-my-work)
 
 </div>
 
-# What is in my Tool Box?
+<!-- # What is in my Tool Box?
 
 <div align = 'center'>
 
@@ -124,18 +127,24 @@
   | --- | --- |
   | <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" /></a> | <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
 
+</div> -->
+
+---
+
+<div align = 'center'>
+<h1> My Favorite Tools </h1>
+ <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a> <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a><a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a> <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" width="" height="60"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/numpy/numpy/2ad596fc8d015dd3f5ee30bedf068c2c3daf60d2/branding/logo/primary/numpylogo.svg" alt="numpy" width="" height="60"/> </a><a href='matplotlib.org' target="_blank"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="" height="60"/> </a><a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="seaborn" width="" height="60"/> </a><img src="https://black.readthedocs.io/en/stable/_static/logo2-readme.png" width="" height="60" /><a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="" height="60"/>
+
+
+
+ <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" /></a>
+  <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 </div>
 
 
-<h2 align = 'center'>
 
-| Currently Learning | General Topics |
-| --- | --- |
-| <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="60"/> </a><a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="" height="60" /> </a>| Deep learning and Neural Networks.|
-
-</h2>
-
-</p>
+---
 
 <div align='center'>
 
@@ -314,6 +323,23 @@ The next step is to use CV2 to stitch these images together and optimize the alg
 
 
 IBM has made strides toward collating Wikipedia knowledge and creating a knowledge graph. This is an excellent step towards creating a lorebook generator for authors. In addition, I've been working on a project allowing authors to use the NovelAI API to generate a lorebook for their world. This will enable authors to jumpstart their productivity with machine learning. I've been working on this project for a few weeks now, and I'm excited to see the results. I hope to have a working prototype by the end of the month.
+
+
+## [What Would Doyle Do?](https://github.com/grahamwaters/what_would_doyle_do)
+
+![wwdd](images/whatwoulddoyledo.gif)
+
+<!-- add badges -->
+![issues](https://img.shields.io/github/issues/grahamwaters/what_would_doyle_do?style=for-the-badge)
+![forks](https://img.shields.io/github/forks/grahamwaters/what_would_doyle_do?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/grahamwaters/what_would_doyle_do?style=for-the-badge)
+![license](https://img.shields.io/github/license/grahamwaters/what_would_doyle_do?style=for-the-badge)
+![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do?style=for-the-badge)
+
+## November 21, 2022
+
+So far, we have gathered data for WWDD from Gutenberg's corpus. What data can we collect about Arthur Conan Doyle that will enable us to solve this problem? We need every book he's ever written, around 80 books, provided through the Gutenberg repository. These books are included in the Data folder as text files; second, I would like to have anything he wrote that was a first-hand account because this is where we will get his personal preferences and his turns of phrase, and maybe even his personal biases, which are probably the most important things to gather once we gather his diaries, journals. Things other people said about him are the next step. Now we want to gather any second-hand accounts of Doyle. Many people have researched historical figures for years, and repeating them seems like a useless task and is a waste of precious resources. So in this step, we want to gather any biographies about Arthur Conan Doyle and any articles about him, primarily if they were written about him in the time he lived. And this might be most useful if we were to gather the names of all of his second-degree connections. If we think about it, in terms of a LinkedIn network, though, Doyle's second-degree connections are the most likely to have the most accurate depictions of his preferences. This is, of course, an assumption that I am making. Once we gather the names of his second-degree connections, I think it would be an excellent step to assign weight to their accounts based on the boolean characteristic 'writer' (if they authored anything themselves besides what they said about Doyle).
+
 
 ---
 
