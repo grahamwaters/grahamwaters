@@ -35,10 +35,15 @@
 
 <div align="center">
 <a href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herokuapp.com/graph?username=grahamwaters&theme=react-dark&hide_border=false&area=true&color=FFD43B" /></a>
+
+---
 </div>
 
+<div align='center'>
 
+[<img src = 'https://img.shields.io/badge/Calendly-Schedule%20a%20Conversation-blue'>](<https://calendly.com/gwaters_business/availability>)
 
+</div>
 
 
 **Some Quick Facts About Me:**
@@ -48,15 +53,14 @@
 
 *  🎓  My Master's is in Strategic Analytics.
 
-- 🔭 I’m currently working on [NovelAI - Lorebook Generation](https://github.com/grahamwaters/lorebook_generator_for_novelai.git) for authors that are jumpstarting their productivity with machine learning.
+- 🔭 I’m currently working on several projects that are listed below, mostly brushing up on my machine learning skills and how they can be applied to various problem scenarios.
 
 - 🌱 I'm currently learning Neural Networks and Text Summation in Sklearn. I'd also like to get into NLP and GPT-3 with OpenAI.
 
-- ❓ Ask me anything you'd like to know about Python or its related technologies; I'd love to chat.
-
-- 📫 How to reach me: LinkedIn, Discord, or Email.
+- 📫
 
 - ⚡ Fun fact: I am a massive fan of SETI and am fascinated by the Hum and everything about the James Webb Space Telescope.
+
 - Finally, If I had to be a movie genre, I'd be SciPy.
 
 
@@ -123,13 +127,17 @@
 
 
 
- <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="grahamwaters's GitHub stats" /></a>
+ <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-stats.vercel.app/api?username=grahamwaters&show_icons=true
+ &count_private=true
+ &theme=synthwave&hide_border=true\../../images/02_gif.gif
+ &include_all_commits=True
+ &show_icons=true" alt="grahamwaters's GitHub stats" /></a>
+
+
   <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </div>
 
-
----
 
 ---
 
@@ -226,8 +234,7 @@ If you are interested in what I have been working on lately, check out my latest
 | [Drug Information Scraper](https://github.com/grahamwaters/druginfo_scraper) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/druginfo_scraper) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/druginfo_scraper) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/druginfo_scraper) ![stars](https://img.shields.io/github/stars/grahamwaters/druginfo_scraper?color=purple) ![issues](https://img.shields.io/github/issues/grahamwaters/druginfo_scraper)| A Python script that scrapes drug information from the FDA website. |
 | [Clark Kent Reporter](https://github.com/grahamwaters/Clark-Kent-Reporter) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Clark-Kent-Reporter) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Clark-Kent-Reporter) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Clark-Kent-Reporter) ![stars](https://img.shields.io/github/stars/grahamwaters/Clark-Kent-Reporter?color=purple) ![issues](https://img.shields.io/github/issues/grahamwaters/Clark-Kent-Reporter) |This tool converts a traditionally formatted overview (in a readme file) into a populated Jupyter Notebook for data science presentations or findings presentations. |
 
-<div align = 'center'>
-<a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=CheatSheets_For_Programmers&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="CheatSheets_For_Programmers"></a>
+<div align="center">
 <a href="https://github.com/grahamwaters/FamilyPhotoResurrection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=FamilyPhotoResurrection&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="FamilyPhotoResurrection"></a>
 <!-- end of table -->
 </div>
