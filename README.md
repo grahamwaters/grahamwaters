@@ -66,6 +66,10 @@
 
 ---
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=grahamwaters&&style=flat-square" align="center" />
+</div>
+
 <h1 align='center'>Languages and Frameworks
 </h1>
 
@@ -367,28 +371,11 @@ If you'd like to contribute to the hours, I spend staring at my screen in deep c
 <!-- tron_blue = "#1F222E" -->
 <!-- # the color for yellow (python yellow) is #FFD43B -->
 <!-- The color for python blue is #3776AB -->
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Text+Classification;Natural+Language+Processing+(NLP);Supervised+Learning;Logistic+Regression;Linear+Regression;Logistic+Regression;Classification;Readability+Counts;Matplotlib;Seaborn;Excel+as+a+last+resort;OSX+>+Loading;Data+Analysis;Performing+EDA;Data+Cleaning;More+Data+Cleaning;...more+data+cleaning;automating+data+cleaning;finding+joy!;Outlier+Detection;Feature+Engineering;Feature+Selection;Modeling;Model+Evaluation;Boosting+with+AdaBoost;Watching+for+UAEs;Analyzing+Gutenberg;Writing+Historical+Fiction;Creating+Art+with+GPT-3;Looking+for+ways+to+apply+ML;to+everything...;&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=500" /></a>
-</p>
-<!-- create one more of these with 3776AB  -->
-<p align='center'>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Text+Classification;Natural+Language+Processing+(NLP);Supervised+Learning;Logistic+Regression;Linear+Regression;Logistic+Regression;Classification;Pandas;Readability+Counts;Matplotlib;Seaborn;Excel+as+a+last+resort;OSX+>+Loading;Data+Analysis;Performing+EDA;Data+Cleaning;More+Data+Cleaning;...more+data+cleaning;automating+data+cleaning;finding+joy!;Outlier+Detection;Feature+Engineering;Feature+Selection;Modeling;Model+Evaluation;Boosting+with+AdaBoost;Watching+for+UAEs;Analyzing+Gutenberg;NLP;Named Entity Recognition;SpaCy;SciPy;Writing+Historical+Fiction;Creating+Art+with+GPT-3;Looking+for+ways+to+apply+ML;to+everything...;&font=menlo%20Code&center=true&width=440&height=45&color=3776AB&vCenter=true&size=22&pause=20" /></a>
-</p>
+
 <!-- profile views count -->
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=grahamwaters&&style=flat-square" align="center" />
-</div>
-<!-- the block above -->
-<br/>
-
-![ai](images/ai_banner.gif)
 
 
-<div align="left" >
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Researcher;Technical+Journalist;Data+Analyst;A.I.+Enthusiast;Always%20learning%20new%20things&font=menlo%20Code&center=true&width=440&height=45&color=FFD43B&vCenter=true&size=22&pause=1500" /></a>
+  Humans Encountered since this counter was created:<br>
+  <img src="https://profile-counter.glitch.me/grahamwaters/count.svg" />
 </p>
-
-<p align="center">
