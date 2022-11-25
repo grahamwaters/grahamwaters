@@ -57,7 +57,7 @@
 
 - 🌱 I'm currently learning Neural Networks and Text Summation in Sklearn. I'd also like to get into NLP and GPT-3 with OpenAI.
 
-- 📫
+- 📫 [LinkedIn](https://www.linkedin.com/in/grahamwatersdatascientist/) is the best way to reach me though I encourage innovative methods.
 
 - ⚡ Fun fact: I am a massive fan of SETI and am fascinated by the Hum and everything about the James Webb Space Telescope.
 
