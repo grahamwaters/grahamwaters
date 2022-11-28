@@ -118,7 +118,6 @@
   - [PySeas](#pyseas)
   - [Lorebook Generator for NovelAI](#lorebook-generator-for-novelai)
   - [What Would Doyle Do?](#what-would-doyle-do)
-  - [November 21, 2022](#november-21-2022)
 - [How to Support My Work](#how-to-support-my-work)
 
 </div>
@@ -334,7 +333,7 @@ IBM has made strides toward collating Wikipedia knowledge and creating a knowled
 ![license](https://img.shields.io/github/license/grahamwaters/what_would_doyle_do?style=for-the-badge)
 ![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do?style=for-the-badge)
 
-## November 21, 2022
+November 21, 2022
 
 So far, we have gathered data for WWDD from Gutenberg's corpus. What data can we collect about Arthur Conan Doyle that will enable us to solve this problem? We need every book he's ever written, around 80 books, provided through the Gutenberg repository. These books are included in the Data folder as text files; second, I would like to have anything he wrote that was a first-hand account because this is where we will get his personal preferences and his turns of phrase, and maybe even his personal biases, which are probably the most important things to gather once we gather his diaries, journals. Things other people said about him are the next step. Now we want to gather any second-hand accounts of Doyle. Many people have researched historical figures for years, and repeating them seems like a useless task and is a waste of precious resources. So in this step, we want to gather any biographies about Arthur Conan Doyle and any articles about him, primarily if they were written about him in the time he lived. And this might be most useful if we were to gather the names of all of his second-degree connections. If we think about it, in terms of a LinkedIn network, though, Doyle's second-degree connections are the most likely to have the most accurate depictions of his preferences. This is, of course, an assumption that I am making. Once we gather the names of his second-degree connections, I think it would be an excellent step to assign weight to their accounts based on the boolean characteristic 'writer' (if they authored anything themselves besides what they said about Doyle).
 
