@@ -33,11 +33,7 @@
 
 ## Hi There! 👋 welcome to my GitHub!
 
-<div align="center">
-<a href="http://www.github.com/grahamwaters"><img src="https://activity-graph.herokuapp.com/graph?username=grahamwaters&theme=react-dark&hide_border=false&area=true&color=FFD43B" /></a>
-
 ---
-</div>
 
 <div align='center'>
 
@@ -113,8 +109,9 @@
 - [Projects Currently Under Construction 🏗️](#projects-currently-under-construction-️)
 - [Upcoming Presentations 📢](#upcoming-presentations-)
 - [Open-Sourced Tool Repositories](#open-sourced-tool-repositories)
-- [My Backburner Projects](#my-backburner-projects)
-- [Progress Report](#progress-report)
+- [Personal Research Projects](#personal-research-projects)
+- [Projects for Later](#projects-for-later)
+- [📊 Findings, Developments, and Updates](#-findings-developments-and-updates)
   - [PySeas](#pyseas)
   - [Lorebook Generator for NovelAI](#lorebook-generator-for-novelai)
   - [What Would Doyle Do?](#what-would-doyle-do)
@@ -205,8 +202,6 @@ If you are interested in what I have been working on lately, check out my latest
 |---|---|---|
 [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) ![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
 [PySeas](https://github.com/grahamwaters/PySeas) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/PySeas) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/PySeas) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/PySeas) ![issues](https://img.shields.io/github/issues/grahamwaters/PySeas) | Utilizing NOAA buoy camera catches to track the sunset across the vast surface of the earth's oceans. |
-[How Time Flies](https://github.com/grahamwaters/HowTimeFlies) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/HowTimeFlies) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/HowTimeFlies) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/HowTimeFlies) ![issues](https://img.shields.io/github/issues/grahamwaters/HowTimeFlies) | A research experiment using `requests` and google images to illustrate how a search query visually changes when supplied with a year. |
-
 
 # Projects Currently Under Construction 🏗️
 
@@ -220,8 +215,6 @@ If you are interested in what I have been working on lately, check out my latest
 | [What would Doyle do?](https://github.com/grahamwaters/what_would_doyle_do) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/what_would_doyle_do) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/what_would_doyle_do) | Can machine learning be applied to existing text data that an author writes or about a person that can help historical fiction authors write more accurately about their subject? | Dec. 2022 |
 [Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Reddit-NLP-Analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Reddit-NLP-Analysis) | A Python script that uses the Push Shift API to scrape Reddit comments and perform NLP analysis on them. | Dec. 2022 |
 [Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. | Dec. 2022 |
-| [Genre Identity](https://github.com/grahamwaters/GenreIdentity) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/GenreIdentity) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/GenreIdentity) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/GenreIdentity) | Why should music be confined to the genres that society imposes on it? This project seeks to truly understand the inner workings of what makes a musical genre using Spotify's Python API.| Dec. 2022|
-| [Quantifying Disasters via NLP](https://github.com/grahamwaters/Quantifying_Disasters_via_NLP) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Quantifying_Disasters_via_NLP) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Quantifying_Disasters_via_NLP) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Quantifying_Disasters_via_NLP) | Can NLP be used to quantify the impact of a disaster? | Jan. 2023 |
 
 # Upcoming Presentations 📢
 
@@ -237,6 +230,7 @@ If you are interested in what I have been working on lately, check out my latest
 | [Drug Information Scraper](https://github.com/grahamwaters/druginfo_scraper) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/druginfo_scraper) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/druginfo_scraper) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/druginfo_scraper) ![stars](https://img.shields.io/github/stars/grahamwaters/druginfo_scraper?color=purple) ![issues](https://img.shields.io/github/issues/grahamwaters/druginfo_scraper)| A Python script that scrapes drug information from the FDA website. |
 | [Clark Kent Reporter](https://github.com/grahamwaters/Clark-Kent-Reporter) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Clark-Kent-Reporter) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Clark-Kent-Reporter) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Clark-Kent-Reporter) ![stars](https://img.shields.io/github/stars/grahamwaters/Clark-Kent-Reporter?color=purple) ![issues](https://img.shields.io/github/issues/grahamwaters/Clark-Kent-Reporter) |This tool converts a traditionally formatted overview (in a readme file) into a populated Jupyter Notebook for data science presentations or findings presentations. |
 
+
 <div align="center">
 <a href="https://github.com/grahamwaters/FamilyPhotoResurrection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=FamilyPhotoResurrection&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="FamilyPhotoResurrection"></a>
 <!-- end of table -->
@@ -245,6 +239,11 @@ If you are interested in what I have been working on lately, check out my latest
 <!-- Projects that may be fleshed out later on but are in their infancy as of this portfolio. -->
 <!-- | War of the Words | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/warofthewords) | -->
 <!-- | A Butler for Authors | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/a_butler_for_authors) | -->
+
+# Personal Research Projects
+| **Project Name** | **Badges** | **Description** |
+|---|---|---|
+[How Time Flies](https://github.com/grahamwaters/HowTimeFlies) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/HowTimeFlies) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/HowTimeFlies) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/HowTimeFlies) ![issues](https://img.shields.io/github/issues/grahamwaters/HowTimeFlies) | A research experiment using `requests` and google images to illustrate how a search query visually changes when supplied with a year. |
 
 
 
@@ -273,15 +272,26 @@ If you are interested in what I have been working on lately, check out my latest
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Kryptos&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Kryptos"></a>
 </div>
 
-# My Backburner Projects
+
+
+# Projects for Later
+
+| **Project Name** | **Badges** | **Description** |
+|---|---|---|
+| [Genre Identity](https://github.com/grahamwaters/GenreIdentity) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/GenreIdentity) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/GenreIdentity) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/GenreIdentity) | Why should music be confined to the genres that society imposes on it? This project seeks to truly understand the inner workings of what makes a musical genre using Spotify's Python API.| Dec. 2022|
+| [Quantifying Disasters via NLP](https://github.com/grahamwaters/Quantifying_Disasters_via_NLP) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Quantifying_Disasters_via_NLP) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Quantifying_Disasters_via_NLP) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Quantifying_Disasters_via_NLP) | Can NLP be used to quantify the impact of a disaster? | Jan. 2023 |
+
 <div align='center'>
   <!-- <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Quantifying_Disasters_via_NLP&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DISASTERS"></a> -->
   <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
 </div>
 
+
+
+
 <div align='left'>
 
-# Progress Report
+# 📊 Findings, Developments, and Updates
 **11/10/2022**
 
 </div>
