@@ -105,7 +105,7 @@
 
 - [Research Projects](#research-projects)
 - [Tools in Development](#tools-in-development)
-- [Most Recent Projects](#most-recent-projects)
+- [Recent Projects](#recent-projects)
 - [Projects Currently Under Construction 🏗️](#projects-currently-under-construction-️)
 - [Upcoming Presentations 📢](#upcoming-presentations-)
 - [Open-Sourced Tool Repositories](#open-sourced-tool-repositories)
@@ -191,7 +191,7 @@ If you are interested in what I have been working on lately, check out my latest
 
 
 
-# Most Recent Projects
+# Recent Projects
 
 
 <!-- align="center">Projects that I Love</div> -->
@@ -206,9 +206,7 @@ If you are interested in what I have been working on lately, check out my latest
  -->
 | **Project Name** | **Badges** | **Description** |
 |---|---|---|
-[Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) ![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
-[PySeas](https://github.com/grahamwaters/PySeas) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/PySeas) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/PySeas) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/PySeas) ![issues](https://img.shields.io/github/issues/grahamwaters/PySeas) | Utilizing NOAA buoy camera catches to track the sunset across the vast surface of the earth's oceans. |
-[MystoryAssistant](https://github.com/grahamwaters/MystoryAssistant) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/MystoryAssistant) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/MystoryAssistant) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/MystoryAssistant) ![issues](https://img.shields.io/github/issues/grahamwaters/MystoryAssistant) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
+
 # Projects Currently Under Construction 🏗️
 
 
@@ -218,10 +216,12 @@ If you are interested in what I have been working on lately, check out my latest
 
 | **Project Name** | **Status Metrics** | **Focus** | **Estimated Completion Date** |
 |---|---|---|---|
-| [What would Doyle do?](https://github.com/grahamwaters/what_would_doyle_do) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/what_would_doyle_do) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/what_would_doyle_do) | Can machine learning be applied to existing text data that an author writes or about a person that can help historical fiction authors write more accurately about their subject? | Dec. 2022 |
-[Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Reddit-NLP-Analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Reddit-NLP-Analysis) | A Python script that uses the Push Shift API to scrape Reddit comments and perform NLP analysis on them. | Dec. 2022 |
-[Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. | Dec. 2022 |
-
+| [What would Doyle do?](https://github.com/grahamwaters/what_would_doyle_do) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/what_would_doyle_do) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/what_would_doyle_do) | Can machine learning be applied to existing text data that an author writes or about a person that can help historical fiction authors write more accurately about their subject? | Feb. 2023 |
+[Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Reddit-NLP-Analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Reddit-NLP-Analysis) | A Python script that uses the Push Shift API to scrape Reddit comments and perform NLP analysis on them. | Feb. 2023 |
+[Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. | Feb. 2023 |
+[Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) ![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
+[PySeas](https://github.com/grahamwaters/PySeas) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/PySeas) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/PySeas) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/PySeas) ![issues](https://img.shields.io/github/issues/grahamwaters/PySeas) | Utilizing NOAA buoy camera catches to track the sunset across the vast surface of the earth's oceans. |
+[MystoryAssistant](https://github.com/grahamwaters/MystoryAssistant) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/MystoryAssistant) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/MystoryAssistant) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/MystoryAssistant) ![issues](https://img.shields.io/github/issues/grahamwaters/MystoryAssistant) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
 # Upcoming Presentations 📢
 
 | **Presentation Name** | **Topics** | **Focus** | **Date Estimated** | **Location** |
@@ -284,7 +284,7 @@ If you are interested in what I have been working on lately, check out my latest
 
 | **Project Name** | **Badges** | **Description** |
 |---|---|---|
-| [Genre Identity](https://github.com/grahamwaters/GenreIdentity) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/GenreIdentity) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/GenreIdentity) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/GenreIdentity) | Why should music be confined to the genres that society imposes on it? This project seeks to truly understand the inner workings of what makes a musical genre using Spotify's Python API.| Dec. 2022|
+| [Genre Identity](https://github.com/grahamwaters/GenreIdentity) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/GenreIdentity) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/GenreIdentity) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/GenreIdentity) | Why should music be confined to the genres that society imposes on it? This project seeks to truly understand the inner workings of what makes a musical genre using Spotify's Python API.| Feb. 2023|
 | [Quantifying Disasters via NLP](https://github.com/grahamwaters/Quantifying_Disasters_via_NLP) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Quantifying_Disasters_via_NLP) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Quantifying_Disasters_via_NLP) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Quantifying_Disasters_via_NLP) | Can NLP be used to quantify the impact of a disaster? | Jan. 2023 |
 
 <div align='center'>
