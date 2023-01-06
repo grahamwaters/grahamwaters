@@ -37,7 +37,6 @@
 
 <div align='center'>
 
-[<img src = 'https://img.shields.io/badge/Calendly-Schedule%20a%20Conversation-blue'>](<https://calendly.com/gwaters_business/availability>)
 
 </div>
 
@@ -392,3 +391,5 @@ If you'd like to contribute to the hours, I spend staring at my screen in deep c
   Humans Encountered since this counter was created:<br>
   <img src="https://profile-counter.glitch.me/grahamwaters/count.svg" />
 </p>
+
+[<img src = 'https://img.shields.io/badge/Calendly-Schedule%20a%20Conversation-blue'>](<https://calendly.com/gwaters_business/availability>)
