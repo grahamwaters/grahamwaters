@@ -152,6 +152,12 @@
 <p align="center">
   <a href="https://github.com/grahamwaters/lorebook_generator_for_novelai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="lorebook_generator_for_novelai"></a>
   <a href="https://github.com/grahamwaters/GnomansLand"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
+  <a href="https://github.com/grahamwaters/uap_report_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=uap_report_analysis&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="uap_report_analysis"></a>
+  <!-- <a href="https://github.com/grahamwaters/Copilot_Presentation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Copilot_Presentation&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Copilot_Presentation"></a> -->
+  <a href="https://github.com/grahamwaters/Mimikers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Mimikers&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Mimikers"></a>
+  <!-- <a href="https://github.com/grahamwaters/PeerTree"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=PeerTree&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="PeerTree"></a> -->
+
+
 
 </p>
 </div>
@@ -202,7 +208,7 @@ If you are interested in what I have been working on lately, check out my latest
 |---|---|---|
 [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) ![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
 [PySeas](https://github.com/grahamwaters/PySeas) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/PySeas) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/PySeas) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/PySeas) ![issues](https://img.shields.io/github/issues/grahamwaters/PySeas) | Utilizing NOAA buoy camera catches to track the sunset across the vast surface of the earth's oceans. |
-
+[MystoryAssistant](https://github.com/grahamwaters/MystoryAssistant) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/MystoryAssistant) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/MystoryAssistant) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/MystoryAssistant) ![issues](https://img.shields.io/github/issues/grahamwaters/MystoryAssistant) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
 # Projects Currently Under Construction 🏗️
 
 
