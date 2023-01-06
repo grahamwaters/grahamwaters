@@ -105,7 +105,6 @@
 
 - [Research Projects](#research-projects)
 - [Tools in Development](#tools-in-development)
-- [Recent Projects](#recent-projects)
 - [Projects Currently Under Construction 🏗️](#projects-currently-under-construction-️)
 - [Upcoming Presentations 📢](#upcoming-presentations-)
 - [Open-Sourced Tool Repositories](#open-sourced-tool-repositories)
@@ -189,11 +188,6 @@
 If you are interested in what I have been working on lately, check out my latest projects (shown below). I include a short description of each project and a link to the repository. If you have any questions or comments, please feel free to reach out to me on [Twitter](https://twitter.com/GrahamWaters1) or [LinkedIn](https://www.linkedin.com/in/grahamwaters/).
 
 
-
-
-# Recent Projects
-
-
 <!-- align="center">Projects that I Love</div> -->
 <!-- make the title "Projects I Love" and center it -->
 
@@ -204,8 +198,8 @@ If you are interested in what I have been working on lately, check out my latest
 4. Reddit NLP Analysis
 5. How Time Flies (https://github.com/grahamwaters/HowTimeFlies)
  -->
-| **Project Name** | **Badges** | **Description** |
-|---|---|---|
+<!-- | **Project Name** | **Badges** | **Description** |
+|---|---|---| -->
 
 # Projects Currently Under Construction 🏗️
 
@@ -216,12 +210,16 @@ If you are interested in what I have been working on lately, check out my latest
 
 | **Project Name** | **Status Metrics** | **Focus** | **Estimated Completion Date** |
 |---|---|---|---|
+| [UAP Report Analysis](https://github.com/grahamwaters/uap_report_analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/uap_report_analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/uap_report_analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/uap_report_analysis) | A Python script that analyzes the UAP report released by the US government in June 2021. | Jan. 2023 |
 | [What would Doyle do?](https://github.com/grahamwaters/what_would_doyle_do) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/what_would_doyle_do) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/what_would_doyle_do) | Can machine learning be applied to existing text data that an author writes or about a person that can help historical fiction authors write more accurately about their subject? | Feb. 2023 |
 [Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Reddit-NLP-Analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Reddit-NLP-Analysis) | A Python script that uses the Push Shift API to scrape Reddit comments and perform NLP analysis on them. | Feb. 2023 |
 [Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. | Feb. 2023 |
 [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) ![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
 [PySeas](https://github.com/grahamwaters/PySeas) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/PySeas) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/PySeas) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/PySeas) ![issues](https://img.shields.io/github/issues/grahamwaters/PySeas) | Utilizing NOAA buoy camera catches to track the sunset across the vast surface of the earth's oceans. |
 [MystoryAssistant](https://github.com/grahamwaters/MystoryAssistant) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/MystoryAssistant) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/MystoryAssistant) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/MystoryAssistant) ![issues](https://img.shields.io/github/issues/grahamwaters/MystoryAssistant) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
+
+
+
 # Upcoming Presentations 📢
 
 | **Presentation Name** | **Topics** | **Focus** | **Date Estimated** | **Location** |
