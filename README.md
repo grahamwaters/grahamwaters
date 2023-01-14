@@ -40,25 +40,6 @@
 
 </div>
 
-
-**Some Quick Facts About Me:**
-* 🌍  I'm based in Austin, Texas.
-
-* Texas Tech (Undergrad) Alumni and Brandeis University (Graduate) Alumni.
-
-*  🎓  My Master's is in Strategic Analytics.
-
-- 🔭 I’m currently working on several projects that are listed below, mostly brushing up on my machine learning skills and how they can be applied to various problem scenarios.
-
-- 🌱 I'm currently learning Neural Networks and Text Summation in Sklearn. I'd also like to get into NLP and GPT-3 with OpenAI.
-
-- 📫 [LinkedIn](https://www.linkedin.com/in/grahamwatersdatascientist/) is the best way to reach me though I encourage innovative methods.
-
-- ⚡ Fun fact: I am a massive fan of SETI and am fascinated by the Hum and everything about the James Webb Space Telescope.
-
-- Finally, If I had to be a movie genre, I'd be SciPy.
-
-
 ---
 
 <div align="center">
@@ -135,6 +116,25 @@
   <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </div>
+
+
+**Some Quick Facts About Me:**
+* 🌍  I'm based in Austin, Texas.
+
+* Texas Tech (Undergrad) Alumni and Brandeis University (Graduate) Alumni.
+
+*  🎓  My Master's is in Strategic Analytics.
+
+- 🔭 I’m currently working on several projects that are listed below, mostly brushing up on my machine learning skills and how they can be applied to various problem scenarios.
+
+- 🌱 I'm currently learning Neural Networks and Text Summation in Sklearn. I'd also like to get into NLP and GPT-3 with OpenAI.
+
+- 📫 [LinkedIn](https://www.linkedin.com/in/grahamwatersdatascientist/) is the best way to reach me though I encourage innovative methods.
+
+- ⚡ Fun fact: I am a massive fan of SETI and am fascinated by the Hum and everything about the James Webb Space Telescope.
+
+- Finally, If I had to be a movie genre, I'd be SciPy.
+
 
 
 ---
