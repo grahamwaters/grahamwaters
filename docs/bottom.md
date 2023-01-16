@@ -1,0 +1,282 @@
+
+**Some Quick Facts About Me:**
+* 🌍  I'm based in Austin, Texas.
+
+* Texas Tech (Undergrad) Alumni and Brandeis University (Graduate) Alumni.
+
+*  🎓  My Master's is in Strategic Analytics.
+
+- 🔭 I’m currently working on several projects that are listed below, mostly brushing up on my machine learning skills and how they can be applied to various problem scenarios.
+
+- 🌱 I'm currently learning Neural Networks and Text Summation in Sklearn. I'd also like to get into NLP and GPT-3 with OpenAI.
+
+- 📫 [LinkedIn](https://www.linkedin.com/in/grahamwatersdatascientist/) is the best way to reach me though I encourage innovative methods.
+
+- ⚡ Fun fact: I am a massive fan of SETI and am fascinated by the Hum and everything about the James Webb Space Telescope.
+
+- Finally, If I had to be a movie genre, I'd be SciPy.
+
+
+
+---
+
+<div align='center'>
+
+<h1>My Top Open Source Projects</h1>
+
+![divider](images/opensource_still.png)
+
+
+<div>
+<p align="center">
+  <a href="https://github.com/grahamwaters/lorebook_generator_for_novelai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="lorebook_generator_for_novelai"></a>
+  <a href="https://github.com/grahamwaters/GnomansLand"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
+  <a href="https://github.com/grahamwaters/uap_report_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=uap_report_analysis&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="uap_report_analysis"></a>
+  <!-- <a href="https://github.com/grahamwaters/Copilot_Presentation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Copilot_Presentation&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Copilot_Presentation"></a> -->
+  <a href="https://github.com/grahamwaters/Mimikers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Mimikers&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Mimikers"></a>
+  <a href="https://github.com/grahamwaters/chatGPTea-Ultimate-Prompt-List"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=chatGPTea-Ultimate-Prompt-List&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="chatGPTea-Ultimate-Prompt-List"></a>
+  <!-- <a href="https://github.com/grahamwaters/PeerTree"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=PeerTree&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="PeerTree"></a> -->
+
+</p>
+<!-- this becomes -->
+
+
+
+
+</p>
+</div>
+
+# Research Projects
+  <a href="https://github.com/grahamwaters/HowTimeFlies"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=HowTimeFlies&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="HowTimeFlies"></a>
+  <a href="https://github.com/grahamwaters/DisariumPy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DisariumPy&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DisariumPy"></a>
+
+# Tools in Development
+<a href="https://github.com/grahamwaters/Clark-Kent-Reporter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Clark-Kent-Reporter&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Clark-Kent-Reporter"></a>
+<a href="https://github.com/grahamwaters/medium_titles_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=medium_titles_analysis&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="medium_titles_analysis"></a>
+<a href="https://github.com/grahamwaters/druginfo_scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=druginfo_scraper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="druginfo_scraper"></a>
+
+
+
+</div>
+
+
+<!-- profile views count -->
+<div align='center'>
+    <a href="https://github.com/grahamwaters?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</div>
+
+
+
+<!-- <a href="https://www.github.com/grahamwaters" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/grahamwaters?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+ -->
+
+If you are interested in what I have been working on lately, check out my latest projects (shown below). I include a short description of each project and a link to the repository. If you have any questions or comments, please feel free to reach out to me on [Twitter](https://twitter.com/GrahamWaters1) or [LinkedIn](https://www.linkedin.com/in/grahamwaters/).
+
+
+<!-- align="center">Projects that I Love</div> -->
+<!-- make the title "Projects I Love" and center it -->
+
+<!-- Projects to include in the table below:
+1. Lorebook generator
+2. PySeas
+3. Taking Aimes
+4. Reddit NLP Analysis
+5. How Time Flies (https://github.com/grahamwaters/HowTimeFlies)
+ -->
+<!-- | **Project Name** | **Badges** | **Description** |
+|---|---|---| -->
+
+# Projects Currently Under Construction 🏗️
+
+
+
+
+
+
+| **Project Name** | **Status Metrics** | **Focus** | **Estimated Completion Date** |
+|---|---|---|---|
+| [chatGPTea](https://github.com/grahamwaters/chatGPTea-Ultimate-Prompt-List) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/chatGPTea-Ultimate-Prompt-List) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/chatGPTea-Ultimate-Prompt-List) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/chatGPTea-Ultimate-Prompt-List) | A list of prompts for the chatGPTea chatbot | Jan. 2023 |
+| [UAP Report Analysis](https://github.com/grahamwaters/uap_report_analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/uap_report_analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/uap_report_analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/uap_report_analysis) | A Python script that analyzes the UAP report released by the US government in June 2021. | Jan. 2023 |
+| [What would Doyle do?](https://github.com/grahamwaters/what_would_doyle_do) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/what_would_doyle_do) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/what_would_doyle_do) | Can machine learning be applied to existing text data that an author writes or about a person that can help historical fiction authors write more accurately about their subject? | Feb. 2023 |
+[Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Reddit-NLP-Analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Reddit-NLP-Analysis) | A Python script that uses the Push Shift API to scrape Reddit comments and perform NLP analysis on them. | Feb. 2023 |
+[Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. | Feb. 2023 |
+[Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) ![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
+[PySeas](https://github.com/grahamwaters/PySeas) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/PySeas) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/PySeas) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/PySeas) ![issues](https://img.shields.io/github/issues/grahamwaters/PySeas) | Utilizing NOAA buoy camera catches to track the sunset across the vast surface of the earth's oceans. |
+[MystoryAssistant](https://github.com/grahamwaters/MystoryAssistant) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/MystoryAssistant) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/MystoryAssistant) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/MystoryAssistant) ![issues](https://img.shields.io/github/issues/grahamwaters/MystoryAssistant) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
+
+
+
+# Upcoming Presentations 📢
+
+| **Presentation Name** | **Topics** | **Focus** | **Date Estimated** | **Location** |
+|---|---|---|---|---|
+| How we can use AI Assistants without surrendering our autonomy in the age of AI-enhanced programming and authorship. | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%20chatGPT-red.svg) ![copilot](https://img.shields.io/badge/Copilot-enabled-brightgreen) ![novelai](https://img.shields.io/badge/NovelAI-Snek-blue) | GitHub Copilot, NovelAI's Snek and responsible use of AI assistants. | Feb 8th 2023 | Austin Python Meetup (Virtual) |
+
+
+
+# Open-Sourced Tool Repositories
+| **Project Name** | **Badges** | **Description** |
+|---|---|---|
+| [Drug Information Scraper](https://github.com/grahamwaters/druginfo_scraper) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/druginfo_scraper) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/druginfo_scraper) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/druginfo_scraper) ![stars](https://img.shields.io/github/stars/grahamwaters/druginfo_scraper?color=purple) ![issues](https://img.shields.io/github/issues/grahamwaters/druginfo_scraper)| A Python script that scrapes drug information from the FDA website. |
+| [Clark Kent Reporter](https://github.com/grahamwaters/Clark-Kent-Reporter) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Clark-Kent-Reporter) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Clark-Kent-Reporter) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Clark-Kent-Reporter) ![stars](https://img.shields.io/github/stars/grahamwaters/Clark-Kent-Reporter?color=purple) ![issues](https://img.shields.io/github/issues/grahamwaters/Clark-Kent-Reporter) |This tool converts a traditionally formatted overview (in a readme file) into a populated Jupyter Notebook for data science presentations or findings presentations. |
+
+
+<div align="center">
+<a href="https://github.com/grahamwaters/FamilyPhotoResurrection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=FamilyPhotoResurrection&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="FamilyPhotoResurrection"></a>
+<!-- end of table -->
+</div>
+
+<!-- Projects that may be fleshed out later on but are in their infancy as of this portfolio. -->
+<!-- | War of the Words | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/warofthewords) | -->
+<!-- | A Butler for Authors | DA | Text Mining | DA_TextMining_projects.ipynb | [link](https://github.com/grahamwaters/a_butler_for_authors) | -->
+
+# Personal Research Projects
+| **Project Name** | **Badges** | **Description** |
+|---|---|---|
+[How Time Flies](https://github.com/grahamwaters/HowTimeFlies) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/HowTimeFlies) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/HowTimeFlies) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/HowTimeFlies) ![issues](https://img.shields.io/github/issues/grahamwaters/HowTimeFlies) | A research experiment using `requests` and google images to illustrate how a search query visually changes when supplied with a year. |
+
+
+
+</td></tr></table>
+<br/>
+<br/>
+
+----
+<div>
+<h1 align="center">Projects I have in dev (forks)</h2>
+<p align="center">
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="haystack"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=developerFolio&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="developerFolio"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=gutenbergpy&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="gutenbergpy"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=bluebert&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="bluebert"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=MarkdownCheatsheet&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="MarkdownCheatsheet"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=alive-progress&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="alive-progress"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=gutenberg&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="gutenberg"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=CubeTrack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="CubeTrack"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=isometric&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="isometric"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=features-tune-progress_reporter.py-is-messy-and-should-be-cleaned-up-24604-&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="features-tune-progress_reporter.py-is-messy-and-should-be-cleaned-up-24604-"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=mappymatch&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="mappymatch"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=jekyll-patreon&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="jekyll-patreon"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=gym&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="gym"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Map-Tiler&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Map-Tiler"></a>
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Kryptos&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Kryptos"></a>
+</div>
+
+
+
+# Projects for Later
+
+| **Project Name** | **Badges** | **Description** |
+|---|---|---|
+| [Genre Identity](https://github.com/grahamwaters/GenreIdentity) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/GenreIdentity) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/GenreIdentity) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/GenreIdentity) | Why should music be confined to the genres that society imposes on it? This project seeks to truly understand the inner workings of what makes a musical genre using Spotify's Python API.| Feb. 2023|
+| [Quantifying Disasters via NLP](https://github.com/grahamwaters/Quantifying_Disasters_via_NLP) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Quantifying_Disasters_via_NLP) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Quantifying_Disasters_via_NLP) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Quantifying_Disasters_via_NLP) | Can NLP be used to quantify the impact of a disaster? | Jan. 2023 |
+
+<div align='center'>
+  <!-- <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Quantifying_Disasters_via_NLP&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DISASTERS"></a> -->
+  <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
+</div>
+
+
+
+
+<div align='left'>
+
+# 📊 Findings, Developments, and Updates
+**11/10/2022**
+
+</div>
+
+## [PySeas](https://github.com/grahamwaters/PySeas)
+
+
+![issues](https://img.shields.io/github/issues/grahamwaters/pyseas?style=for-the-badge)
+![forks](https://img.shields.io/github/forks/grahamwaters/pyseas?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/grahamwaters/pyseas?style=for-the-badge)
+![license](https://img.shields.io/github/license/grahamwaters/pyseas?style=for-the-badge)
+![last commit](https://img.shields.io/github/last-commit/grahamwaters/pyseas?style=for-the-badge)
+
+![main](images/6.png)
+
+Successfully Logged Six Days of Data from the NOAA API
+There are promising results in the images that the PySeas project has produced. Finally, finding the perfect sunset is likely over the horizon!
+
+![sunset1](images/sunset2.jpg)
+![sunset2](images/sunset3.jpg)
+
+The next step is to use CV2 to stitch these images together and optimize the algorithm to retrieve the photos at the most optimal time of day. I'm also looking into using any open-source equivalent of [Google Cloud Vision API](https://cloud.google.com/vision) to detect the horizon line and crop the images accordingly. Again, CV2 may be able to do this, but at scale, it may not be the most efficient.
+
+## [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai)
+
+![lorebookbanner](images/lorebookbanner.png)
+
+
+<!-- add badges -->
+![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+![forks](https://img.shields.io/github/forks/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+![license](https://img.shields.io/github/license/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai?style=for-the-badge)
+
+
+
+IBM has made strides toward collating Wikipedia knowledge and creating a knowledge graph. This is an excellent step towards creating a lorebook generator for authors. In addition, I've been working on a project allowing authors to use the NovelAI API to generate a lorebook for their world. This will enable authors to jumpstart their productivity with machine learning. I've been working on this project for a few weeks now, and I'm excited to see the results. I hope to have a working prototype by the end of the month.
+
+
+## [What Would Doyle Do?](https://github.com/grahamwaters/what_would_doyle_do)
+
+![wwdd](images/whatwoulddoyledo.gif)
+
+<!-- add badges -->
+![issues](https://img.shields.io/github/issues/grahamwaters/what_would_doyle_do?style=for-the-badge)
+![forks](https://img.shields.io/github/forks/grahamwaters/what_would_doyle_do?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/grahamwaters/what_would_doyle_do?style=for-the-badge)
+![license](https://img.shields.io/github/license/grahamwaters/what_would_doyle_do?style=for-the-badge)
+![last commit](https://img.shields.io/github/last-commit/grahamwaters/what_would_doyle_do?style=for-the-badge)
+
+November 21, 2022
+
+So far, we have gathered data for WWDD from Gutenberg's corpus. What data can we collect about Arthur Conan Doyle that will enable us to solve this problem? We need every book he's ever written, around 80 books, provided through the Gutenberg repository. These books are included in the Data folder as text files; second, I would like to have anything he wrote that was a first-hand account because this is where we will get his personal preferences and his turns of phrase, and maybe even his personal biases, which are probably the most important things to gather once we gather his diaries, journals. Things other people said about him are the next step. Now we want to gather any second-hand accounts of Doyle. Many people have researched historical figures for years, and repeating them seems like a useless task and is a waste of precious resources. So in this step, we want to gather any biographies about Arthur Conan Doyle and any articles about him, primarily if they were written about him in the time he lived. And this might be most useful if we were to gather the names of all of his second-degree connections. If we think about it, in terms of a LinkedIn network, though, Doyle's second-degree connections are the most likely to have the most accurate depictions of his preferences. This is, of course, an assumption that I am making. Once we gather the names of his second-degree connections, I think it would be an excellent step to assign weight to their accounts based on the boolean characteristic 'writer' (if they authored anything themselves besides what they said about Doyle).
+
+
+---
+
+# How to Support My Work
+
+If you'd like to contribute to the hours, I spend staring at my screen in deep concentration, I welcome any caffeine donations. ☕ Also, if you'd like to sponsor a project you see on my page, please let me know where I should focus my attention. Open Source is a big brave new world. Cheers!
+
+<div align='Center'>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/grahamwaters)
+
+<a href="https://paypal.me/paypal.me/gwaterstx" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"
+                    align="center"
+                />
+            </a>
+
+<h3> You can also find me on Discord by clicking below.</h3>
+
+<a href="https://discord.com/users/its_graham#7425" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+
+</p>
+
+</div>
+
+<!-- Thanks to https://profilinator.rishav.dev/ for the template -->
+<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
+<div align='center'>
+<!-- tron blue is what color? -->
+<!-- tron_blue = "#1F222E" -->
+<!-- # the color for yellow (python yellow) is #FFD43B -->
+<!-- The color for python blue is #3776AB -->
+
+<!-- profile views count -->
+
+
+<p align="center">
+  Humans Encountered since this counter was created:<br>
+  <img src="https://profile-counter.glitch.me/grahamwaters/count.svg" />
+</p>
+
+[<img src = 'https://img.shields.io/badge/Calendly-Schedule%20a%20Conversation-blue'>](<https://calendly.com/gwaters_business/availability>)
