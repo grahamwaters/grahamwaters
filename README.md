@@ -9,7 +9,8 @@
 
 </h1> -->
 
-![main](images/hq_intro_banner.gif)
+<!-- ![main](images/hq_intro_banner.gif) -->
+![main](images/updatedbanner3.png)
 
 
 <!-- [My Snapshot](snapshot.md) -->
