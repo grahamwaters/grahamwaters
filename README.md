@@ -32,7 +32,8 @@
 
 ---
 
-## Hi There! 👋 welcome to my GitHub!
+## Hi There! 👋 welcome to my GitHub! [![](https://img.shields.io/badge/-hire%20me!-darkgreen)](https://grahamwatersresume.notion.site/grahamwatersresume/Welcome-to-my-Vita-ed6e93442ba5403e810f7dc3510ed448)
+
 
 ---
 
