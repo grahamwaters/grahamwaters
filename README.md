@@ -60,6 +60,42 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#">
+      <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-0078D7.svg?logo=microsoft-word&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-0078D7.svg?logo=microsoft-excel&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="GPT-3" src="https://img.shields.io/badge/GPT_3-0079C1.svg?logo=gpt-3&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-2D99C1.svg?logo=openai&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-202211.svg?logo=github&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="SKLearn" src="https://img.shields.io/badge/SKLearn-007A21.svg?logo=scikit-learn&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-067AB5.svg?logo=pandas&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="Numpy" src="https://img.shields.io/badge/Numpy-067AB5.svg?logo=numpy&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="Requests" src="https://img.shields.io/badge/Requests-007C7D.svg?logo=python-requests&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-A52C2C.svg?logo=beautiful-soup&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="Regex" src="https://img.shields.io/badge/Regex-247BA0.svg?logo=regex&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="iOS" src="https://img.shields.io/badge/iOS-0078D7.svg?logo=apple&logoColor=white">
+    </a>
 </p>
 
 <p align = "center">
@@ -87,7 +123,7 @@
 - [Research Projects](#research-projects)
 - [Tools in Development](#tools-in-development)
 - [Projects Currently Under Construction 🏗️](#projects-currently-under-construction-️)
-- [Upcoming Presentations 📢](#upcoming-presentations-)
+- [Keynotes \& Presentations 📢](#keynotes--presentations-)
 - [Open-Sourced Tool Repositories](#open-sourced-tool-repositories)
 - [Personal Research Projects](#personal-research-projects)
 - [Projects for Later](#projects-for-later)
