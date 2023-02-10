@@ -184,7 +184,9 @@
 </div>
 
 
-**Some Quick Facts About Me:**
+---
+<h1> A Little About Me </h1>
+
 * 🌍  I'm based in Austin, Texas.
 
 * Texas Tech (Undergrad) Alumni and Brandeis University (Graduate) Alumni.
