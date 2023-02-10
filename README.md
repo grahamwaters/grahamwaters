@@ -51,7 +51,12 @@
 </h1>
 
 <p align="center">
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#">
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+    </a>
+</p>
+
+<p align="center">
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -75,6 +80,7 @@
     <a href="#">
       <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-202211.svg?logo=github&logoColor=white">
     </a>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#">
       <img alt="SKLearn" src="https://img.shields.io/badge/SKLearn-007A21.svg?logo=scikit-learn&logoColor=white">
     </a>
@@ -96,9 +102,37 @@
     <a href="#">
       <img alt="iOS" src="https://img.shields.io/badge/iOS-0078D7.svg?logo=apple&logoColor=white">
     </a>
+    <a href="#">
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="SQL" src="https://img.shields.io/badge/SQL-0078D7.svg?logo=MySQL&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-0078D7.svg?logo=seaborn&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0078D7.svg?logo=matplotlib&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0078D7.svg?logo=tensorflow&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="Keras" src="https://img.shields.io/badge/Keras-0078D7.svg?logo=keras&logoColor=white">
+    </a>
+    <!-- chatgpt -->
+    <a href="#">
+      <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-0078D7.svg?logo=chatgpt&logoColor=white">
+    </a>
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
@@ -107,7 +141,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
+</p> -->
 
 </h1>
 
