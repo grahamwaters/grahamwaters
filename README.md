@@ -220,11 +220,11 @@ If you are interested in what I have been working on lately, check out my latest
 
 
 
-# Upcoming Presentations 📢
+# Keynotes & Presentations 📢
 
-| **Presentation Name** | **Topics** | **Focus** | **Date Estimated** | **Location** |
-|---|---|---|---|---|
-| How we can use AI Assistants without surrendering our autonomy in the age of AI-enhanced programming and authorship. | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%20chatGPT-red.svg) ![copilot](https://img.shields.io/badge/Copilot-enabled-brightgreen) ![novelai](https://img.shields.io/badge/NovelAI-Snek-blue) | GitHub Copilot, NovelAI's Snek and responsible use of AI assistants. | Feb 8th 2023 | Austin Python Meetup (Virtual) |
+| **Presentation Name** | **Topics** | **Focus** | **Date Estimated** | **Location** | **Link** |
+|---|---|---|---|---|---|
+| Augmenting Your Workflow with AI Assistants: From GitHub Copilot to chatGPT | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%20chatGPT-red.svg) ![copilot](https://img.shields.io/badge/Copilot-enabled-brightgreen) ![novelai](https://img.shields.io/badge/NovelAI-Snek-blue) | GitHub Copilot, chatGPT, LLMs | Feb 8th 2023 | Austin Python Meetup, BlackLocus | [Watch Here](https://youtu.be/O_MNwB4jdSU?t=93) |
 
 
 
