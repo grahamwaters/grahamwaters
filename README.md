@@ -302,7 +302,6 @@ If you are interested in what I have been working on lately, check out my latest
 | Title | Description | Published Date | Read Time | Publication |
 |-------|-------------|----------------|-----------|-------------|
 | [GPTeaching and Transformative SCRUM in K-12 Education](https://medium.com/mlearning-ai/gpteaching-and-transformative-scrum-in-k-12-education-f831dd4047cf?source=your_stories_page-) | Why SCRUM and GPT together are perfect for young learners | May 18 | 8 min read | In MLearning.ai |
-| [Romancing The Digital Sun](https://medium.com/super-short-stories/romancing-the-digital-sun-29deed0337ec?source=your_stories_page-) | A Story of a not so far away future | May 16 | 4 min read | In Super Short Stories |
 | [Leveling Up the Turing Test: Emulation Games and the Evolution of Model Intelligence in 2023](https://medium.com/mlearning-ai/leveling-up-the-turing-test-emulation-games-and-the-evolution-of-model-intelligence-in-2023-f26ccf41957f?source=your_stories_page-) | A Multi-modal, Multiplayer, Agent Testing, Social Deduction Game Method for Modern AI Evaluation | May 16 | 12 min read | In MLearning.ai |
 | [Debunking the Hype of LLMs](https://medium.com/git-connected/debunking-the-hype-of-llms-30c2451d7f19?source=your_stories_page-) | Why LLMs Will Not Take Over the World, we think | May 15 | 3 min read | In GlassBox |
 | [Are You Artificially Intelligent?](https://medium.com/git-connected/are-you-artificially-intelligent-263d9625373c?source=your_stories_page-) | Because the Winter is Coming | May 13 | 13 min read | In GlassBox |
@@ -483,4 +482,3 @@ If you'd like to contribute to the hours, I spend staring at my screen in deep c
   <img src="https://profile-counter.glitch.me/grahamwaters/count.svg" />
 </p>
 
-[<img src = 'https://img.shields.io/badge/Calendly-Schedule%20a%20Conversation-blue'>](<https://calendly.com/gwaters_business/availability>)
