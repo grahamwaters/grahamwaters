@@ -305,22 +305,46 @@ If you are interested in what I have been working on lately, check out my latest
 
 # Most Recent Articles
 
-<p align="center">
-  <a href="https://medium.com/mlearning-ai/gpteaching-and-transformative-scrum-in-k-12-education-f831dd4047cf?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GPTeaching and Transformative SCRUM in K-12 Education"></a>
-  <a href="https://medium.com/super-short-stories/romancing-the-digital-sun-29deed0337ec?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Romancing The Digital Sun"></a>
-  <a href="https://medium.com/mlearning-ai/leveling-up-the-turing-test-emulation-games-and-the-evolution-of-model-intelligence-in-2023-f26ccf41957f?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Leveling Up the Turing Test: Emulation Games and the Evolution of Model Intelligence in 2023"></a>
-  <a href="https://medium.com/git-connected/debunking-the-hype-of-llms-30c2451d7f19?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Debunking the Hype of LLMs"></a>
-  <a href="https://medium.com/git-connected/are-you-artificially-intelligent-263d9625373c?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Are You Artificially Intelligent?"></a>
-  <a href="https://medium.com/towards-data-analytics/pandas-get-dummies-for-dummies-be6e98812e2?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Pandas Get Dummies for Dummies"></a>
-  <a href="https://medium.com/git-connected/generating-nearly-random-numbers-using-the-mysterious-waves-of-the-bermuda-triangle-6ff101b61639?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Generating Nearly Random Numbers using The Mysterious Waves of the Bermuda Triangle"></a>
-  <a href="https://medium.com/git-connected/the-deathbed-confessions-of-a-very-dirty-roomba-6de9b11b9f83?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="The Deathbed Confessions of a Very Dirty Roomba"></a>
-  <a href="https://medium.com/towards-data-analytics/are-you-an-excessive-python-file-opener-meet-pickle-c1e3e5e6a45e?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Are You an Excessive Python File Opener? Meet Pickle."></a>
-  <a href="https://medium.com/towards-data-analytics/the-power-of-github-copilot-and-chatgpt-working-together-4ea6aa730d4?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="The power of GitHub Copilot and ChatGPT working together"></a>
-  <a href="https://medium.com/mlearning-ai/how-to-make-friends-and-alienate-people-e22ab3ba7f21?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="How to Make Friends and Alienate People"></a>
-  <a href="https://medium.com/git-connected/using-a-i-to-track-and-protect-rices-whales-via-python-autogpt-and-image-processing-20a07000ff1a?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Using A.I. to Track and Protect Rice’s Whales via Python, AutoGPT, and Image Processing"></a>
-  <a href="https://medium.com/git-connected/typewriters-will-take-your-job-9a32e5d99b0a?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Typewriters will take your job"></a>
-  <a href="https://medium.com/mlearning-ai/how-to-explain-where-llms-could-be-used-at-your-company-c21f49c347d3?source=your_stories_page-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=haystack&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="How to explain where LLMs could be used at your company"></a>
-</p>
+<div style="display: inline-block; margin-right: 5px; margin-bottom: 5px;">
+  <a href="https://medium.com/mlearning-ai/gpteaching-and-transformative-scrum-in-k-12-education-f831dd4047cf?source=your_stories_page-" style="text-decoration: none;">
+    <div style="background-color: #231F20; padding: 5px 10px; color: #FFFFFF; font-size: 14px; border-radius: 5px;">
+      GPTeaching and Transformative SCRUM in K-12 Education
+    </div>
+  </a>
+</div>
+
+<div style="display: inline-block; margin-right: 5px; margin-bottom: 5px;">
+  <a href="https://medium.com/super-short-stories/romancing-the-digital-sun-29deed0337ec?source=your_stories_page-" style="text-decoration: none;">
+    <div style="background-color: #231F20; padding: 5px 10px; color: #FFFFFF; font-size: 14px; border-radius: 5px;">
+      Romancing The Digital Sun
+    </div>
+  </a>
+</div>
+
+<div style="display: inline-block; margin-right: 5px; margin-bottom: 5px;">
+  <a href="https://medium.com/mlearning-ai/leveling-up-the-turing-test-emulation-games-and-the-evolution-of-model-intelligence-in-2023-f26ccf41957f?source=your_stories_page-" style="text-decoration: none;">
+    <div style="background-color: #231F20; padding: 5px 10px; color: #FFFFFF; font-size: 14px; border-radius: 5px;">
+      Leveling Up the Turing Test: Emulation Games and the Evolution of Model Intelligence in 2023
+    </div>
+  </a>
+</div>
+
+<div style="display: inline-block; margin-right: 5px; margin-bottom: 5px;">
+  <a href="https://medium.com/git-connected/debunking-the-hype-of-llms-30c2451d7f19?source=your_stories_page-" style="text-decoration: none;">
+    <div style="background-color: #231F20; padding: 5px 10px; color: #FFFFFF; font-size: 14px; border-radius: 5px;">
+      Debunking the Hype of LLMs
+    </div>
+  </a>
+</div>
+
+<div style="display: inline-block; margin-right: 5px; margin-bottom: 5px;">
+  <a href="https://medium.com/git-connected/are-you-artificially-intelligent-263d9625373c?source=your_stories_page-" style="text-decoration: none;">
+    <div style="background-color: #231F20; padding: 5px 10px; color: #FFFFFF; font-size: 14px; border-radius: 5px;">
+      Are You Artificially Intelligent?
+    </div>
+  </a>
+</div>
+
 
 
 # Open-Sourced Tool Repositories
