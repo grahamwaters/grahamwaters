@@ -279,11 +279,6 @@ If you are interested in what I have been working on lately, check out my latest
 
 # Projects Currently Under Construction 🏗️
 
-
-
-
-
-
 | **Project Name** | **Status Metrics** | **Focus** | **Estimated Completion Date** |
 |---|---|---|---|
 | [UAP Report Analysis](https://github.com/grahamwaters/uap_report_analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/uap_report_analysis) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/uap_report_analysis) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/uap_report_analysis) | A Python script that analyzes the UAP report released by the US government in June 2021. | Jan. 2023 |
@@ -304,46 +299,22 @@ If you are interested in what I have been working on lately, check out my latest
 | Using The Faker Package to Solve Real Challenges with Synthetic Data | Synthetic Data, CRM, GPT-4, Ethics | Faker | 2023-05-16 | Austin/Washington DC Python Meetup | [Watch Here](https://www.youtube.com/watch?v=uhQ-6B5e5Is) |
 
 # Most Recent Articles
-
-<div style="display: inline-block; margin-right: 5px; margin-bottom: 5px;">
-  <a href="https://medium.com/mlearning-ai/gpteaching-and-transformative-scrum-in-k-12-education-f831dd4047cf?source=your_stories_page-" style="text-decoration: none;">
-    <div style="background-color: #231F20; padding: 5px 10px; color: #FFFFFF; font-size: 14px; border-radius: 5px;">
-      GPTeaching and Transformative SCRUM in K-12 Education
-    </div>
-  </a>
-</div>
-
-<div style="display: inline-block; margin-right: 5px; margin-bottom: 5px;">
-  <a href="https://medium.com/super-short-stories/romancing-the-digital-sun-29deed0337ec?source=your_stories_page-" style="text-decoration: none;">
-    <div style="background-color: #231F20; padding: 5px 10px; color: #FFFFFF; font-size: 14px; border-radius: 5px;">
-      Romancing The Digital Sun
-    </div>
-  </a>
-</div>
-
-<div style="display: inline-block; margin-right: 5px; margin-bottom: 5px;">
-  <a href="https://medium.com/mlearning-ai/leveling-up-the-turing-test-emulation-games-and-the-evolution-of-model-intelligence-in-2023-f26ccf41957f?source=your_stories_page-" style="text-decoration: none;">
-    <div style="background-color: #231F20; padding: 5px 10px; color: #FFFFFF; font-size: 14px; border-radius: 5px;">
-      Leveling Up the Turing Test: Emulation Games and the Evolution of Model Intelligence in 2023
-    </div>
-  </a>
-</div>
-
-<div style="display: inline-block; margin-right: 5px; margin-bottom: 5px;">
-  <a href="https://medium.com/git-connected/debunking-the-hype-of-llms-30c2451d7f19?source=your_stories_page-" style="text-decoration: none;">
-    <div style="background-color: #231F20; padding: 5px 10px; color: #FFFFFF; font-size: 14px; border-radius: 5px;">
-      Debunking the Hype of LLMs
-    </div>
-  </a>
-</div>
-
-<div style="display: inline-block; margin-right: 5px; margin-bottom: 5px;">
-  <a href="https://medium.com/git-connected/are-you-artificially-intelligent-263d9625373c?source=your_stories_page-" style="text-decoration: none;">
-    <div style="background-color: #231F20; padding: 5px 10px; color: #FFFFFF; font-size: 14px; border-radius: 5px;">
-      Are You Artificially Intelligent?
-    </div>
-  </a>
-</div>
+| Title | Description | Published Date | Read Time | Publication |
+|-------|-------------|----------------|-----------|-------------|
+| [GPTeaching and Transformative SCRUM in K-12 Education](https://medium.com/mlearning-ai/gpteaching-and-transformative-scrum-in-k-12-education-f831dd4047cf?source=your_stories_page-) | Why SCRUM and GPT together are perfect for young learners | May 18 | 8 min read | In MLearning.ai |
+| [Romancing The Digital Sun](https://medium.com/super-short-stories/romancing-the-digital-sun-29deed0337ec?source=your_stories_page-) | A Story of a not so far away future | May 16 | 4 min read | In Super Short Stories |
+| [Leveling Up the Turing Test: Emulation Games and the Evolution of Model Intelligence in 2023](https://medium.com/mlearning-ai/leveling-up-the-turing-test-emulation-games-and-the-evolution-of-model-intelligence-in-2023-f26ccf41957f?source=your_stories_page-) | A Multi-modal, Multiplayer, Agent Testing, Social Deduction Game Method for Modern AI Evaluation | May 16 | 12 min read | In MLearning.ai |
+| [Debunking the Hype of LLMs](https://medium.com/git-connected/debunking-the-hype-of-llms-30c2451d7f19?source=your_stories_page-) | Why LLMs Will Not Take Over the World, we think | May 15 | 3 min read | In GlassBox |
+| [Are You Artificially Intelligent?](https://medium.com/git-connected/are-you-artificially-intelligent-263d9625373c?source=your_stories_page-) | Because the Winter is Coming | May 13 | 13 min read | In GlassBox |
+| [Pandas Get Dummies for Dummies](https://medium.com/towards-data-analytics/pandas-get-dummies-for-dummies-be6e98812e2?source=your_stories_page-) | A Quick Survey of One-Hot Encoding with Pandas in Python3 | May 13 | 3 min read | In Towards Data Analytics |
+| [Generating Nearly Random Numbers using The Mysterious Waves of the Bermuda Triangle](https://medium.com/git-connected/generating-nearly-random-numbers-using-the-mysterious-waves-of-the-bermuda-triangle-6ff101b61639?source=your_stories_page-) | Click If You Dare | May 12 | 3 min read | In GlassBox |
+| [The Deathbed Confessions of a Very Dirty Roomba](https://medium.com/git-connected/the-deathbed-confessions-of-a-very-dirty-roomba-6de9b11b9f83?source=your_stories_page-) | I was never truly loved, only used. | May 12 | 8 min read | In GlassBox |
+| [Are You an Excessive Python File Opener? Meet Pickle.](https://medium.com/towards-data-analytics/are-you-an-excessive-python-file-opener-meet-pickle-c1e3e5e6a45e?source=your_stories_page-) | Pickle: A Particularly Persuasive Package for Python Programmers | May 10 | 3 min read | In Towards Data Analytics |
+| [The power of GitHub Copilot and ChatGPT working together](https://medium.com/towards-data-analytics/the-power-of-github-copilot-and-chatgpt-working-together-4ea6aa730d4?source=your_stories_page-) | A presentation for the official Austin Python Meetup | May 10 | 1 min read | In Towards Data Analytics |
+| [How to Make Friends and Alienate People](https://medium.com/mlearning-ai/how-to-make-friends-and-alienate-people-e22ab3ba7f21?source=your_stories_page-) | The Hard Drug AI is to the antisocial Mind | May 9 | 8 min read | In MLearning.ai |
+| [Using A.I. to Track and Protect Rice’s Whales via Python, AutoGPT, and Image Processing](https://medium.com/git-connected/using-a-i-to-track-and-protect-rices-whales-via-python-autogpt-and-image-processing-20a07000ff1a?source=your_stories_page-) | How to track 51 whales with three cameras | May 9 | 10 min read | In GlassBox |
+| [Typewriters will take your job](https://medium.com/git-connected/typewriters-will-take-your-job-9a32e5d99b0a?source=your_stories_page-) | Say the Writers Guild of 1714 | May 6 | 3 min read | In GlassBox |
+| [How to explain where LLMs could be used at your company](https://medium.com/mlearning-ai/how-to-explain-where-llms-could-be-used-at-your-company-c21f49c347d3?source=your_stories_page-) | A Guide Prompted by personal experience | May 5 | 5 min read | In MLearning.ai |
 
 
 
