@@ -297,7 +297,7 @@ If you are interested in what I have been working on lately, check out my latest
 | **Presentation Name** | **Topics** | **Focus** | **Date** | **Location & Organization** | **Link** |
 |---|---|---|---|---|---|
 | Augmenting Your Workflow with AI Assistants: From GitHub Copilot to chatGPT | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%20chatGPT-red.svg) ![copilot](https://img.shields.io/badge/Copilot-enabled-brightgreen) ![novelai](https://img.shields.io/badge/NovelAI-Snek-blue) | GitHub Copilot, chatGPT, LLMs | Feb 8th 2023 | Austin Python Meetup, BlackLocus | [Watch Here](https://youtu.be/O_MNwB4jdSU?t=93) |
-| Using The Faker Package to Solve Real Challenges with Synthetic Data | - | - | 2023-05-16 | Virtual Event | [Watch Here](https://www.youtube.com/watch?v=uhQ-6B5e5Is) |
+| Using The Faker Package to Solve Real Challenges with Synthetic Data | Synthetic Data, CRM, GPT-4, Ethics | Faker | 2023-05-16 | Austin/Washington DC Python Meetup | [Watch Here](https://www.youtube.com/watch?v=uhQ-6B5e5Is) |
 
 
 
