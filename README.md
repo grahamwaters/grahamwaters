@@ -38,7 +38,7 @@
 
 [![](https://img.shields.io/badge/-Vita-darkred)](https://grahamwatersresume.notion.site/grahamwatersresume/Welcome-to-my-Vita-ed6e93442ba5403e810f7dc3510ed448)  [![](https://img.shields.io/badge/-My%20latest%20resume%20can%20be%20viewed%20here!-darkgreen)](resumes/waters_datascientist_23.pdf)
 
-Click either of the badges above to view my resume or to see my Vita.
+Click the badges above to view my resume or to see my Vita.
 
 </div>
 
