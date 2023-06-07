@@ -32,7 +32,15 @@
 
 ---
 
-## Hi There! 👋 welcome to my GitHub! [![](https://img.shields.io/badge/-hire%20me!-darkgreen)](https://grahamwatersresume.notion.site/grahamwatersresume/Welcome-to-my-Vita-ed6e93442ba5403e810f7dc3510ed448)
+## Hi There! 👋 welcome to my GitHub!
+
+<div align='center'>
+
+[![](https://img.shields.io/badge/-Vita-darkred)](https://grahamwatersresume.notion.site/grahamwatersresume/Welcome-to-my-Vita-ed6e93442ba5403e810f7dc3510ed448)  [![](https://img.shields.io/badge/-My%20latest%20resume%20can%20be%20viewed%20here!-darkgreen)](resumes/waters_datascientist_23.pdf)
+
+Click either of the badges above to view my resume or to see my Vita.
+
+</div>
 
 
 ---
@@ -162,6 +170,7 @@
 - [Tools in Development](#tools-in-development)
 - [Projects Currently Under Construction 🏗️](#projects-currently-under-construction-️)
 - [Keynotes \& Presentations 📢](#keynotes--presentations-)
+- [Most Recent Articles](#most-recent-articles)
 - [Open-Sourced Tool Repositories](#open-sourced-tool-repositories)
 - [Personal Research Projects](#personal-research-projects)
 - [Projects for Later](#projects-for-later)
@@ -481,4 +490,3 @@ If you'd like to contribute to the hours, I spend staring at my screen in deep c
   Humans Encountered since this counter was created:<br>
   <img src="https://profile-counter.glitch.me/grahamwaters/count.svg" />
 </p>
-
