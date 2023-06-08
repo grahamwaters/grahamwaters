@@ -198,25 +198,34 @@ Click the badges above to view my resume or to see my Vita.
 
 
 ---
-<h1> A Little About Me </h1>
+<!-- make font menlo -->
+<div align = 'center'>
 
-* 🌍  I'm based in Austin, Texas.
+<h1 align='Center', font-family='Menlo'>my: whoami </h1>
 
-* Texas Tech (Undergrad) Alumni and Brandeis University (Graduate) Alumni.
-
-*  🎓  My Master's is in Strategic Analytics.
-
-- 🔭 I’m currently working on several projects that are listed below, mostly brushing up on my machine learning skills and how they can be applied to various problem scenarios.
-
-- 🌱 I'm currently learning Neural Networks and Text Summation in Sklearn. I'd also like to get into NLP and GPT-3 with OpenAI.
-
-- 📫 [LinkedIn](https://www.linkedin.com/in/grahamwatersdatascientist/) is the best way to reach me though I encourage innovative methods.
-
-- ⚡ Fun fact: I am a massive fan of SETI and am fascinated by the Hum and everything about the James Webb Space Telescope.
-
-- Finally, If I had to be a movie genre, I'd be SciPy.
+</div>
 
 
+![Austin](images/Austin.png)
+
+* 🌍 I'm a data scientist based in Austin, Texas with a strong skill set in Python programming, data analysis using Pandas, NumPy, PowerBI, and Excel.
+
+* 🎓 I hold a Master's degree in Strategic Analytics from Brandeis University and a Bachelor's degree from Texas Tech University, majoring in University Studies in Mathematics, Agricultural Leadership, and Plant and Soil Science.
+
+![e2Llogo](images/e2L.Logo.Horizontal.png)
+- 🔭 Currently, I'm Interning as a Data Analyst at engage2Learn, Inc., where I am on a multidisciplinary 🐯 Tiger team of ten specialists to integrate modern ML & AIOps Tools into our product offerings: Algorithmic prediction, GPT-4, chatGPT, and ML for ed-tech data, coaching effectiveness, and promoting educator well-being. We have many different e2L projects, from determining use-cases for large language models in our codebase to developing data visualization dashboards using Domo and AWS QuickSight.
+
+- 🧩 I'm proficient in various tech tools and libraries such as VSCode, ChatGPT, Plotly, Seaborn, OpenAI, GitHub Copilot, Sklearn, Machine Learning, OpenCV, Regex, NLTK, and SpaCy among others.
+-
+- 📚 I am also a Technical Author on Medium, contributing as a Top Writer for MLearning.AI with over 130+ published articles and 200 personal followers.
+
+- 🌱 I'm currently expanding my knowledge in Neural Networks and Text Summation in Sklearn, with a keen interest in exploring Natural Language Processing and GPT-3 with OpenAI.
+
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/grahamwatersdatascientist/).
+
+- ⚡ Fun fact: I am a massive fan of SETI and I'm fascinated by the Hum and everything about the James Webb Space Telescope.
+
+- If I had to be a movie genre, I'd be SciPy. Data science and Python combined!
 
 ---
 
