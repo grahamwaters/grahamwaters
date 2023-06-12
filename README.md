@@ -216,7 +216,7 @@ Click the badges above to view my resume or to see my Vita.
 - 🔭 Currently, I'm Interning as a Data Analyst at engage2Learn, Inc., where I am on a multidisciplinary 🐯 Tiger team of ten specialists to integrate modern ML & AIOps Tools into our product offerings: Algorithmic prediction, GPT-4, chatGPT, and ML for ed-tech data, coaching effectiveness, and promoting educator well-being. We have many different e2L projects, from determining use-cases for large language models in our codebase to developing data visualization dashboards using Domo and AWS QuickSight.
 
 - 🧩 I'm proficient in various tech tools and libraries such as VSCode, ChatGPT, Plotly, Seaborn, OpenAI, GitHub Copilot, Sklearn, Machine Learning, OpenCV, Regex, NLTK, and SpaCy among others.
--
+
 - 📚 I am also a Technical Author on Medium, contributing as a Top Writer for MLearning.AI with over 130+ published articles and 200 personal followers.
 
 - 🌱 I'm currently expanding my knowledge in Neural Networks and Text Summation in Sklearn, with a keen interest in exploring Natural Language Processing and GPT-3 with OpenAI.
