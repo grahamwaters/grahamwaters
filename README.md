@@ -208,20 +208,26 @@ Click the badges above to view my resume or to see my Vita.
 
 ![Austin](images/Austin.png)
 
-* 🌍 I'm a data scientist based in Austin, Texas with a strong skill set in Python programming, data analysis using Pandas, NumPy, PowerBI, and Excel.
+* 🌍 I'm a lifelong data scientist based in Austin, Texas, with a strong skill set in Python programming, and data analysis using Pandas, NumPy, PowerBI, and Excel.
 
-* 🎓 I hold a Master's degree in Strategic Analytics from Brandeis University and a Bachelor's degree from Texas Tech University, majoring in University Studies in Mathematics, Agricultural Leadership, and Plant and Soil Science.
+* 🎓 I hold a Master's in Strategic Analytics from Brandeis University and a Bachelor's degree from Texas Tech University, majoring in University Studies in Mathematics, Agricultural Leadership, and Plant and Soil Science.
+
+
+Experience at Ray Elementary School, Hutto, Texas
+
+- 🏫 Currently teaching 2nd Grade ELAR and Writing at Hutto ISD in Hutto, Texas, focusing on skills like RTI, Student-Centered Learning, and Lesson Planning.
+- 🏫 Previously taught 4th Grade Mathematics and Science at Hutto ISD in Hutto, Texas, focusing on classroom management, learning while teaching, and teacher survival.
 
 ![e2Llogo](images/e2L.Logo.Horizontal.png)
-- 🔭 Currently, I'm Interning as a Data Analyst at engage2Learn, Inc., where I am on a multidisciplinary 🐯 Tiger team of ten specialists to integrate modern ML & AIOps Tools into our product offerings: Algorithmic prediction, GPT-4, chatGPT, and ML for ed-tech data, coaching effectiveness, and promoting educator well-being. We have many different e2L projects, from determining use-cases for large language models in our codebase to developing data visualization dashboards using Domo and AWS QuickSight.
+- 🔭 Previously, I interned as a Data Analyst for an Ed-Tech Coaching Company, engage2Learn, Inc., where I served on a multidisciplinary 🐯 Tiger team of ten specialists to integrate modern ML & AIOps Tools into our product offerings: Algorithmic prediction, GPT-4, chatGPT, and ML for ed-tech data, coaching effectiveness, and promoting educator well-being. They have many e2L projects, from determining use cases for large language models in our codebase to developing data visualization dashboards using Domo and AWS QuickSight.
 
-- 🧩 I'm proficient in various tech tools and libraries such as VSCode, ChatGPT, Plotly, Seaborn, OpenAI, GitHub Copilot, Sklearn, Machine Learning, OpenCV, Regex, NLTK, and SpaCy among others.
+- 🧩 I'm proficient in various tech tools and libraries, such as VSCode, ChatGPT, Plotly, Seaborn, OpenAI, GitHub Copilot, Sklearn, Machine Learning, OpenCV, Regex, NLTK, and SpaCy.
 
 - 📚 I am also a Technical Author on Medium, contributing as a Top Writer for MLearning.AI with over 130+ published articles and 200 personal followers.
 
-- 🌱 I'm currently expanding my knowledge in Neural Networks and Text Summation in Sklearn, with a keen interest in exploring Natural Language Processing and GPT-3 with OpenAI.
+- 🌱 I'm expanding my knowledge in Neural Networks and Text Summation in Sklearn, and I am keenly interested in exploring Natural Language Processing and GPT-4 with OpenAI.
 
-- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/grahamwatersdatascientist/).
+- 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/grahamwatersdatascientist/).
 
 - ⚡ Fun fact: I am a massive fan of SETI and I'm fascinated by the Hum and everything about the James Webb Space Telescope.
 
