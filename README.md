@@ -138,10 +138,6 @@ Click the badges above to view my resume or to see my Vita.
     <a href="#">
       <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-0078D7.svg?logo=chatgpt&logoColor=white">
     </a>
-    <a href="#"><img alt="Library Resources" src="https://img.shields.io/badge/-Library%20Resources-4285F4?logo=library&logoColor=white"></a>
-    <a href="#"><img alt="More Apps" src="https://img.shields.io/badge/-More%20Apps-34A853?logo=apps&logoColor=white"></a>
-    <a href="#"><img alt="New Folder" src="https://img.shields.io/badge/-New%20Folder-F4B400?logo=folder&logoColor=white"></a>
-    <a href="#"><img alt="Tech Apps" src="https://img.shields.io/badge/-Tech%20Apps-DB4437?logo=technology&logoColor=white"></a>
     <a href="#"><img alt="DreamBox" src="https://img.shields.io/badge/-DreamBox-00C853?logo=dreambox&logoColor=white"></a>
     <a href="#"><img alt="Nearpod" src="https://img.shields.io/badge/-Nearpod-2962FF?logo=nearpod&logoColor=white"></a>
     <a href="#"><img alt="Epic!" src="https://img.shields.io/badge/-Epic!-D50000?logo=epic&logoColor=white"></a>
@@ -164,12 +160,10 @@ Click the badges above to view my resume or to see my Vita.
     <a href="#"><img alt="ParentSquare" src="https://img.shields.io/badge/-ParentSquare-7C4DFF?logo=parentsquare&logoColor=white"></a>
     <a href="#"><img alt="Planbook" src="https://img.shields.io/badge/-Planbook-536DFE?logo=planbook&logoColor=white"></a>
     <a href="#"><img alt="Savvas EasyBridge" src="https://img.shields.io/badge/-Savvas%20EasyBridge-AA00FF?logo=savvas&logoColor=white"></a>
-    <a href="#"><img alt="Skyward Employee Access" src="https://img.shields.io/badge/-Skyward%20Employee%20Access-00BFA5?logo=skyward&logoColor=white"></a>
     <a href="#"><img alt="Skyward Gradebook" src="https://img.shields.io/badge/-Skyward%20Gradebook-0091EA?logo=skyward&logoColor=white"></a>
     <a href="#"><img alt="STEMscopes" src="https://img.shields.io/badge/-STEMscopes-00B8D4?logo=stem&logoColor=white"></a>
     <a href="#"><img alt="Studies Weekly" src="https://img.shields.io/badge/-Studies%20Weekly-FFD600?logo=studiesweekly&logoColor=white"></a>
     <a href="#"><img alt="TalentEd" src="https://img.shields.io/badge/-TalentEd-6200EA?logo=talented&logoColor=white"></a>
-    <a href="#"><img alt="Technology Work Orders" src="https://img.shields.io/badge/-Technology%20Work%20Orders-006064?logo=technology&logoColor=white"></a>
     <a href="#"><img alt="TEKS Resource System" src="https://img.shields.io/badge/-TEKS%20Resource%20System-304FFE?logo=teks&logoColor=white"></a>
 </p>
 
