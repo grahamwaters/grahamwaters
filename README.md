@@ -24,34 +24,97 @@
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/SQL-0078D7?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown">
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=r&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0078D7.svg?style=flat-square&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white"></a>
 </p>
 
 ### Tools & Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="SKLearn">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Seaborn-0A5E9E?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?style=flat-square&logo=google%20sheets&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-0078D7.svg?style=flat-square&logo=microsoft-word&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-0078D7.svg?style=flat-square&logo=microsoft-excel&logoColor=white"></a>
+  <a href="#"><img alt="SKLearn" src="https://img.shields.io/badge/SKLearn-007A21.svg?style=flat-square&logo=scikit-learn&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-067AB5.svg?style=flat-square&logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-067AB5.svg?style=flat-square&logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Requests" src="https://img.shields.io/badge/Requests-007C7D.svg?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-A52C2C.svg?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Regex" src="https://img.shields.io/badge/Regex-247BA0.svg?style=flat-square&logo=regex&logoColor=white"></a>
+  <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-0078D7.svg?style=flat-square&logo=seaborn&logoColor=white"></a>
+  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0078D7.svg?style=flat-square&logo=matplotlib&logoColor=white"></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0078D7.svg?style=flat-square&logo=tensorflow&logoColor=white"></a>
+  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-0078D7.svg?style=flat-square&logo=keras&logoColor=white"></a>
 </p>
 
-### AI & EdTech Favorites
+### AI & Development Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub Copilot">
-  <img src="https://img.shields.io/badge/Canva-00C4B4?style=flat-square&logo=canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/Edpuzzle-00B8D4?style=flat-square&logo=edpuzzle&logoColor=white" alt="Edpuzzle">
+  <a href="#"><img alt="GPT-3" src="https://img.shields.io/badge/GPT_3-0079C1.svg?style=flat-square&logo=openai&logoColor=white"></a>
+  <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-2D99C1.svg?style=flat-square&logo=openai&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-202211.svg?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-0078D7.svg?style=flat-square&logo=openai&logoColor=white"></a>
+  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?style=flat-square&logo=stack-overflow&logoColor=white"></a>
+  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=flat-square&logo=adobe&logoColor=white"></a>
+</p>
+
+### EdTech & Classroom Tools
+<p align="center">
+  <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/Audacity-0000CC.svg?style=flat-square&logo=audacity&logoColor=white"></a>
+  <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?style=flat-square&logo=discord&logoColor=white"></a>
+  <a href="#"><img alt="iOS" src="https://img.shields.io/badge/iOS-0078D7.svg?style=flat-square&logo=apple&logoColor=white"></a>
+  <a href="#"><img alt="DreamBox" src="https://img.shields.io/badge/DreamBox-00C853.svg?style=flat-square&logo=dreambox&logoColor=white"></a>
+  <a href="#"><img alt="Nearpod" src="https://img.shields.io/badge/Nearpod-2962FF.svg?style=flat-square&logo=nearpod&logoColor=white"></a>
+  <a href="#"><img alt="Epic!" src="https://img.shields.io/badge/Epic!-D50000.svg?style=flat-square&logo=epic&logoColor=white"></a>
+  <a href="#"><img alt="FlipGrid" src="https://img.shields.io/badge/FlipGrid-6200EA.svg?style=flat-square&logo=flipgrid&logoColor=white"></a>
+  <a href="#"><img alt="BrainPOP Jr." src="https://img.shields.io/badge/BrainPOP%20Jr.-FF6D00.svg?style=flat-square&logo=brainpop&logoColor=white"></a>
+  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C853.svg?style=flat-square&logo=canva&logoColor=white"></a>
+  <a href="#"><img alt="Amplify" src="https://img.shields.io/badge/Amplify-2962FF.svg?style=flat-square&logo=amplify&logoColor=white"></a>
+  <a href="#"><img alt="Anonymous Alerts" src="https://img.shields.io/badge/Anonymous%20Alerts-DD2C00.svg?style=flat-square&logo=anonymous&logoColor=white"></a>
+  <a href="#"><img alt="Edpuzzle" src="https://img.shields.io/badge/Edpuzzle-00B8D4.svg?style=flat-square&logo=edpuzzle&logoColor=white"></a>
+  <a href="#"><img alt="FEV Tutor" src="https://img.shields.io/badge/FEV%20Tutor-6200EA.svg?style=flat-square&logo=fevtutor&logoColor=white"></a>
+  <a href="#"><img alt="Flocabulary" src="https://img.shields.io/badge/Flocabulary-FFAB00.svg?style=flat-square&logo=flocabulary&logoColor=white"></a>
+  <a href="#"><img alt="Frontline" src="https://img.shields.io/badge/Frontline-304FFE.svg?style=flat-square&logo=frontline&logoColor=white"></a>
+  <a href="#"><img alt="GimKit" src="https://img.shields.io/badge/GimKit-1DE9B6.svg?style=flat-square&logo=gimkit&logoColor=white"></a>
+  <a href="#"><img alt="HMH ThinkCentral" src="https://img.shields.io/badge/HMH%20ThinkCentral-FF5252.svg?style=flat-square&logo=hmh&logoColor=white"></a>
+  <a href="#"><img alt="Kiddle.co" src="https://img.shields.io/badge/Kiddle.co-448AFF.svg?style=flat-square&logo=kiddle&logoColor=white"></a>
+  <a href="#"><img alt="Learning A-Z" src="https://img.shields.io/badge/Learning%20A--Z-FF4081.svg?style=flat-square&logo=learning&logoColor=white"></a>
+  <a href="#"><img alt="Math Learning Center" src="https://img.shields.io/badge/Math%20Learning%20Center-3F51B5.svg?style=flat-square&logo=math&logoColor=white"></a>
+  <a href="#"><img alt="McGraw-Hill Connected LTI" src="https://img.shields.io/badge/McGraw--Hill%20Connected%20LTI-FFC107.svg?style=flat-square&logo=mcgrawhill&logoColor=white"></a>
+  <a href="#"><img alt="myLexia" src="https://img.shields.io/badge/myLexia-FF6F00.svg?style=flat-square&logo=mylexia&logoColor=white"></a>
+  <a href="#"><img alt="ParentSquare" src="https://img.shields.io/badge/ParentSquare-7C4DFF.svg?style=flat-square&logo=parentsquare&logoColor=white"></a>
+  <a href="#"><img alt="Planbook" src="https://img.shields.io/badge/Planbook-536DFE.svg?style=flat-square&logo=planbook&logoColor=white"></a>
+  <a href="#"><img alt="Savvas EasyBridge" src="https://img.shields.io/badge/Savvas%20EasyBridge-AA00FF.svg?style=flat-square&logo=savvas&logoColor=white"></a>
+  <a href="#"><img alt="Skyward Gradebook" src="https://img.shields.io/badge/Skyward%20Gradebook-0091EA.svg?style=flat-square&logo=skyward&logoColor=white"></a>
+  <a href="#"><img alt="STEMscopes" src="https://img.shields.io/badge/STEMscopes-00B8D4.svg?style=flat-square&logo=stem&logoColor=white"></a>
+  <a href="#"><img alt="Studies Weekly" src="https://img.shields.io/badge/Studies%20Weekly-FFD600.svg?style=flat-square&logo=studiesweekly&logoColor=white"></a>
+  <a href="#"><img alt="TalentEd" src="https://img.shields.io/badge/TalentEd-6200EA.svg?style=flat-square&logo=talented&logoColor=white"></a>
+  <a href="#"><img alt="TEKS Resource System" src="https://img.shields.io/badge/TEKS%20Resource%20System-304FFE.svg?style=flat-square&logo=teks&logoColor=white"></a>
+</p>
+
+### Personal Skills
+<p align="center">
+  <a href="#"><img alt="Data Analysis" src="https://img.shields.io/badge/Data%20Analysis-1E90FF.svg?style=flat-square&logo=data&logoColor=white"></a>
+  <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF4500.svg?style=flat-square&logo=machine-learning&logoColor=white"></a>
+  <a href="#"><img alt="Data Visualization" src="https://img.shields.io/badge/Data%20Visualization-32CD32.svg?style=flat-square&logo=chart&logoColor=white"></a>
+  <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-4682B4.svg?style=flat-square&logo=nlp&logoColor=white"></a>
+  <a href="#"><img alt="Teaching" src="https://img.shields.io/badge/Teaching-FFD700.svg?style=flat-square&logo=school&logoColor=white"></a>
+  <a href="#"><img alt="Lesson Planning" src="https://img.shields.io/badge/Lesson%20Planning-20B2AA.svg?style=flat-square&logo=plan&logoColor=white"></a>
+  <a href="#"><img alt="Classroom Management" src="https://img.shields.io/badge/Classroom%20Management-9932CC.svg?style=flat-square&logo=management&logoColor=white"></a>
+  <a href="#"><img alt="Strategic Analytics" src="https://img.shields.io/badge/Strategic%20Analytics-00CED1.svg?style=flat-square&logo=analytics&logoColor=white"></a>
+  <a href="#"><img alt="Technical Writing" src="https://img.shields.io/badge/Technical%20Writing-2F4F4F.svg?style=flat-square&logo=writing&logoColor=white"></a>
+  <a href="#"><img alt="Public Speaking" src="https://img.shields.io/badge/Public%20Speaking-FFA500.svg?style=flat-square&logo=speech&logoColor=white"></a>
+  <a href="#"><img alt="Project Management" src="https://img.shields.io/badge/Project%20Management-228B22.svg?style=flat-square&logo=project&logoColor=white"></a>
+  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat-square&logo=powerbi&logoColor=white"></a>
+  <a href="#"><img alt="Educational Technology" src="https://img.shields.io/badge/Educational%20Technology-00BFFF.svg?style=flat-square&logo=edtech&logoColor=white"></a>
+  <a href="#"><img alt="Research" src="https://img.shields.io/badge/Research-8A2BE2.svg?style=flat-square&logo=research&logoColor=white"></a>
+  <a href="#"><img alt="Statistical Modeling" src="https://img.shields.io/badge/Statistical%20Modeling-FF6347.svg?style=flat-square&logo=stats&logoColor=white"></a>
+  <a href="#"><img alt="Team Collaboration" src="https://img.shields.io-badge/Team%20Collaboration-4169E1.svg?style=flat-square&logo=team&logoColor=white"></a>
+  <a href="#"><img alt="Problem Solving" src="https://img.shields.io/badge/Problem%20Solving-DC143C.svg?style=flat-square&logo=puzzle&logoColor=white"></a>
 </p>
 
 ---
