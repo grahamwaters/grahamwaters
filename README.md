@@ -163,59 +163,8 @@ Click the badges above to view my resume or to see my Vita.
 |----------|---------|---------|--------|--------------|-----------------|-------------|-----------------------|----------|
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grahamwatersdatascientist/) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DataIsBusiness) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC27RfPcNKJ3Jyaycg_4QhLQ) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grahamwaters) | [![HuggingFace](https://img.shields.io/badge/HuggingFace-%2300B89F.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/icehelmetminer) | [![Medium](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@grahamwaters) | [![Join Medium](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://grahamwaters.medium.com/membership) | [![Towards Data Analytics](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/towards-data-analytics) | [![GlassBox](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/git-connected) |
 
-<h2 align='center'>What's Here</h2>
 
----
-
-
-
----
-
-<div align='center'>
-<!-- Core Languages -->
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
-<a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"></a>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"></a>
-<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-FFCC00?logo=mysql&logoColor=black"></a>
-
-<!-- Data & ML -->
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"></a>
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white"></a>
-<a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-56A3A6?logo=python&logoColor=white"></a>
-<a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=black"></a>
-<a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-6A1B9A?logo=ai&logoColor=white"></a>
-<a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-009688?logo=spacy&logoColor=white"></a>
-<a href="#"><img alt="Data Mining" src="https://img.shields.io/badge/Data%20Mining-9C27B0?logo=databricks&logoColor=white"></a>
-<a href="#"><img alt="Data Visualization" src="https://img.shields.io/badge/Data%20Visualization-E91E63?logo=tableau&logoColor=white"></a>
-
-<!-- Tools -->
-<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"></a>
-<a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"></a>
-<a href="#"><img alt="SPSS" src="https://img.shields.io/badge/SPSS-CC0000?logo=ibm&logoColor=white"></a>
-<a href="#"><img alt="Visio" src="https://img.shields.io/badge/Visio-3955A3?logo=microsoft-visio&logoColor=white"></a>
-<a href="#"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-222222?logo=github&logoColor=white"></a>
-
-<!-- Communication & Education -->
-<a href="#"><img alt="Teaching" src="https://img.shields.io/badge/Teaching-FF6F00?logo=google-classroom&logoColor=white"></a>
-<a href="#"><img alt="Public Speaking" src="https://img.shields.io/badge/Public%20Speaking-9E9D24?logo=microphone&logoColor=white"></a>
-<a href="#"><img alt="ESL" src="https://img.shields.io/badge/ESL-00ACC1?logo=language&logoColor=white"></a>
-<a href="#"><img alt="Classroom Management" src="https://img.shields.io/badge/Classroom%20Management-8BC34A?logo=chalkboard&logoColor=white"></a>
-<a href="#"><img alt="RTI" src="https://img.shields.io/badge/RTI-689F38?logo=bookstack&logoColor=white"></a>
-
-<!-- Productivity -->
-<a href="#"><img alt="Project Management" src="https://img.shields.io/badge/Project%20Management-4CAF50?logo=asana&logoColor=white"></a>
-<a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white"></a>
-<a href="#"><img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white"></a>
-
-<!-- Soft Skills -->
-<a href="#"><img alt="Teamwork" src="https://img.shields.io/badge/Teamwork-03A9F4?logo=teams&logoColor=white"></a>
-<a href="#"><img alt="Leadership" src="https://img.shields.io/badge/Leadership-3F51B5?logo=medal&logoColor=white"></a>
-<a href="#"><img alt="Problem Solving" src="https://img.shields.io/badge/Problem%20Solving-FF5722?logo=thinkpad&logoColor=white"></a>
-<a href="#"><img alt="Communication" src="https://img.shields.io/badge/Communication-607D8B?logo=wechat&logoColor=white"></a>
-</div>
-
-<h2 align='center'>My Favorite Tools</h2>
+<h2 align='center'>My Current Go-To Tools</h2>
 
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>
@@ -228,8 +177,8 @@ Click the badges above to view my resume or to see my Vita.
   <img src="https://black.readthedocs.io/en/stable/_static/logo2-readme.png" alt="Black" height="60" />
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" height="60"/></a>
 
-  <!-- GitHub streak stats -->
-  <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Graham's GitHub streak" /></a>
+  <!-- GitHub streak stats
+  <a href="http://www.github.com/grahamwaters"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamwaters&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Graham's GitHub streak" /></a> -->
 </div>
 
 ---
@@ -237,7 +186,11 @@ Click the badges above to view my resume or to see my Vita.
 
 <!-- ===== 💼 EXPERIENCE TIMELINE ===== -->
 
+---
+
 <h2 align="center">💼 Professional Experience</h2>
+
+---
 
 <!-- Outlier ---------------------------------------------------------->
 <details>
@@ -307,7 +260,7 @@ Click the badges above to view my resume or to see my Vita.
     • 4th-Grade Math & Science Teacher (3 mo)
     • Guest Educator across 3rd-6th grades (3 mo)
 
-    <p>
+  <p>
       <a href="#"><img alt="Student-Centred" src="https://img.shields.io/badge/Student-Centred Learning-FF7043?logo=readme&logoColor=white"></a>
       <a href="#"><img alt="IXL" src="https://img.shields.io/badge/IXL-FFC107?logo=readme&logoColor=black"></a>
     </p>
@@ -368,79 +321,71 @@ Click the badges above to view my resume or to see my Vita.
   </p>
 </details>
 
-<!-- ===== 2015 – 2020 EXPERIENCE ===== -->
-
+<!-- Texas State University --------------------------------------->
 <details>
-  <summary><strong>2015 – 2020 ▼ Early-Career Roles</strong></summary>
-  <br>
+  <summary>
+    <img src="https://img.shields.io/static/v1?label=Texas+State+University&message=Classroom+Support+Technologist&color=8E24AA&style=flat" alt="Texas State University — Classroom Support Technologist">
+    <img src="https://img.shields.io/badge/2015 → 2016-9575CD?logo=calendar&logoColor=white">
+  </summary>
 
-  <!-- Texas State University --------------------------------------->
-  <details>
-    <summary>
-      <img src="https://img.shields.io/static/v1?label=Texas+State+University&message=Classroom+Support+Technologist&color=8E24AA&style=flat" alt="Texas State University — Classroom Support Technologist">
-      <img src="https://img.shields.io/badge/2015 → 2016-9575CD?logo=calendar&logoColor=white">
-    </summary>
+  • Provided frontline tech support for iTV classrooms
+  • Designed MS Visio diagrams of A/V layouts for events
 
-    • Provided frontline tech support for iTV classrooms
-    • Designed MS Visio diagrams of A/V layouts for events
+  <p>
+    <a href="#"><img alt="Technical Support" src="https://img.shields.io/badge/Technical Support-546E7A?logo=helpdesk&logoColor=white"></a>
+    <a href="#"><img alt="Visio" src="https://img.shields.io/badge/Visio-3955A3?logo=microsoft-visio&logoColor=white"></a>
+    <a href="#"><img alt="Interpersonal Skills" src="https://img.shields.io/badge/Interpersonal-4E342E?logo=people&logoColor=white"></a>
+  </p>
+</details>
 
-    <p>
-      <a href="#"><img alt="Technical Support" src="https://img.shields.io/badge/Technical Support-546E7A?logo=helpdesk&logoColor=white"></a>
-      <a href="#"><img alt="Visio" src="https://img.shields.io/badge/Visio-3955A3?logo=microsoft-visio&logoColor=white"></a>
-      <a href="#"><img alt="Interpersonal Skills" src="https://img.shields.io/badge/Interpersonal-4E342E?logo=people&logoColor=white"></a>
-    </p>
-  </details>
+<!-- The Home Depot ----------------------------------------------->
+<details>
+  <summary>
+    <img src="https://img.shields.io/static/v1?label=The+Home+Depot&message=Sales+%26+Electrical+Associate&color=F96305&style=flat" alt="The Home Depot — Appliance Salesperson & Electrical Associate">
+    <img src="https://img.shields.io/badge/2016 → 2017-FFB74D?logo=calendar&logoColor=white">
+  </summary>
 
-  <!-- The Home Depot ----------------------------------------------->
-  <details>
-    <summary>
-      <img src="https://img.shields.io/static/v1?label=The+Home+Depot&message=Sales+%26+Electrical+Associate&color=F96305&style=flat" alt="The Home Depot — Appliance Salesperson & Electrical Associate">
-      <img src="https://img.shields.io/badge/2016 → 2017-FFB74D?logo=calendar&logoColor=white">
-    </summary>
+  • 10× Homer-Award‐winning customer service & sales
+  • Optimised merchandising layouts to lift engagement
 
-    • 10× Homer-Award‐winning customer service & sales
-    • Optimised merchandising layouts to lift engagement
+  <p>
+    <a href="#"><img alt="Direct Sales" src="https://img.shields.io/badge/Direct Sales-FF8F00?logo=shopify&logoColor=white"></a>
+    <a href="#"><img alt="Customer Service" src="https://img.shields.io/badge/Customer Service-00BCD4?logo=zendesk&logoColor=white"></a>
+    <a href="#"><img alt="Interpersonal Skills" src="https://img.shields.io/badge/Interpersonal-4E342E?logo=people&logoColor=white"></a>
+  </p>
+</details>
 
-    <p>
-      <a href="#"><img alt="Direct Sales" src="https://img.shields.io/badge/Direct Sales-FF8F00?logo=shopify&logoColor=white"></a>
-      <a href="#"><img alt="Customer Service" src="https://img.shields.io/badge/Customer Service-00BCD4?logo=zendesk&logoColor=white"></a>
-      <a href="#"><img alt="Interpersonal Skills" src="https://img.shields.io/badge/Interpersonal-4E342E?logo=people&logoColor=white"></a>
-    </p>
-  </details>
+<!-- Herdmark Media ----------------------------------------------->
+<details>
+  <summary>
+    <img src="https://img.shields.io/static/v1?label=Herdmark+Media&message=Video+Production+Intern&color=009688&style=flat" alt="Herdmark Media — Video Production Intern">
+    <img src="https://img.shields.io/badge/2018-4DB6AC?logo=calendar&logoColor=white">
+  </summary>
 
-  <!-- Herdmark Media ----------------------------------------------->
-  <details>
-    <summary>
-      <img src="https://img.shields.io/static/v1?label=Herdmark+Media&message=Video+Production+Intern&color=009688&style=flat" alt="Herdmark Media — Video Production Intern">
-      <img src="https://img.shields.io/badge/2018-4DB6AC?logo=calendar&logoColor=white">
-    </summary>
+  • Shot & edited ag-marketing footage (Canon C300)
+  • Storyboarded campaigns for digital-first audiences
 
-    • Shot & edited ag-marketing footage (Canon C300)
-    • Storyboarded campaigns for digital-first audiences
+  <p>
+    <a href="#"><img alt="Project Management" src="https://img.shields.io/badge/Project Mgmt-4CAF50?logo=asana&logoColor=white"></a>
+    <a href="#"><img alt="Interpersonal Skills" src="https://img.shields.io/badge/Interpersonal-4E342E?logo=people&logoColor=white"></a>
+  </p>
+</details>
 
-    <p>
-      <a href="#"><img alt="Project Management" src="https://img.shields.io/badge/Project Mgmt-4CAF50?logo=asana&logoColor=white"></a>
-      <a href="#"><img alt="Interpersonal Skills" src="https://img.shields.io/badge/Interpersonal-4E342E?logo=people&logoColor=white"></a>
-    </p>
-  </details>
+<!-- Texas Tech University ------------------------------------------>
+<details>
+  <summary>
+    <img src="https://img.shields.io/static/v1?label=Texas+Tech+University&message=B.Sc.+University+Studies&color=C62828&style=flat" alt="Texas Tech University — University Student">
+    <img src="https://img.shields.io/badge/2013 → 2018-B71C1C?logo=calendar&logoColor=white">
+  </summary>
 
-  <!-- Texas Tech University ------------------------------------------>
-  <details>
-    <summary>
-      <img src="https://img.shields.io/static/v1?label=Texas+Tech+University&message=B.Sc.+University+Studies&color=C62828&style=flat" alt="Texas Tech University — University Student">
-      <img src="https://img.shields.io/badge/2013 → 2018-B71C1C?logo=calendar&logoColor=white">
-    </summary>
+  Electrical Eng., advanced maths, comp-bio & CS;
+  Majored in **University Studies** – Math · Plant & Soil Science · Leadership
 
-    Electrical Eng., advanced maths, comp-bio & CS;
-    Majored in **University Studies** – Math · Plant & Soil Science · Leadership
-
-    <p>
-      <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"></a>
-      <a href="#"><img alt="Analytical Skills" src="https://img.shields.io/badge/Analytical-1E88E5?logo=datadog&logoColor=white"></a>
-      <a href="#"><img alt="Public Speaking" src="https://img.shields.io/badge/Public Speaking-9E9D24?logo=microphone&logoColor=white"></a>
-    </p>
-  </details>
-
+  <p>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"></a>
+    <a href="#"><img alt="Analytical Skills" src="https://img.shields.io/badge/Analytical-1E88E5?logo=datadog&logoColor=white"></a>
+    <a href="#"><img alt="Public Speaking" src="https://img.shields.io/badge/Public Speaking-9E9D24?logo=microphone&logoColor=white"></a>
+  </p>
 </details>
 
 <!-- ===== end EXPERIENCE ===== -->
