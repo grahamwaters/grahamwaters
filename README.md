@@ -172,7 +172,7 @@ Click the badges above to view my resume or to see my Vita.
   <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>
   <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" height="60"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/numpy/numpy/2ad596fc8d015dd3f5ee30bedf068c2c3daf60d2/branding/logo/primary/numpylogo.svg" alt="numpy" height="60"/></a>
-  <a href='matplotlib.org' target="_blank"><img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" height="60"/></a>
+  <a href='matplotlib.org' target="_blank"><img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="matplotlib" height="60"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="seaborn" height="60"/></a>
   <img src="https://black.readthedocs.io/en/stable/_static/logo2-readme.png" alt="Black" height="60" />
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" height="60"/></a>
