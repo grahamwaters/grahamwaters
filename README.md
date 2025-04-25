@@ -13,8 +13,36 @@ My Vita is still in beta, but you can find it by clicking below.
 <!-- [![Resume](https://img.shields.io/badge/-My%20latest%20resume%20can%20be%20viewed%20here!-darkgreen)](resumes/waters_datascientist_23.pdf) -->
 
 </div>
+<!-- ===== Quick-Link Tiles ===== -->
+<style>
+  .tile-grid {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .tile {
+    width: 160px;             /* square dimensions */
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font: 700 1rem/1 sans-serif;
+    border-radius: 0.5rem;
+    color: #ffffff;
+    text-decoration: none;
+    transition: transform 0.18s ease;
+  }
+  .tile:hover {
+    transform: scale(1.05);
+  }
+</style>
 
-
+<div class="tile-grid">
+  <a href="/data-analysis.md"     class="tile" style="background:#0077b6;">Data Analysis</a>
+  <a href="/data-science.md"      class="tile" style="background:#ef476f;">Data Science</a>
+  <a href="/machine-learning.md"  class="tile" style="background:#06d6a0;">Machine Learning</a>
+  <a href="/python-dev.md"        class="tile" style="background:#ffa600;">Python&nbsp;Dev</a>
+</div>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=grahamwaters&style=flat-square" alt="Profile views" />
 </div>
@@ -427,17 +455,6 @@ My Vita is still in beta, but you can find it by clicking below.
 
 - 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/grahamwatersdatascientist/).
 
----
-
-
-
-<div align="center">
-  <a href="https://github.com/grahamwaters?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</div>
-
-If you are interested in what I have been working on lately, check out my latest projects (shown above). I include a short description of each project and a link to the repository. If you have any questions or comments, please feel free to reach out to me on [Twitter](https://twitter.com/GrahamWaters1) or [LinkedIn](https://www.linkedin.com/in/grahamwaters/).
 
 ---
 
@@ -633,6 +650,15 @@ So far, we have gathered data for WWDD from Gutenberg's corpus. What data can we
 <a href="https://github.com/grahamwaters/druginfo_scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=druginfo_scraper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="druginfo_scraper"></a>
 
 ---
+
+<div align="center">
+  <a href="https://github.com/grahamwaters?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</div>
+
+If you are interested in what I have been working on lately, check out my latest projects (shown above). I include a short description of each project and a link to the repository. If you have any questions or comments, please feel free to reach out to me on [Twitter](https://twitter.com/GrahamWaters1) or [LinkedIn](https://www.linkedin.com/in/grahamwaters/).
+
 
 <h2 align='center'>How to Support My Work</h2>
 
