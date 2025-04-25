@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 style="color:yellow; font-size: 50px;">ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴘᴏʀᴛꜰᴏʟɪᴏ</h1>
+  <h1 style="color:black; font-size: 50px;">ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴘᴏʀᴛꜰᴏʟɪᴏ</h1>
 
-  ![Banner](images/updatedbanner3.png)
+  <!-- ![Banner](images/updatedbanner3.png) -->
 </div>
 
 ---
@@ -431,33 +431,7 @@
 
 ---
 
-<h2 align='center'>My Top Open Source Projects</h2>
 
-![divider](images/opensource_still.png)
-
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/grahamwaters/lorebook_generator_for_novelai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="lorebook_generator_for_novelai"></a>
-    <a href="https://github.com/grahamwaters/GnomansLand"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
-    <a href="https://github.com/grahamwaters/Mimikers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Mimikers&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Mimikers"></a>
-    <a href="https://github.com/grahamwaters/chatGPTea-Ultimate-Prompt-List"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=chatGPTea-Ultimate-Prompt-List&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="chatGPTea-Ultimate-Prompt-List"></a>
-  </p>
-</div>
-
----
-
-## Research Projects
-
-<a href="https://github.com/grahamwaters/HowTimeFlies"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=HowTimeFlies&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="HowTimeFlies"></a>
-<a href="https://github.com/grahamwaters/DisariumPy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DisariumPy&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DisariumPy"></a>
-
-## Tools in Development
-
-<a href="https://github.com/grahamwaters/Clark-Kent-Reporter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Clark-Kent-Reporter&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Clark-Kent-Reporter"></a>
-<a href="https://github.com/grahamwaters/medium_titles_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=medium_titles_analysis&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="medium_titles_analysis"></a>
-<a href="https://github.com/grahamwaters/druginfo_scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=druginfo_scraper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="druginfo_scraper"></a>
-
----
 
 <div align="center">
   <a href="https://github.com/grahamwaters?tab=repositories&sort=stargazers">
@@ -632,6 +606,33 @@ IBM has made strides toward collating Wikipedia knowledge and creating a knowled
 **November 21, 2022**
 
 So far, we have gathered data for WWDD from Gutenberg's corpus. What data can we collect about Arthur Conan Doyle that will enable us to solve this problem? We need every book he's ever written, around 80 books, provided through the Gutenberg repository. These books are included in the Data folder as text files; second, I would like to have anything he wrote that was a first-hand account because this is where we will get his personal preferences and his turns of phrase, and maybe even his personal biases, which are probably the most important things to gather once we gather his diaries, journals. Things other people said about him are the next step. Many people have researched historical figures for years, and repeating them seems like a useless task and is a waste of precious resources. So in this step, we want to gather any biographies about Arthur Conan Doyle and any articles about him, primarily if they were written about him in the time he lived. And this might be most useful if we were to gather the names of all of his second-degree connections. If we think about it, in terms of a LinkedIn network, though, Doyle's second-degree connections are the most likely to have the most accurate depictions of his preferences. This is, of course, an assumption that I am making. Once we gather the names of his second-degree connections, I think it would be an excellent step to assign weight to their accounts based on the boolean characteristic 'writer' (if they authored anything themselves besides what they said about Doyle).
+
+---
+<h2 align='center'>My Top Open Source Projects</h2>
+
+![divider](images/opensource_still.png)
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/grahamwaters/lorebook_generator_for_novelai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="lorebook_generator_for_novelai"></a>
+    <a href="https://github.com/grahamwaters/GnomansLand"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
+    <a href="https://github.com/grahamwaters/Mimikers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Mimikers&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Mimikers"></a>
+    <a href="https://github.com/grahamwaters/chatGPTea-Ultimate-Prompt-List"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=chatGPTea-Ultimate-Prompt-List&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="chatGPTea-Ultimate-Prompt-List"></a>
+  </p>
+</div>
+
+---
+
+## Research Projects
+
+<a href="https://github.com/grahamwaters/HowTimeFlies"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=HowTimeFlies&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="HowTimeFlies"></a>
+<a href="https://github.com/grahamwaters/DisariumPy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=DisariumPy&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DisariumPy"></a>
+
+## Tools in Development
+
+<a href="https://github.com/grahamwaters/Clark-Kent-Reporter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Clark-Kent-Reporter&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Clark-Kent-Reporter"></a>
+<a href="https://github.com/grahamwaters/medium_titles_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=medium_titles_analysis&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="medium_titles_analysis"></a>
+<a href="https://github.com/grahamwaters/druginfo_scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=druginfo_scraper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="druginfo_scraper"></a>
 
 ---
 
