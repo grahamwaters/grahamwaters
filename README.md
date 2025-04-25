@@ -9,6 +9,7 @@
 ## Hi There! 👋 Welcome to my GitHub!
 
 <div align='center'>
+My Vita is still in beta, but you can find it by clicking below.
 
 [![Vita](https://img.shields.io/badge/-Vita-darkred)](https://grahamwatersresume.notion.site/grahamwatersresume/Welcome-to-my-Vita-ed6e93442ba5403e810f7dc3510ed448)
 <!-- [![Resume](https://img.shields.io/badge/-My%20latest%20resume%20can%20be%20viewed%20here!-darkgreen)](resumes/waters_datascientist_23.pdf) -->
