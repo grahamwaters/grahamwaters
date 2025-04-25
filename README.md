@@ -14,35 +14,28 @@ My Vita is still in beta, but you can find it by clicking below.
 
 </div>
 <!-- ===== Quick-Link Tiles ===== -->
-<style>
-  .tile-grid {
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-  }
-  .tile {
-    width: 160px;             /* square dimensions */
-    height: 160px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font: 700 1rem/1 sans-serif;
-    border-radius: 0.5rem;
-    color: #ffffff;
-    text-decoration: none;
-    transition: transform 0.18s ease;
-  }
-  .tile:hover {
-    transform: scale(1.05);
-  }
-</style>
+<p align="center">
 
-<div class="tile-grid">
-  <a href="/data-analysis.md"     class="tile" style="background:#0077b6;">Data Analysis</a>
-  <a href="/data-science.md"      class="tile" style="background:#ef476f;">Data Science</a>
-  <a href="/machine-learning.md"  class="tile" style="background:#06d6a0;">Machine Learning</a>
-  <a href="/python-dev.md"        class="tile" style="background:#ffa600;">Python&nbsp;Dev</a>
-</div>
+Portfolios by Topic
+
+  <!-- Data Analysis -->
+  <a href="/data-analysis.md">
+    <img alt="Data Analysis" src="https://img.shields.io/static/v1?label=Data+Analysis&message=Explore&color=0077b6&logo=chartdotjs&logoColor=white">
+  </a>
+  <!-- Data Science -->
+  <a href="/data-science.md">
+    <img alt="Data Science" src="https://img.shields.io/static/v1?label=Data+Science&message=Discover&color=ef476f&logo=jupyter&logoColor=white">
+  </a>
+  <!-- Machine Learning -->
+  <a href="/machine-learning.md">
+    <img alt="Machine Learning" src="https://img.shields.io/static/v1?label=Machine+Learning&message=Model&color=06d6a0&logo=ai&logoColor=white">
+  </a>
+  <!-- Python Dev -->
+  <a href="/python-dev.md">
+    <img alt="Python Dev" src="https://img.shields.io/static/v1?label=Python+Dev&message=Code&color=ffa600&logo=python&logoColor=white">
+  </a>
+</p>
+
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=grahamwaters&style=flat-square" alt="Profile views" />
 </div>
