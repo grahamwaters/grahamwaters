@@ -159,9 +159,9 @@ Click the badges above to view my resume or to see my Vita.
 
 ---
 
-| LinkedIn | Twitter | YouTube | GitHub | HuggingFace | Medium Profile | Join Medium | Towards Data Analytics | GlassBox |
-|----------|---------|---------|--------|--------------|-----------------|-------------|-----------------------|----------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grahamwatersdatascientist/) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DataIsBusiness) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC27RfPcNKJ3Jyaycg_4QhLQ) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grahamwaters) | [![HuggingFace](https://img.shields.io/badge/HuggingFace-%2300B89F.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/icehelmetminer) | [![Medium](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@grahamwaters) | [![Join Medium](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://grahamwaters.medium.com/membership) | [![Towards Data Analytics](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/towards-data-analytics) | [![GlassBox](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/git-connected) |
+| LinkedIn | Twitter | YouTube | GitHub | HuggingFace | Medium Profile |  Towards Data Analytics | GlassBox |
+|----------|---------|---------|--------|--------------|-----------------|-------------|-----------------------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grahamwatersdatascientist/) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DataIsBusiness) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC27RfPcNKJ3Jyaycg_4QhLQ) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grahamwaters) | [![HuggingFace](https://img.shields.io/badge/HuggingFace-%2300B89F.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/icehelmetminer) | [![Medium](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@grahamwaters) | [![Towards Data Analytics](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/towards-data-analytics) | [![GlassBox](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/git-connected) |
 
 
 <h2 align='center'>My Current Go-To Tools</h2>
@@ -186,7 +186,6 @@ Click the badges above to view my resume or to see my Vita.
 
 <!-- ===== 💼 EXPERIENCE TIMELINE ===== -->
 
----
 
 <h2 align="center">💼 Professional Experience</h2>
 
@@ -412,11 +411,11 @@ Click the badges above to view my resume or to see my Vita.
 
 
 
-<h2 align='center'>my: whoami</h2>
+<!-- <h2 align='center'>my: whoami</h2>
 
 <div align='center'>
   <img src="images/Austin.png" alt="Austin">
-</div>
+</div> -->
 
 * 🌍 I'm a lifelong data scientist based in Austin, Texas, with a strong skill set in Python programming, and data analysis using Pandas, NumPy, PowerBI, and Excel.
 
