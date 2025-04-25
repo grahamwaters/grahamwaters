@@ -368,21 +368,79 @@ Click the badges above to view my resume or to see my Vita.
   </p>
 </details>
 
-<!-- Earlier roles (collapse) ---------------------------------------->
+<!-- ===== 2015 – 2020 EXPERIENCE ===== -->
+
 <details>
-  <summary>▶︎ 2015 – 2020 (Texas State Univ, Home Depot, Herdmark Media, Texas Tech Univ)</summary>
+  <summary><strong>2015 – 2020 ▼ Early-Career Roles</strong></summary>
+  <br>
 
-  * **Texas State Univ – Classroom Support Technologist (2015-2016)**
-    Visio-mapped A/V systems; frontline tech support.
+  <!-- Texas State University --------------------------------------->
+  <details>
+    <summary>
+      <img src="https://img.shields.io/static/v1?label=Texas+State+University&message=Classroom+Support+Technologist&color=8E24AA&style=flat" alt="Texas State University — Classroom Support Technologist">
+      <img src="https://img.shields.io/badge/2015 → 2016-9575CD?logo=calendar&logoColor=white">
+    </summary>
 
-  * **The Home Depot – Appliance Sales & Electrical (2016-2017)**
-    10× Homer Awards; optimised merchandising layouts.
+    • Provided frontline tech support for iTV classrooms
+    • Designed MS Visio diagrams of A/V layouts for events
 
-  * **Herdmark Media – Video Production Intern (2018)**
-    Shot/edited ag-marketing footage on Canon C300.
+    <p>
+      <a href="#"><img alt="Technical Support" src="https://img.shields.io/badge/Technical Support-546E7A?logo=helpdesk&logoColor=white"></a>
+      <a href="#"><img alt="Visio" src="https://img.shields.io/badge/Visio-3955A3?logo=microsoft-visio&logoColor=white"></a>
+      <a href="#"><img alt="Interpersonal Skills" src="https://img.shields.io/badge/Interpersonal-4E342E?logo=people&logoColor=white"></a>
+    </p>
+  </details>
 
-  * **Texas Tech Univ – B.Sc. Univ Studies (2013-2018)**
-    Concentrations: Math, Plant & Soil Science, Leadership.
+  <!-- The Home Depot ----------------------------------------------->
+  <details>
+    <summary>
+      <img src="https://img.shields.io/static/v1?label=The+Home+Depot&message=Sales+%26+Electrical+Associate&color=F96305&style=flat" alt="The Home Depot — Appliance Salesperson & Electrical Associate">
+      <img src="https://img.shields.io/badge/2016 → 2017-FFB74D?logo=calendar&logoColor=white">
+    </summary>
+
+    • 10× Homer-Award‐winning customer service & sales
+    • Optimised merchandising layouts to lift engagement
+
+    <p>
+      <a href="#"><img alt="Direct Sales" src="https://img.shields.io/badge/Direct Sales-FF8F00?logo=shopify&logoColor=white"></a>
+      <a href="#"><img alt="Customer Service" src="https://img.shields.io/badge/Customer Service-00BCD4?logo=zendesk&logoColor=white"></a>
+      <a href="#"><img alt="Interpersonal Skills" src="https://img.shields.io/badge/Interpersonal-4E342E?logo=people&logoColor=white"></a>
+    </p>
+  </details>
+
+  <!-- Herdmark Media ----------------------------------------------->
+  <details>
+    <summary>
+      <img src="https://img.shields.io/static/v1?label=Herdmark+Media&message=Video+Production+Intern&color=009688&style=flat" alt="Herdmark Media — Video Production Intern">
+      <img src="https://img.shields.io/badge/2018-4DB6AC?logo=calendar&logoColor=white">
+    </summary>
+
+    • Shot & edited ag-marketing footage (Canon C300)
+    • Storyboarded campaigns for digital-first audiences
+
+    <p>
+      <a href="#"><img alt="Project Management" src="https://img.shields.io/badge/Project Mgmt-4CAF50?logo=asana&logoColor=white"></a>
+      <a href="#"><img alt="Interpersonal Skills" src="https://img.shields.io/badge/Interpersonal-4E342E?logo=people&logoColor=white"></a>
+    </p>
+  </details>
+
+  <!-- Texas Tech University ------------------------------------------>
+  <details>
+    <summary>
+      <img src="https://img.shields.io/static/v1?label=Texas+Tech+University&message=B.Sc.+University+Studies&color=C62828&style=flat" alt="Texas Tech University — University Student">
+      <img src="https://img.shields.io/badge/2013 → 2018-B71C1C?logo=calendar&logoColor=white">
+    </summary>
+
+    Electrical Eng., advanced maths, comp-bio & CS;
+    Majored in **University Studies** – Math · Plant & Soil Science · Leadership
+
+    <p>
+      <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"></a>
+      <a href="#"><img alt="Analytical Skills" src="https://img.shields.io/badge/Analytical-1E88E5?logo=datadog&logoColor=white"></a>
+      <a href="#"><img alt="Public Speaking" src="https://img.shields.io/badge/Public Speaking-9E9D24?logo=microphone&logoColor=white"></a>
+    </p>
+  </details>
+
 </details>
 
 <!-- ===== end EXPERIENCE ===== -->
@@ -419,15 +477,6 @@ Click the badges above to view my resume or to see my Vita.
 
 * 🎓 I hold a Master's in Strategic Analytics from Brandeis University and a Bachelor's degree from Texas Tech University, majoring in University Studies in Mathematics, Agricultural Leadership, and Plant and Soil Science.
 
-### Experience at Ray Elementary School, Hutto, Texas
-
-- 🏫 Currently teaching 2nd Grade ELAR and Writing at Hutto ISD in Hutto, Texas, focusing on skills like RTI, Student-Centered Learning, and Lesson Planning.
-- 🏫 Previously taught 4th Grade Mathematics and Science at Hutto ISD in Hutto, Texas, focusing on classroom management, learning while teaching, and teacher survival.
-
-<div align="center">
-  <img src="images/e2L.Logo.Horizontal.png" alt="e2L Logo" />
-</div>
-
 - 🔭 Previously, I interned as a Data Analyst for an Ed-Tech Coaching Company, engage2Learn, Inc., where I served on a multidisciplinary 🐯 Tiger team of ten specialists to integrate modern ML & AIOps Tools into our product offerings: Algorithmic prediction, GPT-4, chatGPT, and ML for ed-tech data, coaching effectiveness, and promoting educator well-being. They have many e2L projects, from determining use cases for large language models in our codebase to developing data visualization dashboards using Domo and AWS QuickSight.
 
 - 🧩 I'm proficient in various tech tools and libraries, such as VSCode, ChatGPT, Plotly, Seaborn, OpenAI, GitHub Copilot, Sklearn, Machine Learning, OpenCV, Regex, NLTK, and SpaCy.
@@ -437,10 +486,6 @@ Click the badges above to view my resume or to see my Vita.
 - 🌱 I'm expanding my knowledge in Neural Networks and Text Summation in Sklearn, and I am keenly interested in exploring Natural Language Processing and GPT-4 with OpenAI.
 
 - 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/grahamwatersdatascientist/).
-
-- ⚡ Fun fact: I am a massive fan of SETI and I'm fascinated by the Hum and everything about the James Webb Space Telescope.
-
-- If I had to be a movie genre, I'd be SciPy. Data science and Python combined!
 
 ---
 
