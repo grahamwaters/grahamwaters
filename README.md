@@ -30,9 +30,9 @@ My Vita is still in beta, but you can find it by clicking below.
     <img alt="Machine Learning" src="https://img.shields.io/static/v1?label=Machine+Learning&message=Model&color=06d6a0&logo=ai&logoColor=white">
   </a>
   <!-- Python Dev -->
-  <a href="/python-dev.md">
+  <!-- <a href="/python-dev.md">
     <img alt="Python Dev" src="https://img.shields.io/static/v1?label=Python+Dev&message=Code&color=ffa600&logo=python&logoColor=white">
-  </a>
+  </a> -->
 </p>
 
 <div align="center">
