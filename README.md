@@ -14,10 +14,9 @@ My Vita is still in beta, but you can find it by clicking below.
 
 </div>
 <!-- ===== Quick-Link Tiles ===== -->
+<h2 align="center">Portfolios by Topic
+</h2>
 <p align="center">
-
-Portfolios by Topic
-
   <!-- Data Analysis -->
   <a href="/data-analysis.md">
     <img alt="Data Analysis" src="https://img.shields.io/static/v1?label=Data+Analysis&message=Explore&color=0077b6&logo=chartdotjs&logoColor=white">
