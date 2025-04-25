@@ -11,9 +11,7 @@
 <div align='center'>
 
 [![Vita](https://img.shields.io/badge/-Vita-darkred)](https://grahamwatersresume.notion.site/grahamwatersresume/Welcome-to-my-Vita-ed6e93442ba5403e810f7dc3510ed448)
-[![Resume](https://img.shields.io/badge/-My%20latest%20resume%20can%20be%20viewed%20here!-darkgreen)](resumes/waters_datascientist_23.pdf)
-
-Click the badges above to view my resume or to see my Vita.
+<!-- [![Resume](https://img.shields.io/badge/-My%20latest%20resume%20can%20be%20viewed%20here!-darkgreen)](resumes/waters_datascientist_23.pdf) -->
 
 </div>
 
@@ -23,7 +21,7 @@ Click the badges above to view my resume or to see my Vita.
     <img src="https://komarev.com/ghpvc/?username=grahamwaters&style=flat-square" alt="Profile views" />
 </div>
 
-<h2 align='center'>Languages and Frameworks</h2>
+<h2 align='center'>Summary of Skills</h2>
 
 <p align="center">
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
@@ -471,7 +469,7 @@ If you are interested in what I have been working on lately, check out my latest
 
 ---
 
-<h2 align='center'>Projects Currently Under Construction 🏗️</h2>
+<!-- <h2 align='center'>Projects Currently Under Construction 🏗️</h2>
 
 | **Project Name** | **Status Metrics** | **Focus** | **Estimated Completion Date** |
 |---|---|---|---|
@@ -481,8 +479,22 @@ If you are interested in what I have been working on lately, check out my latest
 | [Taking Aimes](https://github.com/grahamwaters/Taking-Aimes) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Taking-Aimes) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Taking-Aimes) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Taking-Aimes) | Linear Regression applied to the classic Aimes housing dataset. | TBD |
 | [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) ![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
 | [PySeas](https://github.com/grahamwaters/PySeas) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/PySeas) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/PySeas) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/PySeas) ![issues](https://img.shields.io/github/issues/grahamwaters/PySeas) | Utilizing NOAA buoy camera catches to track the sunset across the vast surface of the earth's oceans. |
-| [MystoryAssistant](https://github.com/grahamwaters/MystoryAssistant) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/MystoryAssistant) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/MystoryAssistant) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/MystoryAssistant) ![issues](https://img.shields.io/github/issues/grahamwaters/MystoryAssistant) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
+| [MystoryAssistant](https://github.com/grahamwaters/MystoryAssistant) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/MystoryAssistant) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/MystoryAssistant) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/MystoryAssistant) ![issues](https://img.shields.io/github/issues/grahamwaters/MystoryAssistant) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. | -->
 
+<h2 align='center'>Projects Currently Under Construction 🏗️</h2>
+
+| **Project Name** | **Status Metrics** | **Focus** | **Est. Completion** |
+|---|---|---|---|
+| [Milton](https://github.com/grahamwaters/Milton) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Milton) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/Milton) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/Milton) | Cross-platform GUI toolkit for “making your things just right” – written in Python with a minimal shell harness. | Q4 2025 |
+| [SceneSort Clustering](https://github.com/grahamwaters/SceneSort_Clustering) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/SceneSort_Clustering) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/SceneSort_Clustering) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/SceneSort_Clustering) | CLIP-powered image / video scene detector that groups footage via DBSCAN / HDBSCAN, then auto-organises your folders. | Beta – Summer 2025 |
+| [WatchMeOS](https://github.com/grahamwaters/WatchMeOS) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/WatchMeOS) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/WatchMeOS) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/WatchMeOS) | Experimental “gesture-first” operating shell that fuses pose-estimation, fuzzy logic & custom templates. | TBD |
+| [density_prompt](https://github.com/grahamwaters/density_prompt) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/density_prompt) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/density_prompt) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/density_prompt) | Research repo exploring prompt‐engineering heuristics vs. token-density for controllable LLM output. | TBD |
+| [RL-GPT](https://github.com/grahamwaters/RL-GPT) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/RL-GPT) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/RL-GPT) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/RL-GPT) | Reinforcement-learning pipeline for fine-tuning GPT-4 style models with custom reward functions. | Prototype – End 2025 |
+| [GrahamsSimulations](https://github.com/grahamwaters/GrahamsSimulations) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/GrahamsSimulations) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/GrahamsSimulations) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/GrahamsSimulations) | Gallery of JS, HTML, CSS & Python mini-sims (physics, AI stick-figures, orbital mechanics, etc.). | Rolling |
+| [PySeas](https://github.com/grahamwaters/PySeas) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/PySeas) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/PySeas) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/PySeas) | NOAA buoy-cam harvester that chases the *perfect sunset* using computer vision & geospatial filters. | Alpha refresh in 2025 |
+| [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai) | Wiki-scraper & JSON builder that bootstraps lorebooks for NovelAI authors. | v1.0 candidate |
+| [UAP Report Analysis](https://github.com/grahamwaters/uap_report_analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/uap_report_analysis) | NLP & data-viz dive into the 2021 UAP disclosure. | Maintenance |
+| [Reddit NLP Analysis](https://github.com/grahamwaters/Reddit-NLP-Analysis) | ![last commit](https://img.shields.io/github/last-commit/grahamwaters/Reddit-NLP-Analysis) | PushShift-powered Reddit text miner for trend sentiment. | Back-burner |
 ---
 
 <h2 align='center'>Keynotes & Presentations 📢</h2>
