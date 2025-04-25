@@ -6,8 +6,6 @@
 
 ---
 
-## Hi There! 👋 Welcome to my GitHub!
-
 <div align='center'>
 My Vita is still in beta, but you can find it by clicking below.
 
@@ -16,7 +14,6 @@ My Vita is still in beta, but you can find it by clicking below.
 
 </div>
 
----
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=grahamwaters&style=flat-square" alt="Profile views" />
